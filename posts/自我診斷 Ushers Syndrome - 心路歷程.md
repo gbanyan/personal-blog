@@ -39,10 +39,10 @@ feature_image: ../assets/photo-1555083031-2cf4be8fce8f.jpg
 
 上課提到了 Alport Syndrome 後，我瀏覽了相關資料，嘗試推敲自身是否符合該疾病。然而，文章末的相關條目 - Usher Syndrome 吸引了目光，我點擊進去閱讀，洞穿事實的冷咧一瞬間襲上心頭，戰慄、不敢置信就這樣駐足在那，在那本該完全陌生卻又那般熟悉的文字前。
 
-> Usher Syndrome摘自Wiki : <https://en.wikipedia.org/wiki/Usher_syndrome>  
->   
-> 罹患該疾病的患者，典型症狀有視網膜色素病變(Retinitis Pigmentosa)，會造成夜盲(Night Blindness)以及漸進的周邊視力喪失(loss of peripheral vision)，並伴隨著聽力損失，平衡也可能受到影響(hearing loss and balance may be affected)。周邊視力喪失會使患者形成隧道狀視野(tunnel vision)  
->   
+> Usher Syndrome摘自Wiki : <https://en.wikipedia.org/wiki/Usher_syndrome>
+>
+> 罹患該疾病的患者，典型症狀有視網膜色素病變(Retinitis Pigmentosa)，會造成夜盲(Night Blindness)以及漸進的周邊視力喪失(loss of peripheral vision)，並伴隨著聽力損失，平衡也可能受到影響(hearing loss and balance may be affected)。周邊視力喪失會使患者形成隧道狀視野(tunnel vision)
+>
 > 主因是基因缺陷，為體染色體隱性遺傳
 
 客觀來說，縱然描述再怎麼吻合，也不能根據自身表現的症狀直接論斷一定是該疾病。如何進一步確診，是看到這些資料後最急迫的想法。Retinitis Pigmentosa 的確診手段，醫生可以使用眼底鏡，以及開立視野儀或視網膜電流圖檢查(Electroretinogram；ERG)，這是目前看起來最確定具體的手段。可是回頭重新檢視Usher Syndrome的資料：
@@ -84,10 +84,10 @@ feature_image: ../assets/photo-1555083031-2cf4be8fce8f.jpg
 
 不過以上是我的個人經驗，目前現行的身心障礙需求鑑定可以參考[政府的說明頁面](http://www8.www.gov.tw/policy/welfare/page_04-04.html)，包括需準備的文件、流程，會更為清楚
 
-> **注意：**  
->   
-> 若障礙類別未登記在政府資料庫，初次申請，則負責診斷的醫師似乎必須開診斷證明書。在身心障礙鑑定門診鑑定完要送資料時才發現醫師沒有開，當下很囧的又掛了一次號請醫師開。  
->   
+> **注意：**
+>
+> 若障礙類別未登記在政府資料庫，初次申請，則負責診斷的醫師似乎必須開診斷證明書。在身心障礙鑑定門診鑑定完要送資料時才發現醫師沒有開，當下很囧的又掛了一次號請醫師開。
+>
 > 身心障礙手冊核發政府作業，最快需要大概一個月的時間，由於我於2015年八月中旬申請，差點趕不上開學得學雜費減免補助申請，這是後話
 
 由於有聽力損失以及視野缺損，我屬於身心障礙中的多重障礙類別，分類屬於重度範疇。於2015年九月拿到身心障礙手冊，上面也會有清楚註解。

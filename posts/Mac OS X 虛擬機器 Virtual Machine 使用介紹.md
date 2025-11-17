@@ -114,7 +114,7 @@ Parallel Desktop 是Mac 用戶裡虛擬機器市佔率最高的軟體，但是�
 
 Parallel Desktop 開關機操作
 
-### 
+###
 
 VMware Fusion 開關機操作
 
