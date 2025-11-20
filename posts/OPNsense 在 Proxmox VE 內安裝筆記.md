@@ -21,7 +21,7 @@ feature_image: ../assets/photo-1520869562399-e772f042f422.jpg
 ## 前言
 
 * 更換了軟路由硬體故順便更新了筆記
-* 此篇繼承了 [Proxmox VE + PfSense 安裝](/posts/proxmox-ve-pfsense-installation-note)
+* 此篇繼承了 [Proxmox VE + PfSense 安裝](/blog/proxmox-ve-pfsense-installation-note)
   + 在 Proxmox VE 內的網路安裝架構仍然類似，皆採用半虛擬化網卡 Virtio Net 的架構
   + 經過測試，Intel J4125 搭配 Intel i225v 網卡， 不用設定網卡直通，也可以跑滿 300M / 100M
 * 更換成 OPNsense 原因有以下考量：
