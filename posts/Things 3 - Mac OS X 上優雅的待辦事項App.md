@@ -28,7 +28,11 @@ Things 開發團隊在經過多年後，終於更新了Mac OS X上的Things App,
 
 [Mac App Store連結，同時有iPhone以及iPad 版，分開收費](https://itunes.apple.com/tw/app/things-3/id904280696?l=zh&mt=12)
 
-![Things3](../assets/Things3.gif)
+<video autoplay loop muted playsinline class="inline-block w-full rounded-lg shadow-md" aria-label="Things 3 操作示範">
+  <source src="../assets/Things3.webm" type="video/webm">
+  <source src="../assets/Things3.mp4" type="video/mp4">
+  您的瀏覽器不支援影片播放。
+</video>
 
 ## 概念探索：專注在「今日」的規劃哲學
 
@@ -58,7 +62,11 @@ Things 3 的作者團隊提到，他們希望的流程為，使用者可以在�
 
 在新增待辦事項的畫面輸入標題後，Tab 可以切到備註以輸入詳細內容，⌘ + T 可以直接將其放到「今日」，或者其他對應時間分類的快速鍵。⌘ + S (Schedule) 可以直接安排更詳細的時間並設定提醒時間（會自動在所有同步的裝置包含iOS裝置跳出通知）。⌘ + Shift + M 可以將其移動到不同的清單。
 
-![AddNewThings3](../assets/AddNewThings3.gif)
+<video autoplay loop muted playsinline class="inline-block w-full rounded-lg shadow-md" aria-label="新增待辦事項示範">
+  <source src="../assets/AddNewThings3.webm" type="video/webm">
+  <source src="../assets/AddNewThings3.mp4" type="video/mp4">
+  您的瀏覽器不支援影片播放。
+</video>
 
 ### 3. 隨時叫出新增視窗，無論有沒有在Things 3 內
 
