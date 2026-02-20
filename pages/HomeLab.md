@@ -14,71 +14,100 @@ authors:
 feature_image: ../assets/photo-1551703599-6b3e8379aa8c.jpg
 ---
 
-記載了 HomeLab 的架設經過及配置
+## 摘要
+這是一套以 Proxmox VE + VyOS + TrueNAS SCALE + Oracle Cloud 組成的家用 HomeLab 架構，核心目標是安全、備份與自架服務。  
+我把網路分層、儲存備援與服務維運分開處理，讓日常使用、異地備份與外網存取都能兼顧。  
+實務上重視可維護性與風險控管，盡量以 CLI / 自動化腳本取代手動 GUI 操作。  
 
-## 硬體
+## 全域架構圖
+```mermaid
+flowchart LR
+  Internet((Internet))
+  Cloudflare[Cloudflare DNS / SSL]
+  Oracle[Oracle Cloud\nUbuntu Server]
+  WG[WireGuard Tunnel]
 
-* 暢網 Intel J4125 四網口小機器
-* 2nd i3-8100 主 HomeLab Server
-  + UMAX DDR4 16G x 2 = Total 32 GB
-  + PCIE 3.0 x 16 NVMe SSD Expansion Card with 4 slots (自帶晶片)
-    - NVMe SSD 500GB x 2
-    - NVMe SSD 1TB x 2
-  + Asrock H370M ITX/ac
-    - 1 SATA SSD for Proxmox VE host
-    - 1 SATA SSD for Temp Download
-    - AQ107 M.2 to 10 Gbps Ethernet Cards
-* Synology NAS
+  subgraph PVE1[Proxmox VE - J4125]
+    VyOS[VyOS Router VM]
+    DNS[AdGuard Home + Unbound]
+    HA[Home Assistant VM]
+  end
 
-i3-8100 是 朋友換機後收來的，後來深入研究後，發現竟然是同一系列少數支援 ECC Memory 的型號，但後來沒有特別去搞
+  subgraph LAN[Home LAN]
+    Clients[Client Devices]
+    IoT[IoT Devices]
+    Svc[Self-hosted Services]
+  end
 
-會選中 i3-8100， 主要是長時間的待機功耗與所需效能間平衡點的考量。雖然可以選 N100 但是擴充性不佳，且新品不若 i3-8100 便宜。核心數或時脈再上去的 CPU 則待機功耗會增加。目前評估，這是現階段 HomeLab 耗電與效能間的最佳平衡。
+  subgraph TN[TrueNAS SCALE - Ryzen 7 PRO 4750G]
+    ZFS[ZFS Pools\nRAID10 + LargeData]
+    Apps[Apps / Backup Relay]
+  end
 
-會選這張主機板，是看中有兩個網路孔，可以當作軟路由使用，不過朋友贈送一台 J4125 小機器，故主機暫時未充當軟路由的角色。未來應該是看誰先壞掉，J4125 小機器壞掉的話這台就可以繼續以 Proxmox VE 的 VM image 備份檔直接接手軟路由功能。
+  Internet --> Cloudflare
+  Internet --> VyOS
 
-為了塞進去機櫃不充裕的空間，選了 ITX 主機板，結果擴充時綁手綁腳。四顆 NVMe SSD 擴充卡已經佔掉了唯一的 PCIE 3.0 x 16 插槽，想擴充 10Gbps 網路時，竟然成功硬幹，從淘寶買了一張 M.2 介面 轉 10Gbps 的網路卡，順利啟用 PCIE 3.0 x 4 的頻寬，真的是很神奇的一件事。
+  Cloudflare --> Svc
+  VyOS --> DNS
+  VyOS --> HA
+  VyOS --> Clients
+  VyOS --> IoT
+  VyOS --> TN
 
-## 軟體規劃
+  TN --> ZFS
+  TN --> Apps
+  Apps --> Svc
 
-HomeLab server 目的有：
+  Oracle --- WG
+  WG --- VyOS
+```
 
+## 用途
 * 自架服務，如廣告 DNS Block、智慧家庭、多媒體音樂、相簿、程式碼 Repo、密碼庫及其他
-* 備份中介站，Syncthing 常駐以隨時與其他裝置串接同步
-* 暫時性外網檔案分享區，避免在外面電腦登入 Google Drive, Microsoft Onedrive 等敏感性帳號的風險
+* 備份中介站
+* 暫時性外網檔案分享區，避免在外面電腦登入 Google Drive, Microsoft OneDrive 等敏感性帳號的風險
 * 內網 Samba 分享服務
 * 其他需長期執行，不適合桌面 PC 長時間開機，增加耗電的程序，如爬蟲、下載等
+* 有些人 Self-hosted 還會玩追劇、追番、影片自動整理等等，但是我真的沒時間看那麼多多媒體，我覺得光 Netflix 就夠我看了 ~~儘管我覺得他的翻譯品質真的有夠~~
+## 架構
+* Proxmox VE
+	* 硬體: 
+		* 暢網 Intel J4125 四網口工控機
+		* DNS Stack (Unbound + AdGuard Home)
+	* Home Assistant in VM
+	* VyOS in VM, as Router
+* TrueNAS SCALE
+    - 硬體: 
+        - CPU: AMD Ryzen 7 PRO 4750G (8C/16T)
+        - 主機板: ASUS ROG STRIX X570-E GAMING WIFI II
+        - 記憶體: Kingston DDR4 32GB x 4（共 128GB，2800 MT/s）
+        - 網路介面: Realtek RTL8125 2.5GbE、Intel I211 1GbE、Mellanox ConnectX EN 10GbE
+        - 開機碟: TEAM T253512GB SATA SSD
+        - ZFS Pool: 
+            + PCIE 3.0 x 16 NVMe SSD Expansion Card with 4 slots (自帶拆分晶片)
+              - NVMe SSD 500GB x 2
+              - NVMe SSD 1TB x 2
+            - 12TB HDD x3 + 8TB HDD x2
+    - 主要 NAS, 備份, Self-hosted Apps Provider
+- Oracle Cloud
+## 特殊紀錄
+* VyOS 替代掉原先的 OPNsense VM, 因為 PPPoE 效能略輸，且越來越覺得不需要這麼重的 GUI
+	* 在家中建立了 VLAN 隔離了無線網路 IoT, 家中兩老一直抱怨更新介面找不到東西不想更新，然後又常常亂逛，我真的超怕惡意程式入侵
+	* PPPoE 我為了在外存取方面，有申請固定 IP, 但是發現在特定時段，這條線路連常用服務如 Apple, Netflix...會比較慢, 所以後來在 VyOS 使用了雙 WAN, 並寫了 script ，使用 PBR 切換
+	* DNS Stack 除了 Adguard Home 過濾廣告、惡意域名外，還另外寫了 Warm up script 來定時更新常被查詢的 DNS Record 加快查詢速度
+	* 就算在內網，我也還是透過 Cloudflare API 以及 Caddy, Traefik 的簽發憑證方式，給 Self-hosted App 套上自己的域名
+		* VyOS 有機會使用 VPP 向量來加速轉發，但是目前 VyOS CLI 還不支援 PPPoE 使用 VPP 的操作。待未來整合進去。
+* 原先的 Synology NAS 被我拿去跟朋友交換回來一台二手機器，然後改採 TrueNAS 架構，原因是我真的比較用不到 Synology 內建的 UI 以及相關的應用程式
+* TrueNAS 是備份中轉站，除了是大量檔案備份處，所有的重要檔案都會有一份在本地，另外一份透過內建的工具與 OneDrive 同步，落實異地備份原則
+* Oracle Cloud 透過 WireGuard 與本地網路相連接，有部分 Self-hosted 放在 Oracle Cloud 但是不對外暴露，僅放在 WireGuard Interface 上，類似 Tailscale
+> VyOS, TrueNAS, 以及 Oracle Cloud (Ubuntu Server), 這套架構的管理，我漸漸交給 LLM Coding Agent, 去做，剛好 VyOS 以及 TrueNAS 都有 CLI, 所以我可以指揮 Coding Agent 與他們互動並最佳化設定，可以不用透過 GUI 介面
 
-HomeLab 有人玩到自動追劇、新動畫番自動下載歸類、還有其他有的沒有的，
-雖然以前曾經會花時間試有的沒有的 Self-hosted Service, 如記帳、家庭物料整備整理等等，不過現在偏向收斂，維持必要服務運行。
-
-### 服務架構
-
-不談太多細節，僅列出核心
-
-* 對外 PPPoE 撥號及防火牆以 OPNSense 運行，虛擬化在 Proxmox VE 上，運行在 J4125 機器上
-  + 規劃 VLAN區隔子網段，並分別配置防火牆規則，將內外網分離
-  + 訂閱 Firehol IP 清單，阻隔威脅
-  + Unbound DNS 啟用訂閱 Block 清單，為家裡人網路多一份保障
-* Home Assistant OS 虛擬化運行在 Proxmox VE 上
-  + 提供家庭裝置基本儀表板，可連結空調、蘋果裝置、智慧螢幕、路由器、智慧開關等
-  + 可配合手機 App 設定位置偵測及觸發條件，例如一出門就自動關閉智慧開關、冷氣配合室外溫度自動設定目標溫度等
-* 主 HomeLab Server (i3-8100) 配合內外網 VLAN ，在 Proxmox VE Bridge 上設定 VLAN 以及各 LXC 上設定 Tag
-  + 各服務使用 Caddy or Traefik + Cloudflare DNS API ，一律在 Reverse Proxy 上自訂網域及自動申請對應 SSL憑證
-  + 高度安全性需求，無必要對外暴露服務，一律僅限內網存取，在外行動透過 VPN 連回
-    - ssh-remote 遠端桌機 Linux 開發
-    - Vaultwarden 密碼庫服務
-    - Samba 檔案存取...
-  + 對外暴露服務，如與他人分享的 git repo Gitea, 暫時存放檔案的 filebrowser, 個別 LXC 指定外網 VLAN Tag, 並設定防火牆條件令他們無法存取內網
-* 在主 Proxmox VE Server 上面設定 ZFS Pool，四顆汰換下來的 SSD 組成 RAID 10 陣列
-  + 所有 LXC 及 VM image 的主儲存區
-  + 內網 Samba 的檔案儲存區
-  + 以 Memory 當作 Arc Cache
-* 所有 Proxmox VE 虛擬化的 VM 跟 LXC image ，設定每日深夜自動備份至 Synology NAS
-  + Proxmox VE 的虛擬化，讓 LXC Container Image 如果遭到攻擊或感染，也不會影響到其他 Container 及備份主機
-  + 已經有多次因為更新或者更改配置導致服務掛掉，直接從備份救回的例子
-  + Synology NAS 由於是傳統 HDD，精神是以 SSD 為日間主要服務載體，然後至夜間由 Synology NAS 接手備份及上傳至雲端，在深夜時段由於睡眠故可放心頻寬佔用
-* 以服務時段來分配設備自動開關機排程，達到省電節約能源目的
-  + Synology NAS 內存放的是長期冷儲存檔案或者保存之媒體檔案
-  + 以時段來說為周六日才較有機會存取，故安排六日之外其餘時間只有深夜開機
-  + 深夜開機主要負責 Proxmox VE 備份及雲端上傳服務
-  + Synology NAS 效能不一定是最好，但是所有設備中最穩定的，故擔任家用備份終端點任務
+## 關鍵字參考資料
+* [VyOS Documentation](https://docs.vyos.io/en/latest/)
+* [TrueNAS Documentation](https://www.truenas.com/docs/)
+* [Proxmox VE Documentation](https://pve.proxmox.com/pve-docs/)
+* [OpenZFS Documentation](https://openzfs.github.io/openzfs-docs/)
+* [WireGuard Documentation](https://www.wireguard.com/)
+* [AdGuard Home Wiki](https://github.com/AdguardTeam/AdGuardHome/wiki)
+* [Unbound Documentation](https://nlnetlabs.nl/documentation/unbound/)
+* [Home Assistant Documentation](https://www.home-assistant.io/docs/)
