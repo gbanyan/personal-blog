@@ -12,6 +12,10 @@ published_at: '2025-03-22T14:48:03.000Z'
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1551703599-6b3e8379aa8c.jpg
+nav_category: device
+nav_label: HomeLab
+icon: server
+hero: homelab
 ---
 
 ## 摘要
