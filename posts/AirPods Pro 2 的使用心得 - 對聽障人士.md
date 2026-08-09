@@ -43,7 +43,7 @@ feature_image: ../assets/photo-1603351154351-5e2d0600bb77.jpg
 
 ## 依據聽力圖調整模式
 
-![](../assets/AirPods_Pro2_Hearing.jpeg)
+![iPhone 耳機音訊設定，已開啟耳機調節並選用聽力圖](../assets/AirPods_Pro2_Hearing.jpeg)
 
 * 找到耳機調節 > 聽力圖，根據說明將之前聽力檢查的分貝數依據填入
 * 不過我的聽力圖有部分缺失，只能自行猜測，填入較保守的數據

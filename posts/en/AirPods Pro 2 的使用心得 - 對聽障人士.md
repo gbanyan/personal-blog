@@ -46,7 +46,7 @@ I didn't expect that trying them would feel like discovering many new worlds.
 
 ## Adjustment Mode Based on Audiogram
 
-![](../assets/AirPods_Pro2_Hearing.jpeg)
+![iPhone Headphone Audio settings with Headphone Accommodations enabled and Audiogram selected](../assets/AirPods_Pro2_Hearing.jpeg)
 
 * Go to Headphone Accommodations > Audiogram, and follow the instructions to enter the decibel numbers from previous hearing tests.
 * However, parts of my audiogram are missing, so I had to guess and enter more conservative data.
