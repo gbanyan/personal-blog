@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/Clerkship - 眼科門診驚魂記"
-title: Clerkship - 眼科門診驚魂記
+title: Clerkship - A Frightening Experience in the Ophthalmology Clinic
 slug: clerkship-ophthalmology-opd-shock
 ghost_id: 67e4091330b410000153718c
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-26T14:02:59.000Z'
 updated_at: '2025-03-26T14:07:41.000Z'
 published_at: '2017-03-17T23:26:00.000Z'
-custom_excerpt: 標題說驚魂記，其實也沒有這麼驚悚，不過印象很深刻，所以就順手記錄了一下。
+custom_excerpt: The title says a frightening experience; actually it wasn't that terrifying, but it left a deep impression, so I conveniently jotted it down.
 tags:
 - Medicine - 醫學
 authors:
@@ -19,76 +20,76 @@ authors:
 feature_image: ../assets/oph.jpg
 ---
 
-標題說驚魂記，其實也沒有這麼驚悚，不過印象很深刻，所以就順手記錄了一下。
+The title says a frightening experience; actually it wasn't that terrifying, but it left a deep impression, so I conveniently jotted it down.
 
-在眼科門診，除了眼睛的問題還是眼睛的問題（這不是廢話嗎），看不到、眼睛霧霧的、畏光、小孩斜視、青光眼等等，在門診坐在旁邊當一個沒路用的Clerk久了，會很希望繁忙的主治醫師多跟你講講話，或是起來接個初診先幫忙問一下主訴病史，緩解一點看診醫師的時間壓力。
+In the ophthalmology clinic, besides eye problems, it's still eye problems (isn't that obvious?): inability to see, blurry vision, photophobia, strabismus in children, glaucoma, and so on. After sitting on the sidelines in the clinic for a long time as a useless Clerk, you really hope the busy attending physician will talk to you a bit more, or that you can get up and take a new patient to help ask about their chief complaint and medical history, alleviating some of the time pressure on the attending physician.
 
-偶爾，碰到幾個比較熱心教學的醫師，會特地打開slit lamp的攝影鏡頭，在螢幕上跟你講解一下Findings, 或者是看完後，特地跟病患說一下有實習醫師想練習看眼底鏡，然後就可以一蹦而起去外面找病人看眼底鏡，雖然也很不容易看到什麼，但起碼有練習到。但是說實在...如果將來沒有想走眼科，久了一再反覆的Case真的會很無聊，只好一再催眠自己至少可以學習醫病溝通。
+Occasionally, you encounter a few physicians more enthusiastic about teaching. They might specifically turn on the slit lamp camera to explain the Findings to you on the screen, or after finishing the examination, specifically tell the patient that a medical student would like to practice looking through the ophthalmoscope. Then you can jump right up and go outside to find the patient to practice with the ophthalmoscope. Although it's still not easy to see anything, at least you get some practice. But honestly... if you don't plan to go into ophthalmology in the future, the repetitive Cases over time will really get boring. You just have to repeatedly hypnotize yourself that at least you can learn doctor-patient communication.
 
-故事就發生在一個本該這樣度過的平凡下午。
+The story took place on an ordinary afternoon that should have passed just like this.
 
-### Conscious Disturbance 意識障礙的病患
+### Conscious Disturbance
 
-一位年約60的老人，無家人陪同，走進診間差點跌倒，在診間護理師的攙扶之下坐定，一開始還可以略微回答看診醫師的問題，但是當醫師使用slit lamp看完他的眼睛以後，跟他解釋病情狀況，他卻越來越無法回應，甚至只剩一點咕噥。診間人員看情況不對，因為Underly有糖尿病，懷疑是血糖過低先給他一顆糖。然後讓他躺在診間的床上。
+A roughly 60-year-old man, unaccompanied by family, walked into the clinic and almost fell. With the support of the clinic nurse, he sat down. Initially, he could somewhat answer the attending physician's questions, but after the physician finished examining his eyes using the slit lamp and explained his condition, he became increasingly unable to respond, eventually reduced to mere mumbles. Seeing that the situation was wrong, and knowing his underlying condition included diabetes, the clinic staff suspected hypoglycemia and first gave him a piece of candy. Then they let him lie down on the bed in the examination room.
 
-結果這位阿伯因為渾身無力不能自行站起，原本只會在旁邊耍廢的Clerk趕快捲起袖子，一起跟學長使勁把他搬到床上。病人此時已經對外界話語幾無回應。
+As a result, because this elderly man was weak all over and couldn't stand up on his own, the Clerk who originally only sat on the sidelines being useless hurried to roll up his sleeves, exerting effort together with the senior resident (學長) to move him onto the bed. By this time, the patient was almost unresponsive to external voices.
 
-診間護理師也在此時受命聯絡病歷記載的緊急聯絡電話，希望有家人能夠前來。
+The clinic nurse was also instructed at this time to contact the emergency contact number recorded in the medical chart, hoping a family member could come over.
 
-撥出中：「嘟...嘟...嘟...」
+Calling: "Do... do... do..."
 
-「喂？」
+"Hello?"
 
-「你好，請問是XXX先生的家屬嗎？」
+"Hello, may I ask if this is Mr. XXX's family?"
 
-「是」
+"Yes."
 
-「XXX先生剛剛在成大醫院看診的時候，可能因為血糖過低昏倒了，有沒有人能夠來成大醫院呢？」
+"While Mr. XXX was being examined at National Cheng Kung University Hospital just now, he may have fainted due to hypoglycemia. Is there anyone who can come to the hospital?"
 
-「啊？可是我還在工作耶，沒有空耶」
+"Ah? But I'm still working, I don't have time."
 
-「......」
+"......"
 
-（以上省略現場人員部分訐譙）
+(Omitting the cursing by the on-site staff here)
 
-好吧，暫時沒有家屬支援，門診又還有一堆病患，看診的醫師很傷腦筋。此時前來支援，英明的學長檢查了一下手臂。
+Alright, temporarily without family support, and with a bunch of patients still waiting in the clinic, the attending physician was quite troubled. At this time, the wise senior resident who came to assist checked his arm.
 
-「他有血液透析管路，不能排除電解質失衡的問題！」
+"He has a hemodialysis access; we cannot rule out an electrolyte imbalance!"
 
-### Emergency Room 前往急診室
+### Emergency Room
 
-學長與看診醫師討論後，決定幫他掛急診，留置觀察。於是現場人員各頭分工，護理師打電話叫輪椅，學長打電話給急診交班，打電話的同時，像我瞄了一眼。
+After discussing with the attending physician, the senior resident decided to register him for the emergency room for observation. So the on-site staff divided the work: the nurse called for a wheelchair, and the senior resident called the emergency room to hand over the case. While making the call, he glanced at me.
 
-咦？奇怪，我怎麼渾身開始冒冷汗？
+Huh? Strange, why am I starting to break out in a cold sweat all over?
 
-「學弟，因為病人沒有家屬陪同，等一下你就幫忙護送病人到急診室吧」
+"Junior (學弟), since the patient is unaccompanied by family, please help escort the patient to the emergency room in a moment."
 
 ![face-640438_1280](../assets/face-640438_1280.png)
 
-什麼！！！
+What!!!
 
-正當我點點頭，驚訝還沒回復時，學長轉頭繼續跟急診交班：
+Just as I nodded, before my shock had recovered, the senior turned back and continued his handover to the ER:
 
-「一名糖尿病病人，有洗腎，剛剛在眼科診間有Concious Disturbance，我們會派一個學生護送他過去，他有基本知識在路上可以monitor」
+"A diabetic patient, on dialysis, just had Conscious Disturbance in the ophthalmology clinic. We'll send a student to escort him over; he has basic knowledge and can monitor him on the way."
 
-等等等什麼是基本知識啊啊啊，該不會是ACLS那些的，我可還沒考過證照啊啊啊，你怎麼就這樣放心的把病人交給我了啊啊啊啊，你確定就這樣以「我相信你」鎮定自若的表情看著一個無限惶恐的Clerk是對的嗎嗎嗎嗎！！！
+Wait wait wait, what is basic knowledge ahhh, could it be ACLS and stuff? I haven't even passed the certification yet ahhh. How could you safely hand the patient over to me like this ahhhh? Are you sure looking at an infinitely panicked Clerk with a calm "I believe in you" expression is right right right?!!!
 
-「好的，學長，我等一下去急診有什麼要交班的嗎？」---->與上面內心OS嚴重不符的假裝鎮定
+"Okay, senior, is there anything I need to hand over when I go to the ER later?" ----> Pretending to be calm in serious contradiction to the internal monologue above.
 
-「喔，他家屬剛剛聯絡到太太了，等一下太太會趕過來，他今天已經看完眼科的部分了，下次回診的掛號預約單就拜託你轉交給急診處了」
+"Oh, his family just managed to contact his wife, she will rush over later. He has already finished the ophthalmology part today, so please hand over the appointment slip for his next follow-up visit to the emergency department."
 
-將病人搬下床坐到輪椅上，隨後在看診醫師與學長的「就拜託你了」聲中，抬頭挺胸地護送病人前往急診了。
+Moving the patient down from the bed and onto the wheelchair, followed by the "we're counting on you" from the attending physician and the senior resident, I escorted the patient to the emergency room with my head held high.
 
-### 返回診間及後話
+### Returning to the Clinic and Afterword
 
-一路上還好沒有出什麼大事，病人安安穩穩的被護送到急診，簡單配合急診作個檢傷分類問診後，確認他被推入急診病房以後，就自行返回眼科門診了。看診醫師看到我回來很高興，表示眼科要幫我加分（YA~開小花～～），不過我倒是很慚愧，整個過程中除了出力以外沒有幫什麼忙就是了。
+Fortunately, nothing major happened on the way. The patient was safely escorted to the emergency room. After simply cooperating with the ER for a triage interview and confirming he was pushed into the emergency ward, I returned to the ophthalmology clinic on my own. The attending physician was very happy to see me back, expressing that ophthalmology would give me extra points (YA~ scattering flowers~~), but I felt rather ashamed, as apart from exerting physical effort, I didn't actually help much throughout the whole process.
 
-過了一兩個小時，離開門診準備要回家時聽到眼科診間人員問醫師：
+An hour or two later, as I was leaving the clinic and getting ready to go home, I heard the ophthalmology clinic staff ask the physician:
 
-「剛剛那個送到急診的病人意識恢復了，是血糖太低的關係，他醒過來嚷嚷說，要回來我們這邊繼續看診」
+"That patient sent to the ER earlier has regained consciousness. It was because his blood sugar was too low. When he woke up, he clamored that he wanted to come back to us to continue his appointment."
 
-「啊我們都幫他看完下次門診的預約單都交給他啦，他那時候意識不清跟他說什麼都不記得了」
+"Ah, we already finished seeing him and handed his appointment slip for the next visit to him! He was unconscious at the time and won't remember anything we told him."
 
-莞爾一笑，抱著不知從何而來的好心情回家去了。
+I smiled knowingly and went home with an inexplicable good mood.
 
-> 提醒大家，看診時，如果自身疾病有發生緊急狀況的疑慮，或是預期會做的檢查中會影響交通行動，如眼科的散瞳劑檢查，由於會影響視力，最好還是有親朋好友陪同前來。
+> A reminder to everyone: When seeing a doctor, if there is a concern that your own illness might cause an emergency situation, or if the anticipated tests will affect your mobility—such as the mydriatic examination in ophthalmology, which affects vision—it is best to be accompanied by family or friends.

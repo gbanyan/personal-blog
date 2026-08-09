@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/實習醫師 Intern 的日子 - 神經內科心得"
-title: 實習醫師 Intern 的日子 - 神經內科心得
+title: The Days of an Intern - Neurology Reflections
 slug: internships-neurology
 ghost_id: 67e416b430b4100001537237
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-26T15:01:08.000Z'
 updated_at: '2025-03-26T15:05:34.000Z'
 published_at: '2017-07-06T00:01:00.000Z'
-custom_excerpt: 在神經內科的一個月，不論是學識上的鍛鍊，還是心境上的轉變，都在忙碌的生活中，收穫滿滿。
+custom_excerpt: During my one month in the Neurology department, whether it was the honing of academic knowledge or the transformation of my state of mind, I reaped abundant rewards amidst a busy life.
 tags:
 - Medicine - 醫學
 - Writings - 創作
@@ -20,20 +21,20 @@ authors:
 feature_image: ../assets/107215-1180x650.jpg
 ---
 
-在神經內科的一個月，不論是學識上的鍛鍊，還是心境上的轉變，都在忙碌的生活中，收穫滿滿。
+During my one month in the Neurology department, whether it was the honing of academic knowledge or the transformation of my state of mind, I reaped abundant rewards amidst a busy life.
 
-回顧初來到神經內科的日子，接手一位病歷書寫診斷為 TB meningitis 的病人，似懂分懂得按照交班以及照會的指示繼續施打抗生素，卻被主治醫師苦口婆心地訓了一頓，爾後檢視可能的診斷思路，包含病史、Lab data 中 CSF Total protein, Glucose, 以及Pleocytosis。這個病人比較特別的是，開始施打針對TB的抗生素後病人的Neuro symptoms 在一個禮拜內有進步，但是在住院後第二個禮拜再抽一次 CSF, Total protein 和 Pleocytosis 卻反而略微增高。
+Looking back on my early days in Neurology, I took over a patient whose medical record documented a diagnosis of TB meningitis. Half-understanding, I continued to administer antibiotics according to the handover and consultation instructions, only to receive an earnest reprimand from the attending physician. Afterwards, we reviewed the possible diagnostic reasoning, including the medical history and Lab data for CSF Total protein, Glucose, and Pleocytosis. What made this patient peculiar was that after starting TB-specific antibiotics, the patient's Neuro symptoms improved within a week; however, when CSF was drawn again in the second week of admission, Total protein and Pleocytosis had actually increased slightly.
 
-在月初交班之際，老師查房再做一次 Neuro Examination, 發現有 Gait disturbance and Dysmetria on FNF test, 但沒有 Nystagmus, 由於病人 Underly 有酗酒。主治在原先的主 impression TB meningitis r/o Virus meningitis 之外，又加了 Wernicke's encephalopathy 的DDx. 並鼓勵我查 Wernicke's encephalopathy的 CSF Data 文獻。不過感染科照會看過以後仍然較傾向為 TB meningitis, 並附上文獻佐證猜想CSF data 異常升高可能為 Paradoxical Response. 為身體對 macrophage內 TB 菌物質被釋出後的反彈免疫反應，所以建議繼續打抗生素。
+During the handover at the beginning of the month, the teacher performed another Neuro Examination during ward rounds and found Gait disturbance and Dysmetria on FNF test, but no Nystagmus. Since the patient had an underlying history of alcoholism, the attending added Wernicke's encephalopathy to the DDx alongside the original primary impression of TB meningitis r/o Virus meningitis, and encouraged me to look up literature on CSF Data in Wernicke's encephalopathy. However, after the Infectious Disease consultation, they still leaned towards TB meningitis, providing literature to support the conjecture that the abnormal elevation in CSF data might be a Paradoxical Response—a rebound immune reaction of the body to the release of TB bacterial material from within macrophages—thus recommending the continuation of antibiotics.
 
-在這個 Case 中，除了診斷思路、EBM Based 的應用以外，我還體驗到了整個醫療團隊嚴謹運作的全貌。儘管 Intern 在團隊裡面比較底層，算是負責執行的角色，但是比起 Clerk, 身在團隊裡面更有具體的參與感，更能聆聽各方綜合學識經驗的闡述，而非片面地從病歷瞭解病程演繹的故事。實習醫師最幸福的，莫過於仍舊保有白紙般的純淨，透過執行，去學習每位資深醫師浸淫多年的精華吧！
+Through this case, in addition to diagnostic reasoning and the application of EBM Based medicine, I also experienced the full picture of a medical team's rigorous operations. Although an Intern is relatively at the bottom of the team, functioning more in an executional role, compared to a Clerk, being in the team offers a much more concrete sense of participation. I could listen to the exposition of comprehensive academic knowledge and experience from all sides, rather than just one-sidedly understanding the story of disease progression from the medical chart. The greatest blessing for an intern is perhaps still retaining the purity of a blank slate, learning the essence steeped over years by every senior physician through execution!
 
-承擔照顧病人的責任，開始應用所學，與病人解釋病情、診斷以及治療計畫。從一開始的畏怯，到稍微自在面對病人家屬並面對問題，雖遠不比學長姐從容，但是也開始依據經驗，給予安心的回覆，卻又不失告知醫療風險有所進退的餘地。在照顧住院病人期間，有一個讓我印象深刻的案例，93 y/r 老伯，主訴 Acute onset 右側偏癱，在CT 卻同時看到 SDH, 跟小片小腦 Infarction ，急診交班時告知神經外科認為比較像中風的症狀，且 SDH的部分由於年紀等風險，不建議開刀，故送上來病房。
+Shouldering the responsibility of patient care, I began to apply what I had learned, explaining medical conditions, diagnoses, and treatment plans to patients. From my initial timidity to facing patient families and addressing problems slightly more comfortably, although I was nowhere near as composed as my seniors, I also began to give reassuring replies based on experience, while still retaining the leeway to inform them of medical risks. While caring for inpatients, there was one case that left a deep impression on me: a 93 y/r gentleman whose chief complaint was Acute onset right-sided hemiplegia. However, the CT simultaneously revealed an SDH and a small area of cerebellar Infarction. During the ER handover, we were informed that Neurosurgery thought the symptoms looked more like a stroke, and regarding the SDH, due to risks such as his age, surgery was not recommended; hence, he was sent up to the ward.
 
-本來在心裡都規劃好中風相關評估作業以及可能對家屬要解釋的部分，沒想到上來咳嗽有痰嗆咳、發燒，肺部浸潤，加上 Conscious 並未完全 Clear 甚至有變差，左邊也出現Muscle Power 下降，當下焦急如焚，腦中閃過模糊的 IICP Sign、Cushing's triad 評估, 病人血壓確實升高，心跳有變慢，但是卻又不太會繼續處理。
+I had already mapped out the stroke-related assessment tasks and what I might need to explain to the family in my mind. Unexpectedly, upon coming up, he presented with a productive cough, choking, fever, and pulmonary infiltrates. Furthermore, his Conscious state was not entirely Clear and was even deteriorating, and Muscle Power on his left side also began to decline. In that moment, I was burning with anxiety; vague thoughts of IICP Sign and Cushing's triad assessments flashed through my mind. The patient's blood pressure had indeed risen, and his heart rate had slowed, but I didn't quite know how to proceed with treatment.
 
-由於當時是神經內科 Ward Run meeting, 學長姐都在裡面，無法直接求援。判斷有可能需要神經外科醫師接手後就直接 Call 白班照會醫師解釋 Conscious 以及 Muscle Power 惡化的狀況請他趕快過來看。由於家屬已經到了現場，儘管對目前狀況在醫學上不知從何解釋，慌亂至極，但是不知道從何而來的勇氣，我盡力跟家屬解釋目前狀況不樂觀，坦白有可能並非簡單的中風處置可以治療，目前內科住院方面我們會盡力控制肺部感染的部分，而出血的部分會請神經外科醫師來再評估看看。神外醫師來以後更詳細與家屬共同討論，家屬決定不開刀並簽DNR。
+Because the Neurology Ward Run meeting was taking place at the time and all the seniors were inside, I could not call for help directly. Judging that a neurosurgeon might need to take over, I directly called the day-shift consulting physician, explained the deterioration in Conscious state and Muscle Power, and asked him to come over quickly. Since the family was already on site, even though I didn't know how to medically explain the current situation and was in extreme panic, a surge of courage from somewhere unknown allowed me to try my best to explain to the family that the current situation was not optimistic. I frankly stated that this might not be curable with simple stroke management. For the internal medicine admission aspect, we would do our best to control the lung infection, while for the bleeding aspect, we would ask a neurosurgeon to come evaluate it again. After the neurosurgeon arrived and discussed it in more detail with the family, the family decided against surgery and signed a DNR.
 
-我必須承認，在家屬面前，被問到病人未來會怎麼樣、急救時可能會遭受的痛苦時，手腳可能都在發抖。但是醫師必須是狂風駭浪裡的燈塔，想到如果披著白袍的自己都不夠鎮定，又怎麼能讓家屬安心呢？壓住自己內心的不安，說服家屬盡人事的部分，以及真的留不住的話，讓他少受一些痛苦，讓家屬提早接受。幸好，在幾天以後，可能是抗生素治療好肺炎退燒，這位老伯的意識以及左邊癱瘓就恢復到以前的水準了，只剩右邊Muscle power 仍舊有所下降。隨著狀況穩定，就轉到神外門診了。準備出院時，可能是因為比原先期待的好很多，家屬不停地道謝。
+I must admit that in front of the family, when asked what would happen to the patient in the future and the suffering he might endure during emergency resuscitation, my hands and feet were probably trembling. But a doctor must be a lighthouse amidst raging winds and waves; thinking that if I, wearing a white coat, couldn't even remain composed, how could I reassure the family? I suppressed my own inner unease, persuaded the family about the parts where we could only do our human best, and suggested that if he truly could not be saved, we should let him suffer less, helping the family to accept this earlier. Fortunately, a few days later, perhaps because the antibiotics successfully treated the pneumonia and brought down the fever, the gentleman's consciousness and left-sided paralysis recovered to their previous levels, leaving only the right-sided Muscle power still somewhat reduced. As his condition stabilized, he was transferred to the Neurosurgery outpatient clinic. When preparing for discharge, probably because things turned out much better than originally expected, the family thanked us incessantly.
 
-如果說，以前 Clerk 是在眺望山谷之壯闊，當 Intern 後，時時有自懸崖頂上走過的危機感，而這個病患，是最接近懸崖頂端的一次，當時的心跳聲還有家屬的道謝聲，到現在仍舊在耳邊嗡嗡作響。
+If one could say that being a Clerk in the past was like gazing at the majesty of a valley from afar, becoming an Intern brings a constant sense of crisis, like walking along the edge of a cliff. And this patient was the time I came closest to the cliff's edge; the sound of my heartbeat back then, along with the family's voices of gratitude, are still buzzing in my ears to this day.

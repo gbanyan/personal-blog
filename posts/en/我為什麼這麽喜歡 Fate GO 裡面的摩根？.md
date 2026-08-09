@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/我為什麼這麽喜歡 Fate GO 裡面的摩根？"
-title: 我為什麼這麽喜歡 Fate GO 裡面的摩根？
+title: Why Do I Love Morgan in Fate/GO So Much?
 slug: why-i-love-morgan-in-the-fgo-so-much
 ghost_id: 67e4da4bc5a22a000135468c
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-27T04:55:39.000Z'
 updated_at: '2025-03-27T05:08:34.000Z'
 published_at: '2023-05-02T05:28:00.000Z'
-custom_excerpt: 台版 Fate Grand Order 是從大學以來，唯一一個一直有在玩的手機遊戲，雖然中間曾經有怠惰期，最嚴重連續幾個禮拜沒有登入，或者連續跳過兩三個活動沒有打，但放在手機桌面，心情回復後還是多少會登入點一下。
+custom_excerpt: The Taiwanese version of Fate/Grand Order is the only mobile game I have consistently played since college. Although I've had periods of lethargy—the most severe being consecutive weeks without logging in, or skipping two or three events in a row—I keep it on my phone's home screen, and whenever my mood recovers, I invariably log in to tap around a bit.
 tags:
 - Writings - 創作
 - Game - 遊戲
@@ -20,70 +21,70 @@ authors:
 feature_image: ../assets/photo-1440711085503-89d8ec455791.jpg
 ---
 
-台版 Fate Grand Order 是從大學以來，唯一一個一直有在玩的手機遊戲，雖然中間曾經有怠惰期，最嚴重連續幾個禮拜沒有登入，或者連續跳過兩三個活動沒有打，但放在手機桌面，心情回復後還是多少會登入點一下。
+The Taiwanese version of Fate/Grand Order is the only mobile game I have consistently played since college. Although I've had periods of lethargy—the most severe being consecutive weeks without logging in, or skipping two or three events in a row—I keep it on my phone's home screen, and whenever my mood recovers, I invariably log in to tap around a bit.
 
-## 前情提要
+## Prologue
 
-* *以下文章開始有雷*
-* Fate Grand Order 的世界觀延續 Fate Stay Night 遊戲、動畫相關創作的設定：
-  + 在此世界觀中，「御主」可以行使召喚契約召喚英靈為之戰鬥
-  + 英靈來源存在於「英靈座」，有可能是古代戰功彪炳的戰士、大殺四方的帝王，或者存在於神話傳說的神明、魔術師等等，後來延伸到近代知名的創作家、影響歷史深遠的科學家也有可能。
-  + 英靈的不同面向、不同能力特化、或者不同的故事軼聞，都有可能化作英靈座上記載的不同形象，可以化作不同職階被召喚。甚至被背叛、黑暗、被仇怨纏身的一面，也有可能被特殊召喚成反英靈。
-  + 原先 Fate Stay Night 僅設定為在遠東日本一都市地區的召喚系統，目的為透過七騎英靈的相互爭鬥完成魔法儀式，完成後御主則可以透過戰敗英靈魔力灌注的聖杯，許下「萬能願望」
-  + Fate Grand Order 則將此召喚系統進一步延伸，玩家扮演召喚英靈拯救世界危機的御主，然後穿梭在不同世界遇見不同的英靈角色。
+* *Spoilers ahead.*
+* The worldview of Fate/Grand Order continues the settings from the Fate/stay night games, anime, and related works:
+  + In this worldview, "Masters" can perform summoning contracts to summon Heroic Spirits to fight for them.
+  + Heroic Spirits originate from the "Throne of Heroes" and could be warriors with glorious ancient battle records, emperors who conquered far and wide, or gods and magi existing in myths and legends. Later, this extended to well-known modern creators and scientists who deeply impacted history.
+  + Different facets of a Heroic Spirit, different specializations of their abilities, or different anecdotal stories can manifest as different personas recorded on the Throne of Heroes, allowing them to be summoned in different classes. Even their betrayed, darkened, or vengeance-ridden sides can be specially summoned as Anti-Heroes.
+  + Originally, Fate/stay night was set merely as a summoning system in a single urban area in the Far East (Japan), aimed at completing a magical ritual through the mutual struggle of seven Heroic Spirits. Once completed, the Master could use the Holy Grail, filled with the magical energy of defeated Heroic Spirits, to grant an "omnipotent wish."
+  + Fate/Grand Order further extends this summoning system, where players act as Masters summoning Heroic Spirits to resolve world crises, traveling across different worlds to meet various Heroic Spirit characters.
 
-## 妖精圓桌領域
+## The Fairy Round Table Domain
 
-### 故事背景簡要
+### Brief Story Background
 
-* 妖精圓桌領域，是台版 Fate Grand Order 新開幕的一個假想世界
-* 該假想世界可視為與現行世界不同的時間線分支
-* 在這世界觀裡，引用了英國不列顛的知名亞瑟王傳說的設定，然後加上了劇情創作者自己的闡述：
-* 原始神話亞瑟王傳說裡的摩根，有三重性質：
-  + 早期樂心助人與人為善的湖中精靈
-  + 基督教轉化後亞瑟王內傳說的魔女，有各種惡毒的描寫描繪
-  + 但有時又有守護亞瑟王的性質，帶領亞瑟王道傳說中的理想鄉阿瓦隆
-* 故事裡的摩根，作者設定的背景為，被傳說中理想鄉樂園阿瓦隆派來星球外側，不列顛島嶼上，要拯救不列顛。
-* 在導致時間線分支的重大事件後，不列顛陸地消失，而六名妖精之祖犯下弒神的罪行以創造他們生存的空間，遭到了詛咒。
-* 除了原先的詛咒外，**妖精的本性是全憑一時衝動、喜好厭惡行事**，幾乎沒有現代人類的道德倫理。
-* 有罪的妖精持續繁衍，然而詛咒的災厄、妖精的爭鬥本性、導致延續了千年的不列顛大地最終毀滅淪為一片荒蕪。此為摩根第一次失敗。
-* 故事中英靈召喚系統的介入，導致正史中的摩根意外介入，將情報傳給過去失敗的摩根，讓此分支假想世界的摩根有機會在千年前拯救不列顛。
+* The Fairy Round Table Domain is a newly opened hypothetical world in the Taiwanese version of Fate/Grand Order.
+* This hypothetical world can be seen as a timeline branch distinct from the current world.
+* In this worldview, the setting borrows from the famous British legend of King Arthur, but incorporates the story writer's own interpretation:
+* The original mythical Morgan in the Arthurian legend has a three-fold nature:
+  + An early fairy of the lake who was helpful and kind to humans.
+  + The witch within the Arthurian legends after Christianization, depicted with various malicious descriptions.
+  + Yet sometimes she possesses a protective nature toward King Arthur, guiding him to the legendary utopia, Avalon.
+* In the story, the background established by the author is that Morgan was sent from the utopian paradise Avalon on the reverse side of the planet to the island of Britain to save it.
+* After a major event that caused the timeline to branch, the land of Britain disappeared, and the six ancestors of the fairies committed the sin of deicide to create their own living space, resulting in a curse.
+* Aside from the original curse, **the true nature of fairies is to act entirely on momentary impulses, likes, and dislikes**, possessing almost none of the moral ethics of modern humans.
+* The sinful fairies continued to reproduce, but the catastrophes born from the curse and the warring nature of the fairies eventually led to the destruction of the British land that had lasted for a millennium, reducing it to a wasteland. This was Morgan's first failure.
+* The intervention of the Heroic Spirit summoning system in the story caused the Morgan from Pan-Human History to accidentally intervene, transmitting information back to the Morgan who failed in the past, giving the Morgan of this branching hypothetical world a chance to save Britain thousands of years ago.
 
-### 救世主時期
+### The Savior Era
 
-* 在此分支世界，曾作為救世主，拯救了不列顛不知道多少次，化解了不知道多少個災厄
-* 但樂園阿瓦隆來的妖精，被不列顛的本土妖精本能地厭惡，因為其存在提醒他們贖罪懺悔的義務
-* 每一次盡心盡力地拯救不列顛與妖精，化解災厄。**但幽禁、水牢、火刑、流言、驅逐、背叛、暗殺樣樣皆來，沒有絲毫感謝、沒有絲毫贖罪懺悔之心**，就這樣持續了將近千年
-* 在忠實扮演其角色的最後一次，與夥伴調解了戰爭，建立了人類、妖精氏族間理想的政治體制，與戀人人類騎士烏瑟打算走入婚姻聖堂加冕為后，千年期待許久治世的到來，看似一切的努力終將走到幸福完滿的結果
-* 卻在加冕式的當天，親眼看到烏瑟被毒殺，妖精叛亂再起，救世主被冠上莫須有之罪，一切再度化為烏有
+* In this branched world, she served as a savior, saving Britain an unknown number of times and resolving countless calamities.
+* However, a fairy from the paradise of Avalon was instinctively despised by the native fairies of Britain because her existence reminded them of their obligation to atone and repent.
+* Every time she dedicated herself to saving Britain and the fairies, resolving disasters, **she was met with imprisonment, water dungeons, burning at the stake, rumors, exile, betrayal, and assassination—all kinds of things, without the slightest gratitude or any sense of atonement or repentance**. This continued for nearly a millennium.
+* In the final instance of faithfully playing her role, she mediated a war alongside her companions, established an ideal political system between humans and fairy clans, and planned to enter the holy hall of marriage to be crowned queen alongside her lover, the human knight Uther. The era of peace she had anticipated for a millennium seemed finally to have arrived, and all her efforts appeared destined for a happy and perfect conclusion.
+* Yet, on the very day of her coronation, she witnessed Uther being poisoned to death with her own eyes. The fairies rebelled once more, the savior was framed with unwarranted crimes, and everything once again came to nothing.
 
-> 我不會再拯救任何妖精，這不列顛的妖精，每一個都不值得拯救
+> I will never save any fairy again. Every single fairy in this Britain is unworthy of being saved.
 
 ![](../assets/Morgan_1.JPG)![](../assets/Morgan_2.JPG)
 
-### 冬之女王摩根
+### Morgan, the Winter Queen
 
-* 不再相信任何人，千絲萬縷的理想化為冷酷
-* 拯救不列顛的夢想，轉化成建立、維持美好的不列顛大地的執念 (裁職 Ruler -> 狂職 Berserker)
-* 摩根直接君臨天下，任由災厄滅絕妖精之後，因為王國的延續仍然需要妖精臣民的存在，直接用大召喚術等級的魔術，強行以類似聖杯英靈召喚契約的儀式，召喚了所有妖精
-* 實施高壓統治，卻意外有效的維持了美麗的不列顛王國兩千多年
-* 雖然身為假想世界女王，與玩家扮演的角色一行人立場為敵，在決戰時以強大的魔術實力輕鬆碾壓玩家
-* 卻仍死在**妖精的惡意**之下，趁摩根分神時，*以最疼愛的乾女兒要挾，煽動原本最忠心的部下背刺，最終死得面目全非*
-* 女王的回顧，有一格靜畫提到，摩根如此熱愛不列顛的大地，如果有一天外面世界有訪客來到，他真心希望，能夠衷心讚嘆他維持王國的美麗光華，那摩根就會非常開心。
-* ~~遊戲劇情創作者蘑菇真的沒有人心~~
+* No longer trusting anyone, her myriad ideals turned into coldness.
+* The dream of saving Britain transformed into an obsession to establish and maintain a beautiful British land (changing from Ruler class to Berserker class).
+* Morgan directly ruled as a sovereign. After letting catastrophes wipe out the fairies, because the continuation of the kingdom still required the existence of fairy subjects, she directly used grand magic equivalent to a summoning spell—a ritual akin to the Holy Grail Heroic Spirit summoning contract—to forcibly summon all the fairies back.
+* She implemented a tyrannical rule, which surprisingly and effectively maintained the beautiful Kingdom of Britain for over two thousand years.
+* Although, as the queen of a hypothetical world, she was an enemy to the protagonist's party, easily crushing the players with her overwhelming magical prowess in the final battle.
+* Yet, she still died by the **malice of fairies**. While Morgan was distracted, *they threatened her with her most beloved adopted daughter, inciting her most loyal subordinate to backstab her, ultimately resulting in her dying completely disfigured.*
+* In the Queen's reminiscence, a single panel showed that Morgan loved the land of Britain so deeply that if visitors from the outside world ever arrived and sincerely praised the beautiful splendor of the kingdom she maintained, Morgan would be incredibly happy.
+* ~~Nasu, the game's scenario writer, truly has no human heart.~~
 
-> 我的國家如何？
-> 是個美麗的國度嗎？是個如夢似幻的國度嗎？
-> 如果你這樣認為，我將感到無上的喜悅。
-> 歡迎來到妖精國不列顛，客人
-> 但願這片景色，
-> 可以永遠留存在您的記憶中
+> How is my country?
+> Is it a beautiful kingdom? Is it a dreamlike kingdom?
+> If you think so, I will feel the utmost joy.
+> Welcome to the Fairy Kingdom of Britain, guests.
+> I only hope that this scenery,
+> Will remain forever in your memories.
 
-## 共鳴
+## Resonance
 
-* 在遊玩到此故事時，剛好處在一個有點極端的心境
-* 為了曾經熱愛的理想、親人奮鬥了許久，卻發現許多隨口說出的話，只不過是當下一時的喜好厭惡。
-* 無法改變的事情有太多，尤其是最難改變的是人心、習以為常的行為模式。溝通模式千轉百折，努力了許久，卻從來沒有一絲奏效。
-* 我看到摩根那千年的疲憊、最後的崩潰、以及對應冷酷的反轉，彷彿映照了自己的心境。**不想再理會，也不想再花心思拯救，就是因為有這閑心思想拯救，才會一次又一次又淪落**
-* 渴望擁有最終成為冬之女王摩根那般宰制、統御的力量
-* 以上心緒的映照，讓摩根這個遊戲的角色，成為 Fate Go 有史以來共鳴最深的角色。先前抽角色可能只是因為立繪漂亮或者強度，這次下定決心要抽好抽滿。~~當然也有可能是因為高冷御姐形象剛好是我的菜~~
+* When I played through this part of the story, I happened to be in a somewhat extreme state of mind.
+* I had fought for a long time for the ideals and family members I once deeply loved, only to find that many things casually said were nothing more than momentary likes or dislikes.
+* There are too many things that cannot be changed, especially the most difficult things to change: the human heart and ingrained behavioral patterns. Communication paths took countless twists and turns; I put in immense effort for a long time, but nothing ever took effect.
+* When I saw Morgan's millennia of exhaustion, her ultimate breakdown, and the corresponding cold reversal, it felt as though it mirrored my own state of mind. **The reason I no longer want to bother, the reason I no longer want to spend the effort to save things, is precisely because having the luxury to think about saving things only leads to falling down again and again.**
+* I longed to possess the kind of dominating, ruling power that Morgan, the Winter Queen, eventually obtained.
+* The reflection of these emotions made Morgan the character in Fate/GO with whom I have resonated the deepest in its history. Previously, I might have rolled for characters just for their pretty artwork or strength, but this time I was determined to roll until I got her maxed out. ~~Of course, it could also just be that the cold, aloof older sister (御姐) archetype happens to be exactly my type.~~

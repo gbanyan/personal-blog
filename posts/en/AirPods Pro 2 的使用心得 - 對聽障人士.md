@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/AirPods Pro 2 的使用心得 - 對聽障人士"
-title: AirPods Pro 2 的使用心得 - 對聽障人士
+title: AirPods Pro 2 Review - For the Hearing Impaired
 slug: airpodspro2-usage-review-for-hearing-impaired
 ghost_id: 67e4d910c5a22a0001354670
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-27T04:50:24.000Z'
 updated_at: '2025-03-27T04:54:06.000Z'
 published_at: '2023-05-01T06:31:00.000Z'
-custom_excerpt: 購買 AirPods Pro 2 使用後約莫一個月多的心得，特別是關於使用聽力圖耳機調節功能的日常生活觀察。目前定位是便宜的第二副暫時性助聽器，且可在運動時使用。
+custom_excerpt: Review after purchasing and using AirPods Pro 2 for about a month and a half, especially daily life observations on using the audiogram Headphone Accommodations feature. My current positioning for them is as a cheap, temporary secondary pair of hearing aids that can also be used during exercise.
 tags:
 - Hardware - 硬體
 - Unboxing - 開箱
@@ -20,87 +21,87 @@ authors:
 feature_image: ../assets/photo-1603351154351-5e2d0600bb77.jpg
 ---
 
-購買 AirPods Pro 2 使用後約莫一個月多的心得，特別是關於使用聽力圖耳機調節功能的日常生活觀察。目前定位是便宜的第二副暫時性助聽器，且可在運動時使用。
+Review after purchasing and using AirPods Pro 2 for about a month and a half, especially daily life observations on using the audiogram Headphone Accommodations feature. My current positioning for them is as a cheap, temporary secondary pair of hearing aids that can also be used during exercise.
 
-## 緣由
+## Origins
 
-沒什麼，只是單純想敗家 (X
-會有衝動想購買是因為看到討論群組提到，
-蘋果在自家耳機的「輔助」選項內
-加入了依據聽力圖調整的功能
+Nothing much, I just wanted to splurge (X
+The impulse to buy arose because I saw a discussion group mention that
+Apple had added a feature to adjust audio based on an audiogram
+in the "Accessibility" options for their own headphones.
 
-之前購買或追求耳機時，都必須考慮配戴助聽器的限制 (本身有輕中度聽障)
-所以只能選擇耳罩式耳機。
-在未配戴助聽器的情況下，使用入耳式耳機會有以下缺點：
+Previously, when purchasing or looking for headphones, I always had to consider the limitations of wearing hearing aids (I have a mild-to-moderate hearing impairment),
+so I could only choose over-ear headphones.
+Without wearing hearing aids, using in-ear headphones has the following disadvantages:
 
-1. 損失頻率不均致聽到聲音失真
-2. 為了將未能聽不清楚的聲音彌補，把整體音量調太大聲，有傷害聽力危險
+1. Uneven frequency loss causes the heard sounds to distort.
+2. To compensate for the sounds I can't hear clearly, I turn the overall volume up too loud, running the risk of damaging my hearing.
 
-但是耳罩式耳機一來稍嫌笨重，夏天容易悶熱，二來有時跟助聽器本身容易互相干擾
+However, over-ear headphones are somewhat bulky and easily get hot and stuffy in the summer; secondly, they sometimes easily interfere with the hearing aids themselves.
 
-這次聽說 AirPods Pro 可以根據聽力圖調整，
-又有國外文章提到，在通透模式下，聽力圖調整過後輕中度的聽障人士，正常對話的能力不輸專業助聽器
-就想要買來試試看
-沒想到一試彷彿發現了許多新世界
+This time, hearing that AirPods Pro could be adjusted based on an audiogram,
+and seeing foreign articles mentioning that in Transparency mode, after audiogram adjustment, the normal conversation ability of people with mild-to-moderate hearing impairment is on par with professional hearing aids,
+I wanted to buy them and try them out.
+I didn't expect that trying them would feel like discovering many new worlds.
 
-## 依據聽力圖調整模式
+## Adjustment Mode Based on Audiogram
 
 ![](../assets/AirPods_Pro2_Hearing.jpeg)
 
-* 找到耳機調節 > 聽力圖，根據說明將之前聽力檢查的分貝數依據填入
-* 不過我的聽力圖有部分缺失，只能自行猜測，填入較保守的數據
-* 填完以後，通透模式、媒體、電話就會套用
+* Go to Headphone Accommodations > Audiogram, and follow the instructions to enter the decibel numbers from previous hearing tests.
+* However, parts of my audiogram are missing, so I had to guess and enter more conservative data.
+* Once filled in, it applies to Transparency mode, media, and phone calls.
 
-## 情境一：日常專注工作與降噪
+## Scenario One: Daily Focused Work and Noise Cancellation
 
-### 之前
-
-```
-- 以前使用耳罩式耳機時，情況很尷尬，配戴助聽器時，
-- 就算使用耳罩式耳機本身的降噪模式，因為助聽器的特性，還是會將漏進來的聲音放大，效果沒有很全面
-- 如果要完全屏蔽，要把助聽器拿下來，但是萬一專心工作時中間有人要找你說話，就要經歷一連串的拿取配戴動作，稍嫌麻煩
-```
-
-### 使用 AirPods Pro 2 之後
+### Before
 
 ```
-- 現在專心工作讀書時，直接用 AirPods Pro 取代助聽器
-- 降噪效果絕佳，完美屏蔽最吵情況下的咖啡廳背景聊天噪音，達到絕對安靜
-- 通透模式也可以正常對話，一般日常對話沒問題，適合應對偶發的溝通事件
-- 也很適合臨時的線上會議，因為 AirPods Pro 2 跟蘋果生態系產品很契合，開 Google Meeting 及其他 Webex 配合聽力圖強化，聲音很清楚
-  - 也因為蘋果使用 iCloud 將藍芽配對資訊統一到各裝置，隨時可以在電腦與手機上切換，我可以在手機上面也開會議，然後快速切換到手機去上廁所。
+- Previously, when using over-ear headphones, the situation was awkward. When wearing hearing aids,
+- even using the over-ear headphones' own noise cancellation mode, due to the characteristics of the hearing aids, the leaking sound would still be amplified, making the effect less comprehensive.
+- If I wanted to block out sound completely, I had to take off the hearing aids. But if someone wanted to talk to me while I was focused on work, I had to go through a series of taking them off and putting them back on, which was somewhat troublesome.
 ```
 
-## 情境二：運動
+### After Using AirPods Pro 2
 
-* 這是買之前沒想到的場景，但意外實用
-* 現有助聽器並不防水防汗，天氣一潮濕悶熱、汗水一多就容易受潮發出異音，對零件壽命也有影響
-* 有特殊防水助聽器，但是定價昂貴
-* 但我還是想要維持正常社交運動的習慣
-* 因為 AirPods Pro 2 有一定程度的防水防汗，搭配聽力圖強化以後，可以在運動時維持最低限度的日常溝通
-* 現在拿來使用在固定羽毛球聚會，暫時性替換使用，等於是第二副便宜暫時性的助聽器
-  + 有危險是，如果因為高強度動作中途掉落，踩到就完了
+```
+- Now, when focusing on work or studying, I use AirPods Pro directly instead of hearing aids.
+- The noise cancellation effect is excellent, perfectly shielding the background chatting noise in a cafe at its loudest, achieving absolute silence.
+- Transparency mode allows normal conversations; general daily conversations are no problem, making it suitable for dealing with occasional communication events.
+- They are also very suitable for temporary online meetings. Because AirPods Pro 2 integrate seamlessly with Apple ecosystem products, the sound is very clear when using Google Meet and Webex paired with the audiogram enhancement.
+  - Also, because Apple uses iCloud to unify Bluetooth pairing information across devices, I can switch between computer and phone at any time. I can join a meeting on my phone, and quickly switch to my phone to go to the restroom.
+```
 
-## 情境三：影音娛樂
+## Scenario Two: Exercise
 
-* AirPods Pro 2 支援空間音訊，搭配 Netflix, Apple TV 等線上串流，立體沈浸感非常強
-* 現有助聽器提供的聲音資訊無法明顯感受到喇叭外放的方向感，但是配戴 AirPods Pro 就很清楚
+* This was a scenario I didn't think of before buying, but it is surprisingly practical.
+* Existing hearing aids are not waterproof or sweatproof. Once the weather is humid and stuffy or there is too much sweat, they easily get damp and emit abnormal sounds, which also affects the lifespan of the parts.
+* There are special waterproof hearing aids, but they are expensively priced.
+* But I still want to maintain normal social exercise habits.
+* Because AirPods Pro 2 have a certain degree of water and sweat resistance, combined with the audiogram enhancement, I can maintain minimum daily communication during exercise.
+* I now use them temporarily at regular badminton gatherings, making them effectively a second, cheap, temporary pair of hearing aids.
+  + The danger is that if they drop during high-intensity movements and get stepped on, they're done for.
 
-## 情境四：睡眠使用
+## Scenario Three: Audio/Video Entertainment
 
-* 這也是購買前沒想過的情況
-* 在觀察睡眠影響因素時，猜測冷氣的低頻噪音有可能影響進入睡眠的所需安寧，因為之前以為聽力有所損失應該不會有影響
-* 可以使用耳塞但是又怕鬧鐘叫不醒，應該可以買震動式電子鬧鐘使用
-* 想嘗試看看 AirPods Pro 的降噪模式有沒有幫助 -> 有效果，冷氣低頻噪音消失後更好入眠
-* 預計搭配手機鬧鐘提醒 -> 現實是降噪模式開下去耳機電量沒辦法撐過正常的睡眠時間
+* AirPods Pro 2 support Spatial Audio. Paired with online streaming like Netflix and Apple TV, the 3D immersion is very strong.
+* The sound information provided by existing hearing aids fails to clearly convey the directional sense of speakers, but wearing AirPods Pro makes it very clear.
 
-## 電力消耗情況
+## Scenario Four: Sleep Use
 
-* 正常密集使用下，連續使用四到五小時可能就需要裝回充電盒使其充電
-* 充電盒充電速度非常快，沒有計算充飽所需速度，但是在緊急開會的條件下，衝個十幾分鐘就可以繼續撐約莫兩個小時的會議
-* 充電盒充滿的條件下，一天大概可以使用兩到三次
+* This is also a situation I hadn't considered before buying.
+* While observing factors affecting sleep, I guessed that the low-frequency noise of the air conditioner might be affecting the peace needed to fall asleep, because I previously thought that having some hearing loss meant it shouldn't have an effect.
+* I could use earplugs, but then I fear the alarm wouldn't wake me up. I probably could buy a vibrating electronic alarm clock to use.
+* I wanted to try and see if the AirPods Pro's noise cancellation mode helped -> It was effective; after the low-frequency AC noise disappeared, it was easier to fall asleep.
+* I planned to pair them with phone alarm reminders -> The reality is that the headphones' battery life cannot last through normal sleep time when noise cancellation mode is on.
 
-## 禁忌
+## Battery Consumption
 
-* **禁止在交通等需要高度觀察力與注意力的環境下使用**
-* 我曾在夜深人靜，車流量較少的情況下嘗試，結論是 AirPods Pro 2 儘管優秀，但其麥克風的收音廣度並不如專業助聽器，環境聲音明顯少掉很多，在此條件下使用*非常危險*
+* Under normal heavy usage, they might need to be put back in the charging case after four to five hours of continuous use to recharge.
+* The charging case charges very quickly. I haven't timed how fast it takes to fully charge, but under the condition of an urgent meeting, charging for ten-plus minutes can last for roughly another two-hour meeting.
+* With a fully charged case, they can be used about two to three times a day.
+
+## Contraindications
+
+* **Usage is prohibited in environments requiring high observation and attention, such as traffic.**
+* I once tried them in the dead of night when traffic was light. The conclusion is that although AirPods Pro 2 are excellent, the range of their microphone's sound pickup is not as good as professional hearing aids; environmental sounds are noticeably reduced, making it *very dangerous* to use them under these conditions.

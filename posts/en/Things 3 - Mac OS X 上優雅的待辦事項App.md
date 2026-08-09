@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/Things 3 - Mac OS X 上優雅的待辦事項App"
-title: Things 3 - Mac OS X 上優雅的待辦事項App
+title: Things 3 - An Elegant To-Do App on Mac OS X
 slug: macosx-todolistapp-things3-intro
 ghost_id: 67e39aeae551140001120eac
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-26T06:12:58.000Z'
 updated_at: '2025-03-26T06:20:37.000Z'
 published_at: '2017-07-15T15:40:00.000Z'
-custom_excerpt: Things 開發團隊在經過多年後，終於更新了Mac OS X上的Things App, 帶來了優雅簡潔的操作體驗。就算不懂GTD概念的人，也可以輕鬆上手，讓自己的生活更加積極有目標！
+custom_excerpt: After many years, the Things development team has finally updated the Things App on Mac OS X, delivering an elegant and streamlined user experience. Even those who don't understand the GTD concept can easily get the hang of it, making their lives more proactive and goal-oriented!
 tags:
 - macOS
 - Apps - 軟體
@@ -20,91 +21,91 @@ authors:
 feature_image: ../assets/Things3-Cover-1180x650.png
 ---
 
-Things 開發團隊在經過多年後，終於更新了Mac OS X上的Things App, 帶來了優雅簡潔的操作體驗。就算不懂GTD概念的人，也可以輕鬆上手，讓自己的生活更加積極有目標！
+After many years, the Things development team has finally updated the Things App on Mac OS X, delivering an elegant and streamlined user experience. Even those who don't understand the GTD concept can easily get the hang of it, making their lives more proactive and goal-oriented!
 
-## 對Things 3 的第一印象: 乾淨、典雅、簡潔
+## First Impressions of Things 3: Clean, Elegant, Simple
 
-最近流行「顏值」這個詞，毫無疑問，第一眼看到Things 3 的介面時，素雅的淺灰底以及簡單的側邊欄兩欄設計深得我心。官方直接將說明製作成待辦事項清單，想探索學習時直接點選閱讀即可。
+The word "appearance" is quite popular lately, and without a doubt, at first glance, the interface of Things 3—with its understated light gray background and simple two-column sidebar design—won me over completely. The official documentation is directly crafted as a to-do list; when you want to explore and learn, you can simply click and read.
 
-筆者對效率工具的要求主要有幾個方面：條理分明的閱讀、完整的快捷鍵支援、簡潔流暢的操作流程，最好可以再加上擴展外接支援一類的使其可以和其他工具合作併用。在閱讀方面，Things 3 運用簡單的動畫以及顏色分層特效，營造了舒服的操作體驗。
+My requirements for productivity tools mainly cover a few aspects: organized readability, comprehensive keyboard shortcut support, a clean and fluid operational workflow, and ideally, support for extensions/integrations to work alongside other tools. In terms of readability, Things 3 utilizes simple animations and color layering effects to create a comfortable user experience.
 
-[Mac App Store連結，同時有iPhone以及iPad 版，分開收費](https://itunes.apple.com/tw/app/things-3/id904280696?l=zh&mt=12)
+[Mac App Store Link, iPhone and iPad versions are also available, charged separately](https://itunes.apple.com/tw/app/things-3/id904280696?l=zh&mt=12)
 
-<video autoplay loop muted playsinline class="inline-block w-full rounded-lg shadow-md" aria-label="Things 3 操作示範">
+<video autoplay loop muted playsinline class="inline-block w-full rounded-lg shadow-md" aria-label="Things 3 Operation Demo">
   <source src="../assets/Things3.webm" type="video/webm">
   <source src="../assets/Things3.mp4" type="video/mp4">
-  您的瀏覽器不支援影片播放。
+  Your browser does not support video playback.
 </video>
 
-## 概念探索：專注在「今日」的規劃哲學
+## Exploring the Concept: A Planning Philosophy Focused on "Today"
 
-用過像OS X內建的提醒事項、Wunderlist奇妙清單，Things 3 的「今日」、「即將到來」、「隨時」、「某天」等預設的時間分類相較之下是最不一樣的特點。希望使用者能夠專注在當下並不延宕，Things 大為簡化了待辦事項放入「今日」的流程，包括：
+Having used apps like OS X's built-in Reminders and Wunderlist, the default time categories in Things 3—"Today," "Upcoming," "Anytime," and "Someday"—are comparatively its most distinct feature. Hoping users can focus on the present without procrastination, Things has greatly simplified the workflow of putting tasks into "Today", including:
 
-1. 新增或是點選任何已經存在的待辦事項時，⌘ + T （Today）or ⌘ + E (Evening, 今晚)，可以直接放入「今日」時間分類
-2. 所有在前一天未完成的事項，會繼續留在後一天的「今日」時間分類
-3. 已經排程好的待辦事項，在排程日期已至也會自動歸入「今日」分類檢視
+1. When adding or clicking any existing task, ⌘ + T (Today) or ⌘ + E (Evening) can place it directly into the "Today" time category.
+2. All unfinished tasks from the previous day will remain in the "Today" category of the following day.
+3. Scheduled tasks will automatically appear in the "Today" category once their scheduled date arrives.
 
-Things 3 的作者團隊提到，他們希望的流程為，使用者可以在早晨起床泡一杯咖啡準備今日的工作，或者在下班之際，直接在「今日」時間檢視整理待辦事項清單。
+The team behind Things 3 mentioned that their envisioned workflow allows users to brew a cup of coffee in the morning and prepare for the day's work, or right before getting off work, to organize their task lists directly in the "Today" view.
 
-而即將到來、隨時、某天的排列順序，則反映了事情的緊急程度以及急迫性，當使用者在歸類待辦事項時便自然排序了重要性先後。
+The ordering of Upcoming, Anytime, and Someday reflects the urgency and pressing nature of tasks. As users categorize their to-dos, they naturally sort out the priorities.
 
 ![Things3-Importance](../assets/Things3-Importance.png)
 
-## 快速鍵支援
+## Keyboard Shortcut Support
 
-前面提到，筆者希望在使用效率類工具時，希望有完整的鍵盤快速鍵支援，Things 3 在管理待辦事項的流程中，許多細節動作都有快捷鍵，的確可以增加操作速度。
+As mentioned earlier, I expect full keyboard shortcut support when using productivity tools. In the workflow of managing tasks, Things 3 provides shortcuts for many detailed actions, which genuinely speeds up operations.
 
-### 1. 隨時隨地進行搜尋、快速切換
+### 1. Search Anywhere, Switch Quickly
 
-在Things 3 的任何一個畫面，隨便輸入任何東西就會開始搜尋了。搜尋目標包含區域、主題、專案、待辦事項的標題以及內容。因為包含標題，所以也可以用來快速切換想要瀏覽的分類。另外，⌘ + 1, 2, 3, 4, ... 可以依序切換左側邊欄由上至下排列的「收件匣」、「今日」、「即將到來」、「隨時」、「某天」等
+In any view of Things 3, just start typing to search. The search targets include Areas, Projects, Headings, and the titles and notes of tasks. Because it includes titles, it can also be used to quickly switch to a desired category. Furthermore, ⌘ + 1, 2, 3, 4, ... sequentially switch through the left sidebar items from top to bottom: "Inbox," "Today," "Upcoming," "Anytime," and "Someday."
 
-### 2. 新增待辦事項 > 後處理
+### 2. Add Task > Post-Processing
 
-⌘ + N 以及其他配合的修飾鍵新增主題、專案等其他分層，是許多程式共用的邏輯，並不特異所以也不多加贅述，這邊想描述的是新增待辦事項以後，如何繼續流暢進行後處理。
+Using ⌘ + N and other modifier keys to add headings, projects, and other layers is a common logic across many apps, so I won't elaborate much here. What I want to describe is how smoothly you can continue processing after adding a task.
 
-在新增待辦事項的畫面輸入標題後，Tab 可以切到備註以輸入詳細內容，⌘ + T 可以直接將其放到「今日」，或者其他對應時間分類的快速鍵。⌘ + S (Schedule) 可以直接安排更詳細的時間並設定提醒時間（會自動在所有同步的裝置包含iOS裝置跳出通知）。⌘ + Shift + M 可以將其移動到不同的清單。
+After typing a title in the new task window, pressing Tab switches to the notes section for detailed input. ⌘ + T places it directly into "Today," or you can use shortcuts for other corresponding time categories. ⌘ + S (Schedule) lets you arrange a specific date and set a reminder (which will automatically pop up on all synced devices, including iOS). ⌘ + Shift + M moves it to a different list.
 
-<video autoplay loop muted playsinline class="inline-block w-full rounded-lg shadow-md" aria-label="新增待辦事項示範">
+<video autoplay loop muted playsinline class="inline-block w-full rounded-lg shadow-md" aria-label="Demo of adding a task">
   <source src="../assets/AddNewThings3.webm" type="video/webm">
   <source src="../assets/AddNewThings3.mp4" type="video/mp4">
-  您的瀏覽器不支援影片播放。
+  Your browser does not support video playback.
 </video>
 
-### 3. 隨時叫出新增視窗，無論有沒有在Things 3 內
+### 3. Summon the Add Window Anytime, Even Outside Things 3
 
-只要設定好快速鍵，無論你在瀏覽網頁或是收發電子郵件，不用切換到Things 3 視窗就可以快速輸入。安裝Helper以後，甚至可以直接選取文字後快速新增，這樣就不用手動輸入落落長的內容。
+As long as the shortcut is configured, whether you're browsing the web or checking emails, you can quickly enter tasks without switching to the Things 3 window. After installing the Helper, you can even select text and quickly add it, saving you from manually typing long paragraphs.
 
 ![RapidAdd](../assets/RapidAdd.png)
-> [官方快速鍵說明：https://support.culturedcode.com/customer/en/portal/articles/2785159](https://support.culturedcode.com/customer/en/portal/articles/2785159)
+> [Official Shortcut Guide: https://support.culturedcode.com/customer/en/portal/articles/2785159](https://support.culturedcode.com/customer/en/portal/articles/2785159)
 
-## 分層的概念：區域、專案、主題、待辦事項、檢查事項
+## The Concept of Hierarchy: Areas, Projects, Headings, To-Dos, and Checklists
 
-> 這部分程式的中文翻譯不一致，請注意
+> Note: The Chinese translation of the app in this section is inconsistent.
 
-標題所列依序為Things 3 的分層架構。區域可以簡單區分私人、經濟、工作領域。比如說像筆者就區分為個人健康、家庭、學習、醫院工作等。專案為偏向一項大目標擬訂計畫的組合，這是基於將抽象目標分解為詳細步驟以具體化行動較有效率的概念。
+The titles listed above represent the hierarchical structure of Things 3. Areas can easily distinguish between personal, financial, and work spheres. For example, I have categories for personal health, family, learning, hospital work, etc. A Project acts more like a planned combination toward a major goal, based on the concept that breaking down abstract goals into detailed steps for concrete actions is more efficient.
 
-在Things 3 裡，專案標題的圖示會以完成百分比的圓餅圖表示，每完成一個專案下的待辦事項，代表專案離完成又進了一步。專案內可以用不同的主題簡單區分。而每個待辦事項底下又可以拆解成無數個檢查事項。
+In Things 3, the project title icon is represented by a pie chart showing the percentage of completion. Completing each task under a project means moving one step closer to finishing the project. Within a project, simple distinctions can be made using different Headings. And every task can be broken down into countless Checklists.
 
-當然，生活雜事不一定都要硬要歸到宏大的專案清單裡，可以簡單的在收件匣或是任一區域內直接新增，相當自由。
+Of course, everyday chores don't always have to be forced into a grand project list; they can simply be added directly to the Inbox or any Area, giving you complete freedom.
 
-另外，Things 3 在後續的更新裡新增了重複性待辦事項，可以自行設定重複週期。
+Additionally, Things 3 introduced recurring tasks in a subsequent update, allowing you to set custom repeating cycles.
 
-## 整合
+## Integration
 
-### 匯入
+### Import
 
-為了方便其他待辦事項App的使用者轉移到Things 3, 開發者團隊也有提供一些匯入方式，像筆者原先是Wunderlist 的愛用者，就很欣喜的發現Things 3 可以匯入，不用手動重新輸入。
+To make it easier for users of other to-do apps to switch to Things 3, the development team also provides several import methods. I used to be an avid Wunderlist user, and I was thrilled to find that Things 3 supports importing, sparing me the effort of manual re-entry.
 
 ![Siri](../assets/Siri.png)
 
-### Siri 呼叫！
+### Call Siri!
 
-蘋果內建的Siri 語音輸入如果有默契的話，平常可以直接語音輸入待辦事項很快，可惜預設是使用蘋果裝置內建的「提醒事項」App, 不過Things 3 技巧性的轉彎，要求對於「提醒事項」的存取權，他會自動掃描並直接匯入。於是在Mac OS X 或iOS 裝置上Siri 輸入待辦事項後，就會自動收集到Things 3 內。
+Using Apple's built-in Siri voice input is very fast if you're accustomed to it. Unfortunately, it defaults to Apple's built-in "Reminders" App. However, Things 3 handles this cleverly by requesting access to "Reminders"; it automatically scans and imports them directly. Thus, after speaking a task to Siri on Mac OS X or an iOS device, it will automatically be collected into Things 3.
 
-### 其他App 的整合
+### Integration with Other Apps
 
-由於Things 是相當好用的待辦事項軟體，其他App或許也會設計快捷方式以收集到Thing 內。像Airmail 會自動偵測郵件內容的時間並套顏色標註，使用者點選以後便可以一鍵在Things 3 建立該時間點的待辦事項並複製郵件內文到事項備註。
+Because Things is such an excellent task management app, other apps might also design shortcuts to collect items into Things. For instance, Airmail automatically detects time references in email contents and color-codes them. With a single click, users can create a task for that time in Things 3 and copy the email body into the task's notes.
 
-## 短板
+## Shortcomings
 
-Things 3 儘管強大，也有一些不足的地方。筆者認為，跟Wunderlist 比起來，Things 3 明顯缺乏團隊共享的機制，不像Wunderlist 可以加入協作團隊到清單內並指派任務。中文翻譯也有一點瑕疵，另外，筆者也希望，Things 3 可以新增夜間模式，提供使用者將白底換成黑底布景的選擇。
+Despite its power, Things 3 also has some areas for improvement. I believe that compared to Wunderlist, Things 3 conspicuously lacks a team sharing mechanism; unlike Wunderlist, you cannot add collaborators to a list and assign tasks. The Chinese translation also has minor flaws. Furthermore, I hope Things 3 can add a dark mode, giving users the option to switch the white background for a dark theme.

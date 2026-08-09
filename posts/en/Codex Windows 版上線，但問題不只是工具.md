@@ -1,139 +1,140 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/Codex Windows 版上線，但問題不只是工具"
-title: Codex Windows 版上線，但問題不只是工具
+title: Codex for Windows Launched, but the Problem Isn't Just the Tool
 slug: codex-windows-beyond-tools
 published_at: '2026-03-17'
 tags:
 - Writings - 創作
 - Software - 軟體
 - Research - 研究
-description: OpenAI 釋出 Windows 版 Codex，但 AI 工具要真正落地到一般人手中，授權機制、系統環境差異、隱私信任等結構性問題，可能比工具本身更值得關注。
+description: OpenAI has released Codex for Windows, but for AI tools to truly land in the hands of ordinary people, structural issues like authorization mechanisms, system environment differences, and privacy trust might deserve more attention than the tools themselves.
 authors:
 - Gbanyan
 feature_image: ../assets/codex-windows-beyond-tools.jpg
 ---
 
-OpenAI (ChatGPT 的母公司) 剛釋出 Windows 版的 Codex 桌面應用程式，在 Microsoft Store 上面可以找到。
+OpenAI (the parent company of ChatGPT) has just released the Codex desktop application for Windows, which can be found in the Microsoft Store.
 
-基於知識平權，大家可以考慮使用看看，但是我想分享的，可能更多是一些結構性問題的分享與觀察，算科普嗎？有一些可能也是外行人的小 murmur。
+Based on the equalization of knowledge, everyone can consider giving it a try. But what I want to share might be more of some observations and sharing regarding structural issues. Can it be considered popular science? Some of it might also be a layman's little murmur.
 
-## 從問答到做事：AI 助手的下一步
+## From Q&A to Taking Action: The Next Step for AI Assistants
 
-GPT, Gemini, Claude 這些 Models，想要從資訊問答型的輔助，變成對大家更有用、更有幫助的一個方向，是可以實際幫你做事情。
+For models like GPT, Gemini, and Claude, the direction they need to take to evolve from information-answering aids into something more useful and helpful to everyone is to actually get things done for you.
 
-然而，數位系統可能比大家想像的更貼近現實生活的複雜紛亂。
+However, digital systems might be much closer to the messy complexity of real life than people imagine.
 
-## 新員工的比喻
+## The Metaphor of a New Employee
 
-舉例來說，有一個員工，開始想要進來你開的商店打工，你要怎麼評估他的能力？
+For example, suppose a new employee wants to start working at a shop you own. How do you assess their capabilities?
 
-看履歷是一個常見的做法，試用期也是，但是這些都建立在我們認為這個商店在人類的基本操作能力下，就算有些做不到，也不會出事的認知。比如咖啡機怎麼操作，不會的話他會主動問，或者確認操作說明書。要去哪裡找特定貨品，對商店內區域不熟，他可能先一個一個找，真的找不到看老闆比較沒有在忙才禮貌性的詢問。
+Looking at a resume is a common practice, as is a probationary period, but these are built on the cognition that, given basic human operational capabilities, even if there are things they cannot do in the shop, it won't cause a disaster. For instance, if they don't know how to operate the coffee machine, they will ask proactively or check the manual. If they need to find a specific item and aren't familiar with the shop layout, they might search one by one, and if they really can't find it, they will politely ask the boss when they are not busy.
 
-這個認知與戒備門檻，會隨著行業的專業程度以及牽扯到的經濟或時間成本拉高。白話一點來說就是，出事的風險越高，越不信任交給一個新來的員工，在對他的能力還沒有完全認知的狀態下。
+This threshold of cognition and caution rises with the professional degree of the industry and the economic or time costs involved. To put it plainly, the higher the risk of something going wrong, the less you trust a new employee, especially when you don't fully understand their capabilities yet.
 
-## 授權的兩難：決策疲勞 vs. 風險
+## The Dilemma of Authorization: Decision Fatigue vs. Risk
 
-數位系統在人類的認知，至少就我個人感覺，只會比實際工作公司的空間更扁平、更虛無飄渺不具體。因此這個認知門檻，有的人會更戒慎恐懼，有些人則比較無所謂。
+To human cognition, digital systems, at least in my personal feeling, are only flatter, more ephemeral, and less concrete than the physical space of a company. Therefore, for this cognitive threshold, some people will be more cautious and fearful, while others won't care as much.
 
-前端的 AI 公司，為了能把這個認知門檻以及出事風險降低，其實一直在思考授權、沙盒以及防禦機制。但是這些機制在數位系統上一定不夠人性，畢竟定義什麼動作需要授權，什麼不需要，在現實世界也是一個很複雜的議題。
+Frontline AI companies, in order to lower this cognitive threshold and the risk of accidents, have constantly been thinking about authorization, sandboxes, and defense mechanisms. But these mechanisms in digital systems will definitely not be human enough; after all, defining which actions require authorization and which do not is also a very complex issue in the real world.
 
-想像一下，如果剛剛那位新請進來的員工，想要拿一個放在桌上的操作指引書，拿一罐放在調味品區的食鹽想要加一些下去，每一步都要經過你確認——這樣累積起來絕對會決策疲勞，你會覺得這個員工怎麼這麼囉唆怕事膽小。
+Imagine if that newly hired employee wanted to pick up a manual on the desk or grab a jar of salt from the condiment area to add some, and they had to get your confirmation for every single step—accumulated over time, this would absolutely lead to decision fatigue. You would feel this employee is too tedious, timid, and afraid of taking responsibility.
 
-所以有很多人選擇繞過授權機制，直接完全把所有的操作權利授權給這些公司出的 Agent 幫手。這樣做，有些人效率以及產出變成非常高，完全飛起；但也有些人出事了，檔案被刪光光，重要資訊裸奔等等。
+Therefore, many people choose to bypass the authorization mechanism entirely, fully delegating all operational rights to these Agents released by the companies. By doing so, the efficiency and output of some people soar to incredible heights; but for others, accidents happen—files are completely deleted, important information runs naked, and so on.
 
-這些又牽扯到一些數位系統體系的架構或者習慣，甚至價值觀問題。
+This further involves some architectures, habits, and even values of digital system structures.
 
-## 環境的差異：整齊的商店 vs. 百貨公司的家電部門
+## Differences in Environments: A Tidy Shop vs. a Department Store's Appliance Section
 
-今天角色異位，讓我們來當當看這位新進的員工。
+Let's swap roles today; let's try being this new employee.
 
-現在你站在一個櫃子與設備擺放整齊的商店，嚴謹到每個設備如咖啡機、冰箱、烤箱上面都掛著操作說明書以及操作安全守則手冊。你是不是比較有自信一點可以自己探索完成任務了？因為你對於每一步會發生什麼事，或者錯誤步驟會有什麼提示，都一目瞭然。
+Right now, you are standing in a shop where cabinets and equipment are neatly arranged, so strict that every device, like the coffee machine, refrigerator, and oven, has an operating manual and a safety rulebook hanging on it. Don't you feel a bit more confident to explore and complete tasks on your own? Because you have a clear understanding of what will happen at each step, or what prompts will appear for erroneous steps.
 
-接著讓我們把環境複雜一點，可能⋯⋯想像成百貨公司內家電廠牌的羅列部門，你走進去，看到好多款不同新家電的設計。儘管他們看起來閃亮亮，好像都很吸引人（筆者必須承認以前有一段時間很愛逛亂玩⋯⋯）。問題來了，你敢保證一眼就看出來每個設備怎麼操作嗎？有的按鈕按下去你就是會有那個恐懼以及不確定感存在。
+Then let's make the environment more complex... imagine the appliance section of a department store. You walk in and see the designs of many different new appliances. Even though they look shiny and appealing (I must admit there was a time I loved browsing and playing around with them...), the problem arises: can you guarantee that you know how to operate every device at first glance? For some buttons, when you press them, there is a sense of fear and uncertainty.
 
-在現代常見以視覺介面的系統環境，更像是後者的環境。每家服務、廠商、以及在 Windows 上的介面設計，都有各自的習慣、考量還有設計理由。但問題是，僅透過第一時間的視覺交互，就算是聰明絕頂的人，可能都要稍微推理推敲一下，更何況是一般使用者？
+In modern visual-interface system environments, it is more like the latter scenario. Each service, manufacturer, and interface design on Windows has its own habits, considerations, and design reasons. But the problem is, through just the initial visual interaction, even the smartest people might need to reason and deduce a bit, let alone ordinary users?
 
-同理，對這些模型助手來說，這並不是最有效率的功能認知交換模式。
+By the same token, for these model assistants, this is not the most efficient mode of functional cognitive exchange.
 
-## Unix-like 系統的先天優勢
+## The Inherent Advantages of Unix-like Systems
 
-Unix-like 系統 (macOS, Linux...) 以及純文字指令 CLI 模式，則出乎意料地在這一方面有先天優勢。他更像是前面舉例的每件事都整理得妥妥當當的商店。
+Unix-like systems (macOS, Linux...) and pure text Command Line Interfaces (CLI), surprisingly, have an inherent advantage in this regard. They are more like the aforementioned shop where everything is neatly organized.
 
-這牽扯到，其實 Unix-like 許多工具以及指令已經發展了數十年（應該有超過二十年？）。設計良好的 CLI 文字指令工具，正如同記載清楚的說明書以及步驟守則，每一個參數代表什麼意義，每一個步驟如果沒做對，也會盡可能有清楚的錯誤訊息。
+This relates to the fact that many Unix-like tools and commands have actually been developed over decades (probably more than twenty years?). Well-designed CLI text tools, just like clearly documented manuals and procedural rules, show what each parameter means, and if a step is done wrong, there will be as clear an error message as possible.
 
-Windows 系統本身在 GUI 有非常多包袱，同時文字指令系統有換代，前一代的完整性以及可操作性不如 Unix-like 系統。
+The Windows system itself has a lot of baggage in its GUI, while its text command system has undergone generational changes, with the completeness and operability of the previous generation not matching that of Unix-like systems.
 
-OpenAI 以及 Claude 出的工具，有非常明顯的趨勢，會先出在 macOS，或甚至只在 macOS 上面運作最好。除了 macOS 原生 Unix-like 內建這些完整的 Unix 工具以外，還有就是 macOS 其實有完整的 AppleScript 可以允許透過文字指令操作 GUI 介面，也就是普通的提醒事項、行事曆操作，其實可以透過文字指令完成增刪修改。
+There is a very clear trend with tools released by OpenAI and Claude: they are often released first on macOS, or even operate best solely on macOS. Besides macOS natively embedding these complete Unix tools, macOS actually has comprehensive AppleScript that allows the manipulation of GUI interfaces via text commands. That means ordinary operations in Reminders and Calendar can actually be modified via text commands.
 
-回到員工本身的認知，這代表他在這個環境內，對每一步會發生什麼事，或者可以操作的物品項目，都有非常清楚的認知。但是在 Windows 以及其他環境，他面對的就像是一團混沌，很多事情要自己探索，甚至做了以後發生什麼事非常不透明（Windows 軟體各家開發獨立，很多程序基本上是黑箱也就是訊息不揭露）。認知推理成本非常高，很多員工可能探索到一半就直接放棄。
+Returning to the cognition of the employee, this means that in this environment, they have a very clear understanding of what will happen at each step, or what items can be manipulated. But in Windows and other environments, they face something akin to a blob of chaos. Many things have to be explored on their own, and even after taking action, what happens is very opaque (software on Windows is developed independently by various companies, and many processes are essentially black boxes, meaning information is not disclosed). The cost of cognitive reasoning is extremely high, and many employees might just give up halfway through exploration.
 
-## AI 公司的解決方向
+## Solutions from AI Companies
 
-回到這些 AI 公司本身，他們的角度是希望有更多人可以使用他們出的工具當作員工。可是這些問題要怎麼解決？總不可能叫大家全部去用 macOS 吧？（雖然之前有一波還真的帶動了 Mac mini 熱賣潮⋯⋯）
+Back to these AI companies themselves, their perspective is hoping more people can use the tools they release as employees. But how can these problems be solved? It's impossible to tell everyone to just use macOS, right? (Though a recent wave really did drive up Mac mini sales...)
 
-為了降低前面提到過的授權阻力以及這個問題，目前我看到有幾種解決方向：
+To lower the authorization friction mentioned earlier and address this problem, I currently see a few directions for solutions:
 
-### 1. 建立隔離環境
+### 1. Building Isolated Environments
 
-不管是進階使用者自己來，還是這些 AI 公司自己提供。以 ChatGPT 的桌面應用程式來說，可以注意到他的 Agent 模式會建立一個隔離環境，然後執行程式指令操作，這樣內部發生什麼事都不會影響外面。同時很多工具本身本來就有沙盒 (sandbox) 模式。另外有一些進階使用者，使用這些 AI 公司提供的工具，都會自己建立隔離環境，如限制讀寫目錄、建立虛擬機之類的。
+Whether it is advanced users doing it themselves or these AI companies providing it. Taking ChatGPT's desktop application as an example, you can notice that its Agent mode establishes an isolated environment and then executes programmatic commands, so whatever happens inside won't affect the outside. At the same time, many tools inherently have a sandbox mode. Additionally, some advanced users, when utilizing tools provided by these AI companies, will build their own isolated environments, such as restricting read/write directories or setting up virtual machines.
 
-### 2. 透過視覺辨識推理直接硬幹
+### 2. Brute-Forcing via Visual Recognition and Reasoning
 
-也就是直接螢幕截圖或者取得網頁介面上的操作元件位置，然後進行操作。事實上，如果你完全不擔心隱私資料問題，中國那邊事實上已經實現把手機完全交給雲端 AI 控制，他可以幫你發訊息、自動上網搜集資料、自動篩選社群網站上所需資訊，全部自動化。
+That is, directly taking screenshots or acquiring the positions of operational elements on a web interface to perform actions. In fact, if you are not worried about privacy data issues at all, they have actually realized handing over full control of the phone to cloud AI in China. It can help you send messages, automatically search for information on the internet, and automatically filter necessary information on social media, all fully automated.
 
-但是接下來就會扯到另外一個極端複雜的問題：資料授權的交互以及隱私邊界在哪裡？
+But then this leads to another extremely complex issue: where is the boundary of data authorization interaction and privacy?
 
-## 身分驗證與信任的問題
+## The Problem of Identity Verification and Trust
 
-我們把角色又更換一下，如果今天你是一個要處理行政事務的一般民眾，走進去政府機關要辦事，政府機關要怎麼確認你是不是真的是民眾本人？常見的認證程序是身分證件、照片辨識。
+Let's change roles again. If today you are an ordinary citizen going into a government agency to handle administrative affairs, how does the government agency verify that you are indeed the citizen in question? The common verification procedure involves ID documents and photo recognition.
 
-但是在數位系統，這個程序要怎麼落實？總不可能說你的 Gmail 報一下密碼就直接通行吧？這樣每個工具都可以對你的 email 進行操作你放心？更別提密碼跟身分證字號這種東西外洩在網路世界已經是常見的事了。
+But in digital systems, how can this procedure be implemented? It's impossible to just recite your Gmail password and gain direct passage, right? Would you feel safe if every tool could operate your email? Not to mention that passwords and ID numbers leaking on the internet is already a common occurrence.
 
-所以光這個不同資料存取的授權認證，本身就是這些 AI 工具助手很大的阻力。
+Therefore, the authorization and authentication of different data access alone is a huge obstacle for these AI tool assistants.
 
-或者把角色疊加上去，如果今天一個你公司的員工，跑去經濟部說要申請公司營業變更，他們要如何核實這個員工真的是代表你本人？
+Or stack the roles: if today an employee of your company goes to the Ministry of Economic Affairs to apply for a business alteration, how do they verify that this employee truly represents you?
 
-我們陰謀論一點，外面的人挾持這個員工，讓他偷了你公司的認證文件並且偽造你的簽名，也不是不可能。那麼現在的 Agent 代理人工具呢？在數位系統內他甚至沒有情緒、表情、以及其他求救訊號讓你判斷真偽。
+Let's be a bit conspiratorial: it's not impossible for outsiders to hijack this employee, make them steal your company's certification documents, and forge your signature. So what about current Agent proxy tools? In the digital system, they don't even have emotions, expressions, or other distress signals for you to judge authenticity.
 
-這也是為什麼在 AI 工具被希望要更加智慧的狀況下，資訊安全政策也更加敏感被重視。
+This is also why, in a situation where AI tools are expected to be smarter, information security policies are also taken more seriously and sensitively.
 
-macOS 在安全上有先天優勢是，每一種操作權限，如同你去政府部門申請讀取或寫入什麼樣的個人資料，都有完整的流程以及限制。Windows 其實也有，而且要調也可以很嚴格，但是預設不若 macOS 嚴格有條理，因此這也是一個這些 AI 工具為何更適合運作在 macOS 系統的因素。
+macOS has an inherent advantage in security: every type of operational permission, just like you going to a government department to apply for reading or writing certain personal data, has a complete process and restriction. Windows actually has this too, and it can be adjusted to be very strict, but by default, it is not as strict and organized as macOS. Thus, this is also a factor in why these AI tools are more suitable for operating on the macOS system.
 
-## 為什麼 AI 工具還沒有真正落地到一般人手中
+## Why AI Tools Have Not Truly Landed in the Hands of Ordinary People
 
-這篇文不知不覺就打到非常長了，最後來個收尾。
+This article has unknowingly become very long; let's wrap it up.
 
-如果你真心想要好好用好這個 AI 員工，綜合以上因素，我們發現有很多阻力因素，這也是為什麼有些人已經用到飛起，但是還沒有順利落地到一般人手中。
+If you sincerely want to make good use of this AI employee, synthesizing the above factors, we find there are many friction factors. This is also why some people are already flying high with it, but it hasn't yet smoothly landed in the hands of ordinary people.
 
-### 1. 沒有對 AI 工具可以做到哪些事的直接認知
+### 1. Lack of Direct Cognition of What AI Tools Can Do
 
-新請的人類員工，再怎麼樣都有一個基本現實框架，你可以預期他會做什麼，他不會做什麼。然而 AI 工具，大部人的認知仍然停留在問答以及資訊搜集，涉及到資料變更修改的狀況，無法這麼放心的直接交給他。
+With newly hired human employees, no matter what, there is a basic reality framework; you can anticipate what they will and will not do. However, for AI tools, most people's cognition remains at Q&A and information gathering. When it involves data alteration and modification, they cannot confidently hand it directly to them.
 
-另外，AI 工具並不像真人一樣，有與你互動的默契。這個默契一部分是他會主動漸漸磨合到你可以直接評估他能力邊界到哪裡。AI 工具只會等你發號指令，並且提示你還可以做什麼。
+Additionally, AI tools do not have a tacit understanding of interacting with you like real people do. Part of this tacit understanding is that they will proactively and gradually adjust until you can directly assess the boundaries of their capabilities. AI tools will only wait for you to issue commands and prompt you on what else can be done.
 
-這時候，有寫程式以及系統操作知識的工程師就是能力發揮的最佳族群，因為工程師所認知的程式以及文字指令可以做到的事情，就是 AI 工具的部分上限。同時越強大的模型，他越能自己編排這些程式的規劃順序以及執行步驟，也就是越能將你交代的模糊不清的指令，化成具體的程序步驟。
+At this point, engineers with programming and system operation knowledge are the best demographic to exert this capability, because the things engineers know that programs and text commands can achieve are the partial upper limit of AI tools. Meanwhile, the more powerful the model, the better it is at self-orchestrating the planning sequence and execution steps of these programs, which means it can better translate your ambiguous commands into concrete procedural steps.
 
-### 2. 沒有如何正確降低阻力的背景知識
+### 2. Lack of Background Knowledge on How to Correctly Lower Friction
 
-要繞開限制阻力，正確解放 AI 工具，必須建立好完整的資料邊界，或者準備好相關保護備份措施。然而這些能力主要體現在熟知數位系統的工程師。
+To bypass restrictions and correctly unleash AI tools, one must establish complete data boundaries or prepare relevant protection and backup measures. However, these abilities are primarily embodied by engineers familiar with digital systems.
 
-你要一般人準備好沙盒、隔離環境？你要他懂得定時備份？你丟一堆專有名詞如 git, docker, VM, WSL⋯⋯我看大部分人直接頭昏。甚至筆者寫到這邊又猶豫前面寫到 Unix 是不是已經太超過了。
+You want ordinary people to prepare sandboxes and isolated environments? You want them to understand regular backups? You throw a bunch of jargon like git, docker, VM, WSL... I see most people getting dizzy right away. Even the author hesitated here, wondering if writing about Unix earlier was already too much.
 
-另外數位授權的阻力本身也是阻礙，在資安防範措施日益嚴格的情況下，我如果要允許 AI 工具操作我散落在不同雲端服務的數位資產，如 Gmail, Google Calendar, 或者其他服務，光存取介面有沒有完整的認證機制要去探索就是一個時間以及精力成本，就像百貨公司羅列的那些家電一樣。
+Furthermore, the friction of digital authorization itself is an obstacle. Under increasingly strict information security precautions, if I want to allow AI tools to operate my digital assets scattered across different cloud services, such as Gmail, Google Calendar, or other services, just exploring whether the access interface has a complete authentication mechanism is a cost in time and energy, much like those appliances lined up in a department store.
 
-### 3. 對於自己隱私資料的掌控能力不足，或者對 AI 服務商的信任度問題
+### 3. Insufficient Control over Personal Privacy Data, or Trust Issues with AI Service Providers
 
-基本上，當你開始用 AI 工具處理這些文件，你就要接受這些文件內含的資訊絕對會被上傳到雲端伺服器，可能被公司做處理運用。比如說我的身分證件照片、我的銀行帳戶明文，只要我開始叫他整理，一定都會被傳上去。
+Basically, when you start using AI tools to process these documents, you have to accept that the information contained within will absolutely be uploaded to cloud servers and might be processed and utilized by the companies. For instance, my ID photos or my bank account plain text, as long as I tell it to organize them, will definitely be uploaded.
 
-當你有這麼一絲絲的不放心，卻又無法對自己的資料做去敏感化處理，那麼你對 AI 工具就不會願意使用。這也是為什麼有一派路線是希望發展本地端 AI。
+When you have even the slightest bit of unease, yet cannot desensitize your own data, you won't be willing to use AI tools. This is also why there is a faction hoping to develop local AI.
 
-## 回到 Codex Windows 版
+## Returning to Codex for Windows
 
-回到文章一開頭，Windows 版的 Codex 工具雖然已經釋出，並且我鼓勵大家探索，但其實對手 Claude 應該已經有類似的工具。
+Returning to the beginning of the article, although the Windows version of the Codex tool has been released, and I encourage everyone to explore it, rival Claude probably already has similar tools.
 
-同時我的語氣也沒有很積極，為什麼？
+At the same time, my tone isn't very enthusiastic. Why?
 
-因為有以上討論的問題，以及 Windows 的先天適性。我甚至看到這個 Codex 桌面版工具是透過 WSL 工具去跑，也就是在 Windows 內建立一個 Linux 虛擬機隔離起來。但是依我對 Windows 三天兩頭出問題的認知（筆者很久沒用 Windows 辦正事了，上一次是使用自然人憑證），我覺得他的使用率一定無法像 macOS 這邊上去（出問題不要找我，甩鍋的意思X）。
+Because of the problems discussed above, and the inherent aptitude of Windows. I even saw that this Codex desktop tool runs via the WSL tool, which means setting up an isolated Linux virtual machine within Windows. But based on my understanding of Windows running into problems every other day (the author hasn't used Windows for serious business in a long time; the last time was using a Citizen Digital Certificate), I feel its usage rate will definitely not reach the levels on macOS (don't come to me if things go wrong, just passing the buck X).
 
-所以這篇可能更像是一個外行人的科普 murmur 文吧。
+So this piece is probably more like a layman's popular science murmur article.

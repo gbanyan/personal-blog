@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/再探 Linux桌面 - Manjaro Linux 的漫遊"
-title: 再探 Linux桌面 - Manjaro Linux 的漫遊
+title: Revisiting the Linux Desktop - A Roaming Through Manjaro Linux
 slug: manjaro-linux-desktop-wandering
 ghost_id: 67e4ad0ec5a22a00013544de
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-27T01:42:38.000Z'
 updated_at: '2025-03-27T01:44:39.000Z'
 published_at: '2021-06-15T13:16:00.000Z'
-custom_excerpt: Linux 主要拿來當作伺服器網頁開發，將桌面環境拿來實際工作的嘗試不是沒有，但忙於課業，並沒有額外心力抓 Bugs, 因此總是以心力交瘁告終。
+custom_excerpt: Linux is mainly used for server web development. Attempts to use a desktop environment for actual work are not nonexistent, but being busy with studies, I didn't have the extra energy to squash bugs, so it always ended in mental exhaustion.
 tags:
 - Linux
 authors:
@@ -19,82 +20,82 @@ authors:
 feature_image: ../assets/photo-1629654297299-c8506221ca97.jpg
 ---
 
-## Preface 前言
+## Preface
 
-### 記憶中的 Linux
+### Linux in My Memory
 
-我從國小就開始接觸 Linux了，在慢慢弄懂 Linux 體系、架構以後，對 Linux 的高可自訂性又愛又恨。後期 Linux 主要拿來當作伺服器網頁開發，將桌面環境拿來實際工作的嘗試不是沒有，但忙於課業，並沒有額外心力抓 Bugs, 因此總是以心力交瘁告終。
+I have been in contact with Linux since elementary school. After slowly understanding the Linux ecosystem and architecture, I developed a love-hate relationship with its high customizability. In the later stages, Linux was mainly used for server web development. Attempts to use a desktop environment for actual work were not nonexistent, but being busy with my studies, I didn't have the extra energy to squash bugs, so it always ended in mental and physical exhaustion.
 
-但是習慣 Unix 架構，所以想找一個較穩定的桌面環境，至少可以兼顧學業、工作，所以就在 2013 年買了 Macbook Air 跨入頻果體系至今。
+However, being accustomed to the Unix architecture, I wanted to find a relatively stable desktop environment that could at least balance academics and work. So in 2013, I bought a Macbook Air and stepped into the Apple ecosystem, where I remain to this day.
 
-### 對 Linux 桌面環境的看法一二
+### A Few Thoughts on the Linux Desktop Environment
 
-畢竟是軟體開發的外行人，一些對 Linux 桌面發展的想法也略顯鄙陋。不過覺得 Linux 桌面環境開發的問題，其實是來自於開放原始碼開發的社群。不同的元件，有不同個體的開發者或者團體在維護，彼此之間的想法並不總是一致，甚至會碰到意見相左吵起來懸而未決的情況。
+Since I am, after all, a layman in software development, some of my thoughts on the development of the Linux desktop may seem superficial. However, I feel that the problems with Linux desktop environment development actually stem from the open-source development community. Different components are maintained by different individual developers or groups, and their ideas are not always aligned. You may even encounter situations where differing opinions lead to arguments that remain unresolved.
 
-再來，Linux 的構成元件分散成上中下游許多部分，很難要求各元件的開發團隊為了其他多到數不清的元件做完整的相容性測試，所以使用者變成要有一定 Debug 的能力。某種程度上影響了 Linux 桌面的普及程度。
+Furthermore, the components of Linux are scattered across many upstream, midstream, and downstream parts. It is difficult to demand that the development team of each component perform comprehensive compatibility testing for the countless other components. Consequently, users are required to have a certain level of debugging capability. To some extent, this has affected the popularization of the Linux desktop.
 
-Linux 社群本質上是來自世界各地，有活力但是鬆散，沒有約束力自由開闊的。想要貢獻什麼隨時可以加入或退出，也隨時可以不服別人想法自己重弄一個。在 distrowatch.org, 可以看到無數的發行版，每套發行版可能都有不一樣宗旨想法。你可以說這跟企業相比，弄出來的成品沒有長期支援的保障，但這並沒有對錯是非之分，正是 Linux 社群的特性，造就了如今 Linux 的風貌。
+The Linux community is essentially composed of people from all over the world; it is vibrant but loose, free and open without binding constraints. Anyone who wants to contribute can join or quit at any time, and they can always disagree with others' ideas and build their own from scratch. On distrowatch.org, you can see countless distributions, and each distribution may have a different mission and philosophy. You could say that compared to corporations, the resulting products lack the guarantee of long-term support, but there is no right or wrong in this. It is exactly this characteristic of the Linux community that has shaped the landscape of Linux today.
 
-### 與 Windows, macOS 相比的劣勢及進展
+### Disadvantages and Progress Compared to Windows and macOS
 
-筆者覺得跟完整的作業系統相比，Linux 要發展桌面系統有幾個劣勢：
+The author feels that compared to complete operating systems, Linux has several disadvantages when it comes to developing a desktop system:
 
-1. 顯卡廠商的支持
-2. UI 設計的 Guideline, 像蘋果的 Human Interface Guidelines
-3. 完整的 Debug 及測試團隊，交付到使用者端時降低問題
-4. 成熟的應用程式生態體系
+1. Graphics card vendor support
+2. UI design guidelines, like Apple's Human Interface Guidelines
+3. A complete debugging and testing team to minimize issues upon delivery to the user end
+4. A mature application ecosystem
 
-以 1 來說，近年來 Nvidia 還有 AMD 對 Linux 桌面的支持都在改進當中，已經不像以前那麼零落了。而第三點來說，就變成要考慮各發行版的特性，有的 Linux 桌面發行版是有完整社群團隊支持的，並且有明確宣套件從測試到進入正式發行的測試週期時程的。
+Regarding point 1, support for the Linux desktop from Nvidia and AMD has been improving in recent years, and it is no longer as fragmented as it used to be. As for the third point, it becomes necessary to consider the characteristics of each distribution. Some Linux desktop distributions are supported by comprehensive community teams and have clearly announced testing cycle schedules from package testing to official release.
 
-第四點，必須說，由 Chrome, Node.js 的發展，Web App 還有 elctron framework 拉近了 Linux 應用與其他作業系統的距離(這一點 macOS 也有受惠)，許多輕度的應用甚至透過瀏覽器就可以了。
+For the fourth point, it must be said that with the development of Chrome and Node.js, Web Apps and the electron framework have narrowed the gap between Linux applications and other operating systems (macOS has also benefited from this). Many lightweight applications can even be handled directly through a browser.
 
-## 再探 Linux - 從 Ubuntu 20.04 開始
+## Revisiting Linux - Starting from Ubuntu 20.04
 
-新組裝了一台 PC 想偶爾玩個單人 PC 遊戲，mac mini 拿去辦公室工作用途，在家裡的主要工作環境又不想使用 Windows, 所以興起了再度使用 Linux 的念頭。
+I built a new PC to occasionally play single-player PC games. My mac mini is taken to the office for work purposes, and I didn't want to use Windows for my primary work environment at home, so the idea of using Linux again arose.
 
-為了避免麻煩，於是選了 Ubuntu 20.04, 想說有企業支持的長期穩定發行版，應該很穩定吧？
+To avoid trouble, I chose Ubuntu 20.04, thinking that a long-term stable distribution supported by a corporation should be very stable, right?
 
-但是用了一段時間，我卻還是更換了作業系統重新安裝，後來檢討，其實 Ubuntu 沒有大問題，只是小系統 UI bug 影響細節的觀感。
+But after using it for a while, I still changed the operating system and reinstalled. Reflecting on it later, Ubuntu didn't actually have major problems; it was just minor system UI bugs that affected the overall perception of the details.
 
-比如說，習慣 macOS 的相反滾輪捲動方向 (Reverse Scrolling)，在系統設定啟用卻懊惱的發現每次重新開機都會跳掉。
+For example, being accustomed to macOS's reverse scrolling direction, I enabled it in the system settings, only to be frustrated to find that it would reset every time I rebooted.
 
-預設的 Gnome 桌面太過樸素，雖然想說服自己習慣就好，但是仍然想動手改一改，結果發現裝太多 Gnome Extension 桌面就會出現各種奇怪的 bug。
+The default Gnome desktop was too plain. Although I tried to convince myself to just get used to it, I still wanted to tweak it. As a result, I found that installing too many Gnome Extensions would cause various weird bugs to appear on the desktop.
 
-綜合結果不太滿意，所以決定更換 Manjaro
+Overall, I was not quite satisfied, so I decided to switch to Manjaro.
 
-## Manjaro KDE - 自作主張的混沌
+## Manjaro KDE - Assertive Chaos
 
-從這時候開始，筆者違背了一開始的初衷：降低維護成本，專注在生產用途
-結果又開始花大把時間玩轉了一些實驗性功能，但是卻沒有換來太好的一致性體驗。
+From this point on, the author violated the initial intention: to lower maintenance costs and focus on production use.
+Instead, I started spending a lot of time playing around with experimental features, but it didn't result in a much better unified experience.
 
-Manjaro 預設的GUI安裝程式就挺好用的了，但是為了想使用 Btrfs 和他的快照功能，所以就使用了 manjaro architect 從命令列構建。Btrfs 的 snapshot 功能很方便，但是卻導致了 grub-reboot 的記憶功能失效，導致我不能重新開機回 Windows, 下次再自動切回 Windows。
+Manjaro's default GUI installer is actually quite good, but because I wanted to use Btrfs and its snapshot feature, I used manjaro-architect to build it from the command line. The snapshot feature of Btrfs is very convenient, but it caused the memory function of grub-reboot to fail, meaning I couldn't reboot into Windows and have it automatically switch back to Windows next time.
 
-對 Btrfs 磁區組成結構不熟，在出事要救時，也要先花一些時間鑽研才知道怎麼下手。
+Unfamiliar with the compositional structure of Btrfs partitions, I also had to spend some time researching where to start when something went wrong and needed rescuing.
 
-另外 KDE 的桌面功能十分完整，看得出來想包山包海的發展路線，但是設定太多，又有隱含的 bug, 常常切換檢查會覺得很麻煩，另外 KDE 跟 Nvidia 似乎不太合，會有畫面畫面渲染的 bug。同時 Wayland 也是完全開不起來。
+Additionally, the desktop features of KDE are very comprehensive, showing an all-encompassing development route. However, there are too many settings and hidden bugs. Frequently switching and checking felt very troublesome. Also, KDE didn't seem to get along well with Nvidia, resulting in screen rendering bugs. At the same time, Wayland completely failed to launch.
 
-後來努力堅守，也裝了 i3-wm 這個平鋪式管理視窗堅守了一陣子。i3-wm 管理視窗習慣以後是真的很順手，而且佈局時，先思考這個視窗的用途，也有助於腦袋清醒思考。然而，i3-wm的問題是，他畢竟是一個獨立於各桌面系統開發的外來物，所以 KDE, Gnome 各桌面系統內部各元件整合時，並不會考慮與 i3-wm 的相容性。用久了，還是明顯可以看到部分系統視窗在 i3-wm 底下的奇怪行為。
+Later, trying to hold my ground, I also installed i3-wm, a tiling window manager, and stuck with it for a while. Once you get used to i3-wm, managing windows is indeed very smooth, and thinking about the purpose of a window before laying it out also helps keep your mind clear. However, the problem with i3-wm is that it is, after all, an external component developed independently from various desktop systems. Therefore, when the internal components of KDE or Gnome desktop systems integrate, they do not consider compatibility with i3-wm. After prolonged use, you can still clearly see the strange behavior of some system windows under i3-wm.
 
-## Manjaro Gnome - 預設安裝的美好
+## Manjaro Gnome - The Beauty of Default Installation
 
-前面所述，折騰許久還是覺得系統有大大小小的不完美之處。後來心一橫，乾脆把 Manjaro 推倒重裝，全部用 GUI 安裝程式的預設值，也不管 Btrfs 格式了。
+As mentioned earlier, after much tossing and turning, I still felt the system had various imperfections large and small. Later, I made a resolute decision and simply wiped out Manjaro and reinstalled it, using all the default values of the GUI installer and ignoring the Btrfs format entirely.
 
-桌面選擇 Gnome, 選擇中文語系，然後就一路安裝到底。
+I chose Gnome for the desktop, selected the Traditional Chinese locale, and installed it all the way through.
 
-結果很驚訝地發現，用起來還挺順手，比對之前透過 Manjaro architect 安裝明顯好用許多。
+To my surprise, I found it quite smooth to use, noticeably better than when I previously installed it via manjaro-architect.
 
-我想主要原因有以下：
+I think the main reasons are as follows:
 
-1. manjaro gnome 預設有安裝一整組好用的 Gnome Extension, 補足了原生 gnome 桌面的不足
-2. 提供的 Layout Switcher 可以依照需求切換 Dock 位置，也有極簡化的平鋪 (Tiling) 風格。
-3. Gnome 風格的系統設定比較簡單，不像 KDE 那般繁複。
+1. Manjaro Gnome comes pre-installed with a whole set of useful Gnome Extensions, making up for the deficiencies of the native Gnome desktop.
+2. The provided Layout Switcher allows switching the Dock position according to your needs and also has a minimalist tiling style.
+3. The Gnome-style system settings are simpler and not as complex as KDE's.
 
-當然也不是沒有缺點，Gnome 桌面的缺點，是許多功能要依靠 Extension 來補足，但是 Extension 之間的相容性不見得很好，裝多了，在調整各 Extension 設定時衝突到就容易導致桌面崩潰。就算是 Manjaro 預設的調多設定也是會這樣。
+Of course, it's not without flaws. The drawback of the Gnome desktop is that many features rely on Extensions to be supplemented, but the compatibility among Extensions isn't always great. If you install too many, conflicts when adjusting the settings of various Extensions can easily cause the desktop to crash. This happens even when tweaking the default settings provided by Manjaro.
 
-至於拋棄 Btrfs 後的備份方案...就直接定期 rsync /home 資料夾到 NAS 資料夾裡面去了。
+As for the backup solution after abandoning Btrfs... I just directly run a scheduled rsync of the /home folder to the NAS folder.
 
-Manjaro Gnome 最讓我驚奇的是，他有內建 Pop OS! 的 Tiling Window extension, 直接提供類似於 i3-wm 的功能。之前寫 i3-wm 寫得要死要活的文字設定檔現在看起來都顯得很浪費時間。
+What surprised me the most about Manjaro Gnome is that it has the Pop OS! tiling window extension built-in, directly providing functionality similar to i3-wm. The text configuration files I used to write painstakingly for i3-wm now seem like a huge waste of time.
 
-## 結尾
+## Conclusion
 
-總之，我現在停留在 Manjaro Gnome 桌面環境了，至少內建的桌面 extension, 程式碼編輯器、瀏覽器、VMWare 裝一裝也日常也還可以用。Manjaro 雖然承襲自 Arch Linux, 但是穩定性不會三天兩頭就炸掉。
+In short, I am now staying with the Manjaro Gnome desktop environment. At least with the built-in desktop extensions, code editor, browser, and VMWare installed, it is usable for everyday tasks. Although Manjaro is derived from Arch Linux, its stability means it won't blow up every few days.

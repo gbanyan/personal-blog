@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/[開箱] - Power Donut 極具設計巧思的便攜延長線"
-title: '[開箱] - Power Donut 極具設計巧思的便攜延長線'
+title: '[Unboxing] - Power Donut: A Portable Power Strip with Ingenious Design'
 slug: power-donut-unboxing
 ghost_id: 67e40ab830b410000153719d
 type: post
@@ -11,8 +12,7 @@ featured: false
 created_at: '2025-03-26T14:10:00.000Z'
 updated_at: '2025-03-26T14:14:47.000Z'
 published_at: '2016-06-04T21:23:00.000Z'
-custom_excerpt: 不知道大家有沒有聽過國外的Kickstarter 募資平台？，在台灣，我有時會瀏覽相類似的平台，flyiingV，看看有沒有讓我眼睛一亮的idea企劃。而在今年初，這個Power
-  Donut 的產品企劃吸引了我的目光，於是我便參與募資，而於今年六月，我收到了順利出貨的成品，以下是開箱文。
+custom_excerpt: Have you ever heard of the crowdfunding platform Kickstarter abroad? In Taiwan, I sometimes browse similar platforms, like flyingV, looking for project ideas that catch my eye. Early this year, this Power Donut project grabbed my attention, so I participated in the crowdfunding. In June this year, I received the successfully shipped final product. Here is the unboxing review.
 tags:
 - Unboxing - 開箱
 authors:
@@ -20,42 +20,42 @@ authors:
 feature_image: ../assets/IMG_0137-1180x650.jpg
 ---
 
-不知道大家有沒有聽過國外的Kickstarter 募資平台？，在台灣，我有時會瀏覽相類似的平台，flyiingV，看看有沒有讓我眼睛一亮的idea企劃。而在今年初，這個Power Donut 的產品企劃吸引了我的目光，於是我便參與募資，而於今年六月，我收到了順利出貨的成品，以下是開箱文。
+Have you ever heard of the crowdfunding platform Kickstarter abroad? In Taiwan, I sometimes browse similar platforms, like flyingV, looking for project ideas that catch my eye. Early this year, this Power Donut project grabbed my attention, so I participated in the crowdfunding. In June this year, I received the successfully shipped final product. Here is the unboxing review.
 
-# 產品外觀
+# Product Appearance
 
 ![](../assets/IMG_0138-1180x650.jpg)
 
-Power Donut的定位是一個「旅行便攜用的延長線」，可是看完照片，猜猜看，延長線上的插座在哪裡呢？第一眼可能會覺得是俯瞰視角中間那個明顯的插座孔，這樣想就錯囉！（哈哈剛拿到我也被騙）
+Power Donut is positioned as a "portable power strip for travel," but looking at the photo, can you guess where the sockets on the extension cord are? At first glance, you might think it's the obvious socket hole in the middle from a top-down view, but you'd be wrong! (Haha, I was fooled too when I first got it.)
 
-仔細看側面，有沒有發現側邊有兩個USB 孔，轉一圈發現每隔一小段就會有插孔，沒錯！這個延長線跟一般傳統的長條型延長線不一樣，插孔是做在圓周邊的！
+Look closely at the sides: do you notice the two USB ports? Rotate it, and you'll find there are sockets spaced at intervals. That's right! This power strip is different from traditional long strips; the sockets are built into the outer circumference!
 
 ![IMG_0139](../assets/IMG_0139-1180x650.jpg)
 
-# 使用情況
+# Usage
 
-要使用時，只要將插在側邊收納孔內的插頭拉起來，就可以完全展開了。
+To use it, you just pull out the plug tucked away in the side storage slot, and it fully extends.
 
 ![IMG_0141](../assets/IMG_0141-1180x650.jpg)![IMG_0142](../assets/IMG_0142-1180x650.jpg)
 
-插滿東西完全不是問題！
+Filling it up with plugs is not an issue at all!
 
-問題來了，那Donut中間的插孔是什麼？
+The question remains, what is that socket hole in the middle of the Donut?
 
 ![IMG_0143](../assets/IMG_0143-1-1180x650.jpg)
 
-原來是旅行用國際規格插孔轉接頭，還設計成可以嵌進Donut中間孔洞
+It turns out it's an international travel adapter, designed perfectly to fit right into the hole in the middle of the Donut.
 
 ![IMG_0144](../assets/IMG_0144-1-1180x650.jpg)
 
-# 設計理念與優點
+# Design Philosophy and Advantages
 
-這個產品最讓我驚艷的特點有：
+The features of this product that amaze me the most are:
 
-* 將傳統長條型延長線插孔並列分佈改設至圓周，在最節省空間的情況下最大化插孔間隙
-* 得利於Donut 圓形設計，延長線可以捲繞收納，增添便利性
-* 另外設計選配旅行轉接頭，完美收納至Donut 中間空間
+* It shifts the side-by-side sockets of traditional linear power strips to the outer circumference, maximizing the spacing between sockets while minimizing the footprint.
+* Thanks to the Donut's circular design, the cord can be wrapped around it for storage, adding convenience.
+* The separately designed optional travel adapter perfectly nests within the middle space of the Donut.
 
-我甫一拿到，便拿給親友看，都獲得不錯的評價。由於產品剛從募資狀態下發表，產品訂價仍稍嫌貴，但是降價到約五六百塊喔，因其實用方便的設計，我看好他後續的市場販售。
+As soon as I got it, I showed it to friends and family, and it received quite favorable reviews. Since the product just launched from crowdfunding, the retail price is still a bit steep, but if it drops to around five or six hundred NTD, given its practical and convenient design, I am optimistic about its future market sales.
 
-[FlyingV 計畫連結](https://www.flyingv.cc/projects/10948)
+[FlyingV Project Link](https://www.flyingv.cc/projects/10948)

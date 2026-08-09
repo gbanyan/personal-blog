@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/OPNsense 在 Proxmox VE 內安裝筆記"
-title: OPNsense 在 Proxmox VE 內安裝筆記
+title: OPNsense Virtualization Installation Notes on Proxmox VE
 slug: opnsense-virtualization-in-proxmox-ve
 ghost_id: 67e4d4f6c5a22a0001354611
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-27T04:32:54.000Z'
 updated_at: '2025-03-27T04:38:57.000Z'
 published_at: '2023-01-29T10:46:00.000Z'
-custom_excerpt: 更換了軟路由硬體故順便更新了筆記
+custom_excerpt: Replaced the soft router hardware and updated my notes accordingly.
 tags:
 - Linux
 - Apps - 軟體
@@ -20,48 +21,48 @@ authors:
 feature_image: ../assets/photo-1520869562399-e772f042f422.jpg
 ---
 
-## 前言
+## Preface
 
-* 更換了軟路由硬體故順便更新了筆記
-* 此篇繼承了 [Proxmox VE + PfSense 安裝](/blog/proxmox-ve-pfsense-installation-note)
-  + 在 Proxmox VE 內的網路安裝架構仍然類似，皆採用半虛擬化網卡 Virtio Net 的架構
-  + 經過測試，Intel J4125 搭配 Intel i225v 網卡， 不用設定網卡直通，也可以跑滿 300M / 100M
-* 更換成 OPNsense 原因有以下考量：
-  + PfSense 需要訂閱 (PfSense Plus) 才會獲得較積極的更新，雖然個人用戶目前免費，但不排除未來需付費可能
-  + OPNsense 的更新策略較為積極，安全性更新週期較短
-  + 可安裝 Zenarmor 以及其他第三方套件來源，雖然後面還是把 Zenarmor 移除了
-  + OPNsense 的 UI 比較人性化一些，可以善用搜尋快速跳到自己想要的設定欄位
+* Replaced the soft router hardware and updated my notes accordingly.
+* This post is a continuation of [Proxmox VE + PfSense 安裝](/blog/proxmox-ve-pfsense-installation-note).
+  + The network installation architecture within Proxmox VE remains similar, utilizing the paravirtualized network interface controller (Virtio Net).
+  + Testing showed that the Intel J4125 paired with the Intel i225v network card can achieve the full 300M / 100M speeds without configuring PCIe passthrough.
+* The switch to OPNsense was made with the following considerations:
+  + PfSense requires a subscription (PfSense Plus) for more aggressive updates. Although it's currently free for home users, future charges cannot be ruled out.
+  + OPNsense has a more proactive update strategy and a shorter security update cycle.
+  + Zenarmor and other third-party packages can be installed, though I ended up removing Zenarmor later on.
+  + The OPNsense UI is more user-friendly, allowing quick navigation to desired settings via search.
 
-## 初始安裝 Installation
+## Installation
 
-* Assign the Port vmbr0 to WAN and vmbr1 to LAN (參見 PfSense 筆記內圖片)
+* Assign the Port vmbr0 to WAN and vmbr1 to LAN (Refer to the images in the PfSense notes)
 * Skip the lagg and vlan configuration
 * Default account and password for enter installation
   + account: installer
-  + pass; opnsense
-* Proxmox VE 內 VM 的設定
+  + pass: opnsense
+* VM settings in Proxmox VE
   + machine type: Q35
   + processors type: host
   + OS type: other
-  + 其他 CPU, memory 視需求調整
+  + Adjust other CPU and memory settings according to needs.
 
-## 設定 Configuration
+## Configuration
 
-### PPPoE settings with IPv6 (適用 Hinet)
+### PPPoE settings with IPv6 (Applicable for Hinet)
 
 * Fill out PPPoE info to establish connection
 * Tick "Use IPv4 connectivity option"
 * at LAN IPv6 section, IPv6 configuration type -> Track Interface, and the options below interface select "WAN"
 * In the Firewall options, Tick "allow IPv6"
 * Add IPv6 ICMP allow rule in WAN firewall rule
-* 如果想指定自架的 DNS (Adguard Home or Pi-Hole) 且想要應用到 IPv6:
+* If you want to use a self-hosted DNS (Adguard Home or Pi-Hole) and apply it to IPv6:
   + Tick the "Manual Router announcement management"
   + Fill the DNS IPv4 settings in the "Router announcement"
   + Hinet IPv6 is Stateless (Stateless DHCPv6 + SLAAC)
   + Disable the DHCPv6 service in the LAN
-  + 這樣做的邏輯是，IPv6 DNS 可以只向 IPv4 位址的 DNS 伺服器請求，還是會回傳 IPv6 的解析位址
+  + The logic here is that IPv6 DNS requests can simply be sent to the IPv4 address DNS server, which will still return IPv6 resolution addresses.
 
-### 安全性設定 Security
+### Security
 
 #### System
 
@@ -88,19 +89,19 @@ feature_image: ../assets/photo-1520869562399-e772f042f422.jpg
 * Follow the guide to add alias of Firehol level 2
 * Add the Cron tab to update the Firewall alias
 
-#### VLAN Configuration (適用於建立訪客網路或者 IoT 專用網路)
+#### VLAN Configuration (For creating a guest network or dedicated IoT network)
 
 * Add VLAN, assign Tag, and make Proxmox VE vtnet aware vlan
 * Assign DHCP server
 * Add Firewall rule to make the VLAN network unable to access the LAN
 
-#### GeoIP and Ailases for Firewall Block (如果想擋特定區域國家的話)
+#### GeoIP and Ailases for Firewall Block (If you want to block specific countries/regions)
 
 * Register the Maxmind GeoIP database
 * Follow the guide to add Firewall aliases
 * Configure to block the specific countries
 
-### Cron (安全性設定完成後，記得設定各列表的更新)
+### Cron (Remember to set up updates for each list after security configuration)
 
 * System and packages update
 * Suricata blocklist update
@@ -108,8 +109,8 @@ feature_image: ../assets/photo-1520869562399-e772f042f422.jpg
 
 ### Others Packages
 
-* Netdata: 另外一種監控服務
-* Wake-On-LAN: 遠端喚醒機器用
-* UPNP: 有安全疑慮者慎用，給 LAN 內服務打洞用的
+* Netdata: Another monitoring service
+* Wake-On-LAN: For waking up machines remotely
+* UPNP: Use with caution if you have security concerns; used for punching holes for services within the LAN
 * Tailscale [OPNsense安装配置Tailscale | 鐵血男兒的BLOG](https://pfschina.org/wp/?p=9163)
 * Wireguard [How to Set Up WireGuard in OPNsense in 2023 - WunderTech](<https://www.wundertech.net/>

@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/Clerk 的見習生涯 - 美沙冬門診心得"
-title: Clerk 的見習生涯 - 美沙冬門診心得
+title: A Clerk's Life - Reflections on the Methadone Clinic
 slug: clerkship-methadone-opd
 ghost_id: 67e4b586c5a22a0001354536
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-27T02:18:46.000Z'
 updated_at: '2025-03-27T02:22:22.000Z'
 published_at: '2015-10-26T14:16:00.000Z'
-custom_excerpt: 美沙冬門診是對於鴉片類藥物毒癮的替代性療法，目的是希望以美沙冬相較之下低毒性、低亢奮成癮性，以及政府管控相關措施來降低這一類毒品的危害。
+custom_excerpt: The methadone clinic provides an alternative therapy for opioid addiction, aiming to reduce the harm of such drugs through methadone's lower toxicity, lower euphoric addiction potential, and related government control measures.
 tags:
 - Medicine - 醫學
 - Writings - 創作
@@ -20,27 +21,27 @@ authors:
 feature_image: ../assets/photo-1620065692611-92d81d646631.jpg
 ---
 
-剛來到精神科，有機會觀摩美沙冬(Methadone)替代門診，聆聽了門診老師的教學，整理了一些心得。
+Having just arrived at the psychiatry department, I had the opportunity to observe the methadone alternative clinic, listened to the attending physician's teaching, and organized some reflections.
 
-美沙冬門診是對於鴉片類藥物毒癮的替代性療法，目的是希望以美沙冬相較之下低毒性、低亢奮成癮性，以及政府管控相關措施來降低這一類毒品的危害。
+The methadone clinic provides an alternative therapy for opioid addiction, aiming to reduce the harm of such drugs through methadone's lower toxicity, lower euphoric addiction potential compared to heroin, and related government control measures.
 
-整體來說，美沙冬替代門診可以減少毒品再使用率，據統計，儘管吸毒者依法會入獄，但是出獄後再犯率還是很高，提供美沙冬可以降低回頭再吸鴉片類毒品的比率。
+Overall, the methadone alternative clinic can reduce the relapse rate of drug use. According to statistics, although drug users will be imprisoned according to the law, the recidivism rate after release is still very high. Providing methadone can reduce the proportion of returning to opioid drug use.
 
-根據教學醫師所述，美沙冬門診在各方面的優點有：
+According to the teaching physician, the advantages of the methadone clinic in various aspects include:
 
-1. 減少成癮者經濟負擔：以海洛因為例，成癮者，每日若花費約三千塊在其買賣上，則月花費高達九萬塊以上，絕對是經濟上極大的負擔。再加上成癮者三不五時的症狀及副作用，影響工作，因此毒品成癮者易走上歪路，無形中增加社會風險。美沙冬門診雖無健保給付，但是各地方政府大都提供補助，鼓勵成癮者以回診率表現良好來爭取，每個月花費僅約一百多，若無任何補助也僅約四百多，遠小於毒品黑市交易的經濟負擔。
-2. 降低再使用毒品比率：因為藥性，美沙冬不太會有像海洛因般使人 High 起來的現象，就算使用了美沙冬回過頭再吸海洛因，海洛因的效果也會降低，因而毒品的吸引力大減，成癮者沒有那麼有誘因再去選擇成本高昂的毒品。
-3. 減少疾病交叉感染的風險：大部分鴉片類藥物如海洛因是注射使用，而針頭的衛生就變成一個重要議題。美沙冬的使用方式為口服飲用，一旦替代毒癮成功，除了避免針頭交叉感染風險如HIV、B and C 型肝炎等血液傳播疾病，也避免了消毒不當造成的蜂窩性組織炎等細菌性感染。有一部份被轉介來的美沙冬門診，就是從疾管局通報HIV的案例，目的是為了降低社會風險。(後面會再提到)
-4. 幫助成癮者回歸生活：毒品成癮容易造成人際疏離(想想看如果一天到晚跟人親戚好友借錢又沒有能力還誰想理你)及其他生活問題。藉由美沙冬替代門診，希望可以幫助成癮者建立規律的生活，降低癮患對生活的危害，讓原先幾無法自理生活的患者，可以正常工作及參與社交生活
+1. Reducing the financial burden on addicts: Taking heroin as an example, if an addict spends about three thousand NT dollars a day on its trade, the monthly cost is over ninety thousand NT dollars, which is absolutely a huge financial burden. In addition, the frequent symptoms and side effects of addicts affect their work, making drug addicts prone to take the wrong path and implicitly increasing social risks. Although the methadone clinic is not covered by national health insurance, most local governments offer subsidies, encouraging addicts to strive for them with good return visit rates. The monthly cost is only about over a hundred NT dollars, and even without any subsidies, it is only about over four hundred NT dollars, far less than the financial burden of the drug black market.
+2. Decreasing the rate of drug reuse: Due to its pharmacological properties, methadone does not produce the same "high" as heroin. Even if one uses methadone and then goes back to using heroin, the effect of heroin will be diminished, greatly reducing the drug's appeal. Addicts have less incentive to choose expensive drugs again.
+3. Reducing the risk of cross-infection of diseases: Most opioids like heroin are used via injection, making needle hygiene a crucial issue. Methadone is administered orally. Once drug addiction is successfully replaced, it not only avoids the risk of cross-infection from needles—such as blood-borne diseases like HIV and Hepatitis B and C—but also prevents bacterial infections like cellulitis caused by improper disinfection. Some patients referred to the methadone clinic are HIV cases reported by the Centers for Disease Control (CDC), aimed at lowering societal risks. (This will be mentioned again later.)
+4. Helping addicts reintegrate into life: Drug addiction easily leads to social alienation (think about it: if you constantly borrow money from relatives and friends and have no ability to repay, who would want to associate with you?) and other life issues. Through the methadone alternative clinic, the hope is to help addicts establish a regular life, minimize the harm addiction causes to their lives, and enable patients who originally could hardly manage their lives to work normally and participate in social activities.
 
-雖然健保沒有給付，但是其實台灣各地方政府大都有鼓勵的補助措施，如果患者在替代性美沙冬門診療程期間，出席率高並遵守規定，就可以申請補助。政府藉由補助來增加替代性美沙冬門診的誘因。同時，法界也漸漸接納以治療代替懲罰的觀念，許多檢察官在考量是否起訴鴉片類毒品使用者時，也會讓成癮者有機會選擇美沙冬門診，以門診療程期間表現良好來換取緩起訴，只留案底。
+Although national health insurance does not cover it, most local governments in Taiwan actually have encouraging subsidy measures. If patients maintain a high attendance rate and follow the rules during the alternative methadone clinic treatment, they can apply for subsidies. The government uses subsidies to increase the incentive for alternative methadone clinics. At the same time, the legal community is gradually accepting the concept of substituting treatment for punishment. When considering whether to indict opioid drug users, many prosecutors will also give addicts the opportunity to choose the methadone clinic, exchanging good behavior during the clinic treatment for deferred prosecution, leaving only a criminal record.
 
-除了法界的個案外，也有從疾病管制署轉介而來的個案，可能是具有毒癮的HIV 或是其他可能會透過針頭共用傳播的重大疾病患者。疾管局轉介這些個案的目的，是因為美沙冬採用口服形式，一旦替代成功，可以根絕患者毒癮發作共用針頭的疾病傳染途徑，降低社會風險。
+In addition to legal cases, there are also cases referred by the Centers for Disease Control (CDC), which might be patients with drug addiction who have HIV or other severe diseases that can be transmitted through shared needles. The purpose of the CDC referring these cases is because methadone is taken orally; once substitution is successful, the transmission route of sharing needles during withdrawal can be eradicated, lowering societal risk.
 
-在美沙冬門診也會碰到一些法律邊緣的問題，如果患者透露治療期間受不了毒癮發作，又回去偷偷施打，該不該報警？我覺得這其實與前一陣子的警察偽裝成社工逮捕犯人有類似的情境考量，醫師扮演的角色需要與病患建立一定的信賴關係，並透過此關係輔導並幫助病人儘早脫離毒品的魔掌。如果貿然破壞此關係，將打斷了此次療程，耽誤了病人可能是終生第一次也可能是最後一次脫離毒品的機會，也可能破壞了美沙冬門診在社會角落的立場。毒品成癮的族群中，或多或少人際網絡都會互通。當美沙冬門診此一管道不再被毒品成癮族群信任，將衝擊到整體的毒品防治。
+In the methadone clinic, one may also encounter borderline legal issues. If a patient reveals that they couldn't withstand the withdrawal symptoms during treatment and secretly went back to injecting, should the police be called? I feel this actually shares similar contextual considerations with the recent incident where police disguised themselves as social workers to arrest a criminal. The role of the physician requires establishing a certain degree of trust with the patient, and through this relationship, counseling and helping the patient escape the clutches of drugs as soon as possible. If this relationship is rashly destroyed, it will interrupt the current treatment course, delaying what might be the patient's first or last chance in their lifetime to break free from drugs, and potentially undermining the stance of the methadone clinic in corners of society. Within the drug-addicted population, interpersonal networks are more or less interconnected. When this channel of the methadone clinic is no longer trusted by the drug-addicted community, overall drug prevention efforts will be impacted.
 
-美沙冬門診的病人初診需要花費比較大的功夫去評估，包括藥物使用狀況、肝功能、腎功能檢查等，同時也必須教育病人必備的知識。有些病人會以為美沙冬是類似解酒的藥物，施打鴉片類藥物後再施打美沙冬可以清除毒品毒性。如此誤解易導致藥物施打過量，鴉片類藥物施打過度會發生瞳孔縮小、急性呼吸抑制，甚至死亡，相當危險。
+First-time patients at the methadone clinic require significant effort to evaluate, including drug usage status, liver function, and kidney function tests, while also educating patients on essential knowledge. Some patients mistakenly believe that methadone is similar to a hangover remedy and that taking methadone after using opioids can clear the drug's toxicity. Such misunderstandings easily lead to drug overdoses. Excessive use of opioid drugs can result in pinpoint pupils, acute respiratory depression, and even death, which is highly dangerous.
 
-由於美沙冬是管制藥品，在美沙冬門診處有一套嚴謹的管理流程，有全台灣連線的病患資料庫避免重複領藥，且需當場領藥當場服用，配藥人員必須盯著病人確定完全吞下，不可讓病人有機會帶出門診處。另外以成大醫院來說，藥品的總量有嚴格的管制，從藥品儲存處至門診運送皆有保全人員監控，決不讓外人有一絲機會偷竊盜賣。
+Because methadone is a controlled substance, there is a rigorous management process at the methadone clinic. There is an island-wide patient database to prevent duplicate drug dispensing, and it must be dispensed and consumed on the spot. Dispensing staff must watch the patient to ensure it is completely swallowed, allowing no opportunity for the patient to take it out of the clinic. Furthermore, at National Cheng Kung University Hospital, for example, the total amount of the drug is strictly controlled. From the drug storage area to the clinic transport, it is monitored by security personnel, absolutely not giving outsiders any chance to steal and sell it illegally.
 
-> **參考資料**[台中慈濟醫院 身心科](http://taichung.tzuchi.com.tw/w/?id=1323&parent_id=1324)[台北市立聯合醫院](http://www.tpech.gov.taipei/ct.asp?xItem=665127&ctNode=14308&mp=109231)
+> **References** [Taichung Tzu Chi Hospital, Psychiatry Department](http://taichung.tzuchi.com.tw/w/?id=1323&parent_id=1324) [Taipei City Hospital](http://www.tpech.gov.taipei/ct.asp?xItem=665127&ctNode=14308&mp=109231)

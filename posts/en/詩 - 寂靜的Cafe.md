@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/詩 - 寂靜的Cafe"
-title: 詩 - 寂靜的Cafe
+title: Poem - Silent Cafe
 slug: memory-silent-cafe-poem-college
 ghost_id: 67e3a728e551140001120f1a
 type: post
@@ -18,22 +19,22 @@ authors:
 feature_image: ../assets/Cafe-creation-cover.jpg
 ---
 
-*整理大學時代封存的舊筆記時發現的東西，現在看來莫名地有韻味，放上部落格以紀念*
+*Something found while organizing old notebooks sealed away from my college days. Reading it now, it carries an inexplicable charm, so I'm posting it on the blog as a memento.*
 
 ---
 
-要不要來對飲一杯?
-滴答，我倆在暗夜裡空對
-啜飲一口，淡淡的皺了眉
-是什麼這麼苦澀?
-微微的一分暗恨，久久無法化開
-刮著舌尖，燙嘴刺痛之執念
-加一點奶精，你道
-讓時間優雅畫個弧，
-可是我攪一攪，聞一聞
-卻仍舊輕輕地放下了......
-要喝或不喝呢?
-壁上的時鐘繼續走著。
-滴，答，滴，答。
+Shall we drink a cup together?
+Tick-tock, we face each other empty-handed in the dark night.
+Taking a sip, a faint frown appears.
+What is it that is so bitter?
+A slight tinge of hidden resentment, dissolving not for a long time.
+Scraping the tip of the tongue, the scalding and stinging obsession.
+Add a little creamer, you said,
+Let time gracefully draw an arc.
+But I stir and stir, taking a smell,
+Yet still I gently set it down...
+To drink or not to drink?
+The clock on the wall continues to tick.
+Tick, tock, tick, tock.
 
 ---

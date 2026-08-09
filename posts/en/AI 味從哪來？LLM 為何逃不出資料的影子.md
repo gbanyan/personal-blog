@@ -1,64 +1,65 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/AI 味從哪來？LLM 為何逃不出資料的影子"
-title: AI 味從哪來？LLM 為何逃不出資料的影子
+title: Where Does the AI Taste Come From? Why LLMs Cannot Escape the Shadow of Data
 slug: ai-taste-llm-data-shadow
 published_at: '2026-03-18'
 tags:
 - Writings - 創作
 - Research - 研究
-description: LLM 的輸出為什麼總有一股 AI 味？從輸入法預測到推薦演算法，再到大型語言模型，本質上都是機率關聯性的預測運算。當模型只能從既有資料中尋找最可能的模式，那些從未出現過的新奇事物，是否注定被忽略？筆者稱之為「相關性的詛咒」。
+description: Why do LLM outputs always have an "AI taste"? From input method predictions to recommendation algorithms, and now Large Language Models, they are fundamentally probabilistic association prediction computations. When models can only seek the most probable patterns from existing data, are novel things that have never appeared doomed to be ignored? I call this the "Curse of Correlation."
 authors:
 - Gbanyan
 feature_image: ../assets/ai-taste-llm-data-shadow.jpg
 ---
 
-趁熱打鐵，再來寫一篇對於 LLM 的能力局限討論長文（其實是筆者要出的論文構想被做去了不爽中X）
+Striking while the iron is hot, here is another long post discussing the capability limits of LLMs (actually, I'm just annoyed that a paper idea I had was done by someone else X).
 
-曾經有人說，現在的 LLM 感覺是人類的影子，也有人說，LLM 輸出的東西，好像沒有特別調整過的話，都有一股 AI 味。另外，探索新的研究主題，好像也有一些局限？
+Some have said that current LLMs feel like the shadow of humanity, while others say that LLM outputs seem to carry an "AI taste" unless specially tuned. Furthermore, exploring new research topics also seems to have some limitations?
 
-## 從早期數位工具的脈絡開始
+## Starting from the Context of Early Digital Tools
 
-讓我們從比較早期數位工具一些脈絡開始。其實很多方便的應用，看上去有智慧，都要先從機率、統計、關聯、預測做起。比如說輸入法以及候選字，即是預測使用者輸入的下一個字詞。
+Let's start from some contexts of earlier digital tools. In fact, many convenient applications that appear intelligent must begin with probability, statistics, correlation, and prediction. For example, input methods and candidate words are essentially predicting the next word the user will type.
 
-另外 Spotify 的歌單、Youtube 的影片頻道的推薦、社群網站的貼文，則是收集了許多特徵量化，輸入模型後進行關聯性的機率預測，並透過使用者自身的反饋不斷地強化訓練，所以會越趨同使用者的喜好。
+Additionally, Spotify playlists, recommended video channels on YouTube, and social media posts collect numerous quantified features, feed them into models for probabilistic predictions of associations, and continuously reinforce training through the user's own feedback, thus increasingly converging on the user's preferences.
 
-但是這樣的脈絡，會引來一些潛在的問題。有沒有想過為什麼同溫層這麼容易出現？因為這種透過預測關聯的模式，傾向強化比較表層的可見模式，機率較低、數值上較不可能的，會被這一套脈絡推得更遠。再映射至現實一點，那就是更難接觸到與你特質相異、表面偏好不同的群體了——除非你更主動去探索。
+But this context introduces some potential problems. Have you ever thought about why echo chambers emerge so easily? Because this pattern of predicting associations tends to reinforce the more superficial, visible patterns. The less probable and numerically unlikely ones will be pushed further away by this system. Projecting this onto reality a bit more, it makes it harder to come into contact with groups that have different traits and surface preferences than you do—unless you more proactively explore.
 
-## LLM 的本質：預測下一個資料片段
+## The Essence of LLMs: Predicting the Next Data Fragment
 
-筆者能力較弱，還沒有辦法從 LLM 底層的注意力機制完整解釋原理，但是 LLM 的機制，本質上可以想成：從人類文明以來所有資料記錄，去訓練出能夠預測最有可能的下一個資料片段的模型。
+My abilities are relatively weak, so I cannot fully explain the principles from the underlying attention mechanism of LLMs, but the mechanism of LLMs can essentially be thought of as: training a model from all recorded data since human civilization began to predict the most likely next data fragment.
 
-至於預測能力的強弱、如何對齊人類的偏好、以及如何有效利用硬體資源，還有如何控制預測時輸入的資料長度盡可能的不衰減，重要程度如何浮動，就是各家模型調校能力強弱。甚至資料處理流程分成許多步，而不是單一模型一次輸出也是。量變帶來質變，這也是為什麼現在 LLM 能夠這麼接近人類回答的原因。
+As for the strength of its predictive capabilities, how it aligns with human preferences, how to effectively utilize hardware resources, how to control the input data length during prediction so it attenuates as little as possible, and how the importance fluctuates—these depend on the tuning capabilities of different models. It even includes dividing the data processing pipeline into multiple steps, rather than having a single model output it all at once. Quantitative changes bring about qualitative changes, which is why current LLMs can provide answers so close to humans.
 
-## 相關性的詛咒
+## The Curse of Correlation
 
-但是問題來了，底層的複雜機率關聯性預測運算，是否在無限對齊人類輸出的同時，也帶來了某種程度的侷限？人類的創意聯想及思考，是不是比起表層的機率關聯性運算更加跳躍、更沒有脈絡可循？如果 LLM 只是就最可能、資料上關聯性最強的模式幫我們過濾尋找資料，是不是就容易忽略了，那些從未探尋過、在人類資料中很少出現或甚至從未出現的新奇事物？
+But here is the problem: does the underlying complex probabilistic association prediction computation, while infinitely aligning with human outputs, also bring a certain degree of limitation? Are human creative associations and thoughts more discontinuous and less traceable than superficial probabilistic association computations? If LLMs just help us filter and find information based on the most probable and strongly correlated patterns in the data, is it easy to overlook novel things that have never been explored, rarely appear in human data, or have never appeared at all?
 
-這個現象，筆者稱之為「相關性的詛咒」。
+I call this phenomenon the "Curse of Correlation."
 
-新注音或者其他可以預測選字的輸入法出現時，人類的使用的語言其實經歷過一次篩選，變成為了效率，而更符合輸入法預測的文字樣貌，少了較複雜的文字變體、少見的詞藻甚至創作意境用的新詞。
+When New Phonetic (Bopomofo) or other predictive input methods emerged, the language used by humans actually underwent a filtering process, becoming more aligned with input method predictions for efficiency, with fewer complex textual variants, rare vocabulary, or newly coined words intended for creative atmospheres.
 
-那麼如果沒有精心設計過的 Prompt 以及融合人類自己想法的提示詞，LLM 的創作、輸出，是不是某種程度也會更容易出現 AI 味，跟輸入法的常見詞彙以及文章是同一個道理？因為本質上都只是在預測最有可能、最大機率、當前情境下在所有既有資料中的最可能情境。
+So, without carefully designed Prompts and prompt words integrating human thoughts, are LLM creations and outputs somewhat more prone to having an "AI taste," following the same logic as the common vocabulary and texts of input methods? Because, essentially, they are both just predicting the most probable, maximum likelihood, and most likely scenario given the current context across all existing data.
 
-## 人類的影子
+## The Shadow of Humanity
 
-筆者相信，這也是為什麼 LLM 被說像是人類的影子，因為只要在資料內可以觀察到的太固定的模式、流程，都可能在未來算力資源增加、模型發展時被封印進去。反過來說，你也可以說，是不是人類大部分群體其實都很好預測？（被打
+I believe this is also why LLMs are said to be like the shadow of humanity. Because any pattern or process that is too fixed and observable in the data might be sealed into the models in the future as computing resources increase and models develop. Conversely, you could also say, are most human groups actually just very predictable? (Gets hit)
 
-然而，資料沒有的東西呢？在人類歷史上，其實蠻多是天外飛來一筆、甚至意外發現的驚喜，但是人類就是有能力，巧妙的瞬間頓悟，把看似沒有關聯的脈絡聯繫在一起，從而創造出新的發現。在當前的強關聯性運算的架構下，LLM 有辦法重現這一點嗎？
+However, what about things not in the data? In human history, many discoveries were strokes of genius or even happy accidents, but humans have the ability to cleverly achieve sudden enlightenment, connecting seemingly unrelated contexts to create new discoveries. Under the current architecture of strong correlational computation, do LLMs have the ability to replicate this?
 
-## 未完成的論文構想
+## An Unfinished Paper Idea
 
-因此筆者原先的論文構想是，如果我特意去挑選距離很遠的命名實體以及詞彙，強迫 LLM 輸出他們的之間的關聯或者一段合理性的說明，在既有資料幾乎沒有描述的狀況下，LLM 究竟會怎麼反應？
+Therefore, my original paper idea was: if I deliberately picked named entities and vocabulary that were very far apart and forced the LLM to output a connection or a reasonable explanation between them, how would the LLM actually react when there is almost no description in existing data?
 
-因為人類只要智慧程度到一定程度，他都有辦法掰出合理的說辭，但是 LLM 從低階到高階，在這種情境下，你會看到的輸出從胡言亂語到幻覺嚴重的關聯，剛好驗證了 LLM 與人類能力的差距。只是距離上很遠、幾乎沒有關聯的這件事，在電腦文字資料上很難定義，向量？搜尋引擎搜索不到？所以這個實驗暫時沒有發展下去，然後就有人做了。
+Because as long as humans reach a certain level of intelligence, they can make up a reasonable story. But for LLMs, from low-end to high-end, you would see outputs in this scenario ranging from gibberish to severely hallucinatory connections, perfectly verifying the gap between LLMs and human capabilities. It's just that being conceptually far apart and almost unrelated is hard to define in computer text data—vectors? Unsearchable by search engines? So this experiment wasn't developed further, and then someone else did it.
 
-## LLM 強在哪，弱在哪
+## Where LLMs Are Strong and Weak
 
-文章有點長了，回過頭來。筆者不相信，在關聯性計算的模型內，可以強迫他生成有創意、少見的主題，且跳脫既有資料。白話來說，LLM 輸出的東西不可能是隨機亂數，而是有一定模式的資料片段。
+The article has gotten a bit long, so let's get back to the point. I do not believe that within a correlation-calculating model, you can force it to generate creative, rare topics that break away from existing data. Plainly speaking, what an LLM outputs cannot be random noise; it is data fragments with certain patterns.
 
-所以在現有的科學研究系統裡，LLM 強，是強在，在既有資料下，設定條件，透過程式化迴圈不停運算，過濾篩檢相近的想法、研究主題、實作方法。而我們自身的探索流程，則是不停的替換我們專業知識中的命名實體關鍵字，請求 LLM Agent 搜尋或者推演最合理的路徑。
+So in current scientific research systems, LLMs are strong in that, given existing data and set conditions, they can continuously compute through programmatic loops to filter and screen similar ideas, research topics, and implementation methods. Our own exploration process, on the other hand, involves constantly swapping the named entity keywords in our professional knowledge, asking an LLM Agent to search or deduce the most reasonable path.
 
-但是 LLM 不會主動跟你提示，在現有資料中表層關聯性薄弱差異巨大的新奇主題，這件事情目前是人類本身必須自己主動去想。所以也才有人說，更會問問題的人，更能夠使用 AI 工具。
+But an LLM will not proactively prompt you with novel topics that have weak surface correlations and huge differences in existing data; this is currently something humans must actively think of themselves. This is also why it is said that those who are better at asking questions are better able to use AI tools.
 
-筆者認為，這本質上就是不停探索看似無關聯無提示的不同主題的能力。甚至筆者認為，這一步，是人工智慧研究如何進行高階決策甚至通用人工智慧的關鍵之一，否則相關性詛咒，還是會繼續存在。
+I believe that this fundamentally is the ability to constantly explore seemingly unrelated and unprompted different topics. Furthermore, I believe this step is one of the keys for AI research to conduct high-level decision-making or even Artificial General Intelligence; otherwise, the Curse of Correlation will continue to exist.

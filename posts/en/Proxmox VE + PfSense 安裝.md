@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/Proxmox VE + PfSense 安裝"
-title: Proxmox VE + PfSense 安裝
+title: Proxmox VE + PfSense Installation
 slug: proxmox-ve-pfsense-installation-note
 ghost_id: 67e4c3fec5a22a00013545b7
 type: post
@@ -11,8 +12,7 @@ featured: false
 created_at: '2025-03-27T03:20:30.000Z'
 updated_at: '2025-03-27T03:23:58.000Z'
 published_at: '2022-08-20T05:11:00.000Z'
-custom_excerpt: 家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的
-  1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。
+custom_excerpt: My home soft router initially only had OpenWRT installed, and it did its job competently for a while. I casually noticed that even under heavy network load, RAM usage was only at 1% of the total 8GB. Hardware resources were not being properly utilized, so my engineering soul burned with the desire to squeeze every drop out of it.
 tags:
 - Apps - 軟體
 - Linux
@@ -21,71 +21,71 @@ authors:
 feature_image: ../assets/photo-1544197150-b99a580bb7a8.jpg
 ---
 
-## 前言
+## Preface
 
-家中的軟路由機器本只有安裝 OpenWRT, 也稱職地工作了一段時間。偶然注意到，網路高負載的情況下，記憶體佔用也才僅 8GB 記憶體的 1% 而已。硬體資源並沒有好好被妥善使用，工程魂就燃燒起來想榨乾他。
+My home soft router initially only had OpenWRT installed, and it did its job competently for a while. I casually noticed that even under heavy network load, RAM usage was only at 1% of the total 8GB. Hardware resources were not being properly utilized, so my engineering soul burned with the desire to squeeze every drop out of it.
 
-一種推薦配置是安裝 Proxmox VE 環境，再虛擬化 Router 軟體，剩下的資源就可以安裝其他客體作業系統如 Windows, Linux, 或者再裝 docker 服務。
+One recommended configuration is to install a Proxmox VE environment, virtualize the Router software, and then use the remaining resources to install other guest operating systems like Windows, Linux, or deploy Docker services.
 
-## Proxmox VE 安裝 pfSense
+## Proxmox VE Installing pfSense
 
-安裝 Proxmox 本身的過程蠻簡單，下載 ISO 檔，燒錄到 USB 隨身碟，啟動一步一步安裝即可。在高檔硬體配置的重型伺服器，還可以考慮 ZFS 檔案系統，不過只是一台軟路由小主機就一切從簡。
+The installation process for Proxmox itself is quite simple: download the ISO file, burn it to a USB flash drive, boot up, and install step by step. On heavy-duty servers with high-end hardware configurations, you could also consider the ZFS file system, but for a small soft router, I kept everything simple.
 
-下載 pfSense iso 檔，上傳到 Proxmox VE，就可以安裝了。pfSense 的安裝也有不少教學文，甚至官方也有[說明文件(Virtualizing with Proxmox® VE)](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html)。以下僅討論個人需求和架設過程中的問題。
+Download the pfSense iso file, upload it to Proxmox VE, and you can start the installation. There are plenty of tutorials for installing pfSense, and even official documentation: [Virtualizing with Proxmox® VE](https://docs.netgate.com/pfsense/en/latest/recipes/virtualize-proxmox-ve.html). The following only discusses my personal requirements and the issues encountered during setup.
 
-### 預計架構
+### Planned Architecture
 
-* 軟路由機器有四個實體網路孔, enp1s0, enp2s0, enp3s0, enp4s0
-* 第一個當作 WAN 孔，其餘三孔作為 LAN 孔
-* Proxmox VE 可以透過 LAN 孔存取
-* Proxmox VE 之下虛擬化的 pfSense 作為 Router 使用，透過 WAN 進行 PPPoE 撥號
-* 家中其餘網路設備透過 LAN 得到網路存取
+* The soft router machine has four physical network ports: enp1s0, enp2s0, enp3s0, enp4s0.
+* The first one acts as the WAN port, and the remaining three serve as LAN ports.
+* Proxmox VE can be accessed through the LAN ports.
+* The virtualized pfSense under Proxmox VE is used as the Router, dialing PPPoE via WAN.
+* Other network devices at home get network access through the LAN.
 
-### 問題點
+### Issues
 
-* 一開始 Proxmox VE 已經建立一個 Linux Bridge, 為 vmbr0, 關聯到 enp1s0, 並已指派原先設定的 IP 192.168.100.2
-* 電腦端只能透過線路連接到 enp1s0 進行 Proxmox VE 的設定
-* 將其他實體網路接孔 enp2s0, enp3s0, enp4s0 關聯到 vmbr1
-* Pfsense 架設完成以後，可以透過 vmbr0 指定到 WAN, vmbr1 指定到 LAN，正常進行網路撥接及區域網路分派。但此一環境直接拿去使用，無法從任何已經連結到 LAN 的機器進入 Proxmox VE 管理介面
-* 接續上述，如果要進行 Proxmox VE 的管理，要整台機器拿下來，透過 enp1s0 進行連接，十分不便
+* Initially, Proxmox VE has already created a Linux Bridge, vmbr0, associated with enp1s0, and assigned the previously configured IP 192.168.100.2.
+* The computer can only connect to enp1s0 via a cable to configure Proxmox VE.
+* The other physical network ports enp2s0, enp3s0, and enp4s0 are associated with vmbr1.
+* After pfSense is set up, it can function normally for network dialing and LAN distribution by assigning vmbr0 to WAN and vmbr1 to LAN. However, if this environment is put directly into use, the Proxmox VE management interface cannot be accessed from any machine already connected to the LAN.
+* Following the above, if you want to manage Proxmox VE, you have to take the whole machine down and connect via enp1s0, which is extremely inconvenient.
 
-### 解決方法
+### Solution
 
-經過研究半天，還曾經一度搞到中途斷電設定黨整個丟掉無法開機的窘況，要重灌 Proxmox VE 的狀況，總算搞定了… 🤷‍♂️
+After researching for a long time, and even once encountering a situation where a mid-way power outage caused all configuration files to be lost and the system wouldn't boot, requiring a Proxmox VE reinstall, I finally figured it out... 🤷‍♂️
 
-* 取消 vmbr0 的 預設 IP 與 Gateway，改設到 vmbr1
-* 指派 vmbr1 的 IP 設定到與 Pfsense LAN 同一網段, Gateway 指向 Pfeense 192.168.1.1
-  + pfSense 預設的 DHCP range 為 192.168.1.100 ~
+* Remove the default IP and Gateway from vmbr0, and set them on vmbr1 instead.
+* Assign the IP setting of vmbr1 to the same subnet as the pfSense LAN, with the Gateway pointing to pfSense 192.168.1.1.
+  + The default DHCP range for pfSense is 192.168.1.100 ~
 
-這樣就可以透過 Pfsense 的 LAN 孔存取 Proxmox VE 了
+This allows access to Proxmox VE through the pfSense LAN ports.
 
 ![](../assets/ProxmoxVE_network.png)![](../assets/Proxmox.drawio.png)
 
-### 潛在問題
+### Potential Issues
 
-* Proxmox VE 主機必須要透過 pfSenese 才能連到外網
-* pfSense 一旦掛掉 、遷移中停止、 或其他維護等因素，所有裝置包含 Proxmox VE 主機就有可能無法連線
+* The Proxmox VE host must go through pfSense to connect to the external network.
+* If pfSense crashes, is stopped during migration, or is down for other maintenance reasons, all devices, including the Proxmox VE host, might lose connectivity.
 
 ## pfSense vs OpenWRT
 
-以產品目標來了解發展脈絡，不一定要吵討論特定用途執優執劣
+Understanding the development context based on product goals is better than arguing over which is superior or inferior for specific uses.
 
 ### pfSense
 
-* FreeBSD 為基底，以專業防火牆目標為設計
-* 防火牆管理功能一應俱全，管理監測功能完整
-* 使用者介面條理分明，說明文字清楚
-* Netgate 公司提供商業付費支援，完善的說明文件，且有各應用場景 scene 的相對應參考文件
+* Based on FreeBSD, designed with the goal of being a professional firewall.
+* Comprehensive firewall management features and complete management and monitoring functions.
+* User interface is well-organized with clear explanatory text.
+* Netgate provides commercial paid support, thorough documentation, and corresponding reference documents for various application scenes.
 
 ### OpenWRT
 
-* Linux 為基礎，以小型嵌入式裝置為導向，適合硬體資源相對低的家用無線路由器
-* 小型輕量，除基本功能外，可以自行透過 opkg 安裝社群維護的套件
-* 也有說明文件，但是沒有像 Netgate 為 pfSense 維護的文件那麼使用者導向
-  + 網路相關基礎知識才能理解，或未提供細節說明，需尋找更多討論文章以尋求解答
-  + 討論文章也不一定提供正確答案，需仰賴自己摸索。
+* Based on Linux, oriented towards small embedded devices, suitable for home wireless routers with relatively low hardware resources.
+* Small and lightweight; aside from basic functions, community-maintained packages can be installed via opkg.
+* There is documentation, but it is not as user-oriented as the documentation maintained by Netgate for pfSense.
+  + Basic networking knowledge is required to understand it, or where details are not provided, you need to search for more discussion articles for answers.
+  + Discussion articles may not always provide the correct answers, requiring self-exploration.
 
-我覺得兩個系統都很優秀，如果是一台無線路由器或硬體配置很低的機器要改裝，我會優先選擇 OpenWRT。但是像四核心 J1900 CPU, 記憶體裝到 8G 的機器，就會考慮裝 pfSense 來玩玩。
+I think both systems are excellent. If it were a wireless router or a machine with very low hardware specs, I would prioritize OpenWRT. But for a machine with a quad-core J1900 CPU and 8GB of RAM, I would consider installing pfSense to play around with.
 
 ## Reference
 

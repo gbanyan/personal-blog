@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/自我診斷 Ushers Syndrome - 心路歷程"
-title: 自我診斷 Usher's Syndrome - 心路歷程
+title: Self-Diagnosis of Usher's Syndrome - An Internal Struggle
 slug: ushers-syndrome-internal-struggle
 ghost_id: 67e4148230b4100001537218
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-26T14:51:46.000Z'
 updated_at: '2025-03-26T14:58:45.000Z'
 published_at: '2015-09-21T13:18:00.000Z'
-custom_excerpt: 大概在國中的時候，我就已經感覺到，在夜晚時我的視力會銳減，不是近視、散光的那種朦朧模糊感，而是暗到某個程度以後景物完全消殆，只留些微的於光。
+custom_excerpt: Around middle school, I had already felt that my vision sharply decreased at night. It wasn't the blurry, hazy feeling of nearsightedness or astigmatism, but rather that after it got dark to a certain degree, objects entirely vanished, leaving only a slight peripheral gleam.
 tags:
 - Medicine - 醫學
 authors:
@@ -19,92 +20,92 @@ authors:
 feature_image: ../assets/photo-1555083031-2cf4be8fce8f.jpg
 ---
 
-大概在國中的時候，我就已經感覺到，在夜晚時我的視力會銳減，不是近視、散光的那種朦朧模糊感，而是暗到某個程度以後景物完全消殆，只留些微的於光。
+Around middle school, I had already felt that my vision sharply decreased at night. It wasn't the blurry, hazy feeling of nearsightedness or astigmatism, but rather that after it got dark to a certain degree, objects entirely vanished, leaving only a slight peripheral gleam.
 
-晚上要出家門穿鞋時，由於玄關較暗，看不到地板上的鞋子，總是要在三摸索以後才會找到。當父母發現這個現象後，一開始只想到我本身已有的近視和散光，然後笑罵說電動打太多的後果就是這樣。
+When heading out at night and putting on shoes, because the entryway was relatively dark, I couldn't see the shoes on the floor and always had to grope around to find them. When my parents noticed this phenomenon, they initially just attributed it to my existing nearsightedness and astigmatism, laughing and scolding me that this was the consequence of playing too many video games.
 
-台中的自然科學博物館，有一個太空劇場。在我小學時，每次有機會去那邊玩，都會看一場太空劇場播映的電影。每次電影開場，都會有星空導覽。那一片投射出來璀璨的星空，鮮活地存在國小童年的回憶裡，但是不知道為什麼國中後再度的拜訪，那一片星空在我的眼裡只剩一些微弱的光芒。我習慣性地歸因於近視加散光，並未思考更多。
+The National Museum of Natural Science in Taichung has a Space Theater. Whenever I had the chance to visit there during elementary school, I would always watch a movie shown at the Space Theater. Every time the movie started, there would be a starry sky tour. That dazzling starry sky projected above lived vividly in the memories of my elementary school childhood, but for some reason, upon visiting again in middle school, that same starry sky only held a few faint gleams of light in my eyes. Out of habit, I blamed it on my nearsightedness and astigmatism, without giving it much thought.
 
-有一次由國中學校舉辦的班遊，有夜遊的行程。這個行程或許是開始讓我察覺眼睛在夜晚特別不對勁的關鍵了吧，當大家可以悠閒的走在山路上，放開心胸享受甜美的夜之山嵐，我卻必須仰賴同學的幫助，請別人牽手帶著，蹣跚地走。
+There was a class trip organized by my middle school that included a night excursion. This trip was perhaps the key event that started making me realize my eyes were particularly abnormal at night. While everyone could leisurely walk on the mountain path, opening their hearts to enjoy the sweet mountain mist of the night, I had to rely on the help of my classmates, asking others to hold my hand and lead me as I stumbled along.
 
-後來回顧生活中的點點滴滴，不禁感嘆，或許是被父母保護得太好了，很少在夜晚出去走動，不會出去逛夜市或是夜遊等，而且都市的生活光線基本上都足夠，踏足的地方總有一盞明燈。國高中的生活很單純，學校讀書晚上補習，回到家基本上也沒什麼力想太多了。
+Looking back at the bits and pieces of my life later, I couldn't help but sigh. Perhaps I was protected too well by my parents. I rarely went out to walk around at night, wouldn't go out to stroll through night markets or go on night excursions, and the lighting in urban life was generally sufficient—wherever I set foot, there was always a bright light. My life in middle and high school was very simple: studying at school, attending cram school at night, and returning home with basically no energy to overthink anything.
 
-其實不是沒有想過，夜晚特別容易看不到是不是某種特殊疾病？中學的健康教育和生物自然科學提供的線索都指向夜盲症，只是簡簡單單的帶過成因是缺乏維生素A，高中雖然進一步說明缺乏維生素Ａ導致視網膜上的感光細胞合成感光色素時出現問題，因此視力出現缺陷，但是心中仍深感懷疑，因為日常生活飲食並未特別偏食，未特別缺乏維生素Ａ的攝取。
+It's not that I never wondered whether my severe inability to see at night was some specific disease. The clues provided by middle school health education and natural sciences all pointed to night blindness, but they only briefly mentioned that the cause was a vitamin A deficiency. Although high school further explained that a lack of vitamin A caused problems when the photoreceptor cells in the retina synthesized photosensitive pigments, leading to visual defects, I still harbored deep doubts. This was because I wasn't a particularly picky eater in my daily diet and hadn't been especially deficient in vitamin A intake.
 
-高中一次回診眼科，鼓起勇氣跟眼科醫師求問，眼科醫師這才使用眼底鏡好好地檢查眼底，然後告訴我與在旁的父母，是夜盲症沒錯，但是是先天基因缺陷造成的，要治療只有等基因療法研發成功。言盡於此，並未說明更多，或許我們應該那時應該問得更深入的，但是不知為何沒有那麼做。此時夜盲症對於我們的印象，僅限於一個有如近視、散光以及老花的小缺陷罷了，也許會對生活造成稍稍不便，但流水帳的日常飛梭，也就習以為常了。
+During a follow-up visit to the ophthalmologist in high school, I gathered my courage and asked the doctor. It was only then that the ophthalmologist used an ophthalmoscope to properly examine my fundus, and then told me and my parents beside me that it was indeed night blindness, but it was caused by a congenital genetic defect, and the only cure would be to wait for gene therapy to be successfully developed. Saying no more, they didn't explain further. Perhaps we should have asked more deeply at that time, but for some reason, we didn't. At that point, our impression of night blindness was limited to a minor flaw akin to nearsightedness, astigmatism, and presbyopia; maybe it would cause slight inconvenience in life, but amidst the fleeting routine of daily life, we just grew accustomed to it.
 
-真正為夜盲感到痛苦的時期，是解放的大學生活。三五好友邀約去夜市、夜唱，我總擔心在未知的異地踉蹌；燃燒青春、以夜之浪漫陪伴的宿營，我卻每一個夜晚間的活動都不能踏足；甚至在苦盡甘來慶祝籌辦活動結束的慶功宴，我都可以出機車擦撞車禍事故，以致趕不上慶功宴，自己獨立生活，怕給別人惹麻煩，那夜盲症帶來的不便，就好像漆黑中的蜘蛛網，纏住了日常。
+The period when I truly felt the pain of night blindness was during the liberated life of college. When a small group of friends invited me to the night market or to sing karaoke at night, I always worried about stumbling in unknown, strange places; during orientation camps accompanied by the romance of the night, burning with youth, I couldn't participate in any of the nighttime activities; and even on the way to the celebratory banquet after successfully organizing an event—a sweet reward after hard work—I managed to get into a scooter scraping accident and missed the dinner. Living independently and afraid of causing trouble for others, the inconvenience brought on by night blindness was like a spiderweb in the dark, entangling my daily life.
 
-在大四病理授課時，在泌尿系統腎臟的部分，剛好提到Alport Syndrome，其症狀描述包括眼睛方面的疾患、聽力損失、以及腎臟蛋白尿，剛好與我本身情形部分吻合，這時我才第一次懷疑聽力損失與夜盲有關。
+In my senior year during a pathology lecture, when discussing the renal part of the urinary system, Alport Syndrome was mentioned. The description of its symptoms included eye diseases, hearing loss, and renal proteinuria, which partially matched my own situation. It was then that I first suspected my hearing loss was connected to my night blindness.
 
-聽力損失從小家人告訴我的標準答案是吃藥造成的。但是隨著醫學知識的累積，追問當時情形，並沒有充分證據支持，僅僅只是推論。因為這論調，我一直以來都以為聽力不好是後天造成的，從未懷疑過是遺傳的原因。
+Since childhood, the standard answer my family gave me regarding my hearing loss was that it was caused by taking medication. However, as my medical knowledge accumulated, I pressed them about the circumstances back then and found there was no sufficient evidence to support this; it was merely an inference. Because of this argument, I had always believed my poor hearing was acquired, never suspecting genetic causes.
 
-上課提到了 Alport Syndrome 後，我瀏覽了相關資料，嘗試推敲自身是否符合該疾病。然而，文章末的相關條目 - Usher Syndrome 吸引了目光，我點擊進去閱讀，洞穿事實的冷咧一瞬間襲上心頭，戰慄、不敢置信就這樣駐足在那，在那本該完全陌生卻又那般熟悉的文字前。
+After Alport Syndrome was mentioned in class, I browsed related materials, trying to deduce whether I matched the disease. However, the related topics at the end of the article—Usher Syndrome—caught my eye. I clicked to read it, and a piercing chill that penetrated the truth instantly hit my heart. Trembling, disbelief just settled right there, in front of text that should have been entirely foreign, yet felt so familiar.
 
-> Usher Syndrome摘自Wiki : <https://en.wikipedia.org/wiki/Usher_syndrome>
+> Usher Syndrome extract from Wiki: <https://en.wikipedia.org/wiki/Usher_syndrome>
 >
-> 罹患該疾病的患者，典型症狀有視網膜色素病變(Retinitis Pigmentosa)，會造成夜盲(Night Blindness)以及漸進的周邊視力喪失(loss of peripheral vision)，並伴隨著聽力損失，平衡也可能受到影響(hearing loss and balance may be affected)。周邊視力喪失會使患者形成隧道狀視野(tunnel vision)
+> Patients with this disease typically have Retinitis Pigmentosa, which causes night blindness and a progressive loss of peripheral vision, accompanied by hearing loss, and balance may be affected. The loss of peripheral vision results in tunnel vision for the patient.
 >
-> 主因是基因缺陷，為體染色體隱性遺傳
+> The main cause is a genetic defect, making it an autosomal recessive inheritance.
 
-客觀來說，縱然描述再怎麼吻合，也不能根據自身表現的症狀直接論斷一定是該疾病。如何進一步確診，是看到這些資料後最急迫的想法。Retinitis Pigmentosa 的確診手段，醫生可以使用眼底鏡，以及開立視野儀或視網膜電流圖檢查(Electroretinogram；ERG)，這是目前看起來最確定具體的手段。可是回頭重新檢視Usher Syndrome的資料：
+Objectively speaking, no matter how well the description matches, one cannot directly conclude they definitely have the disease based solely on their own manifested symptoms. How to further confirm the diagnosis was the most urgent thought after reading this information. The diagnostic tools for Retinitis Pigmentosa include the use of an ophthalmoscope by a doctor, as well as ordering a visual field test or an electroretinogram (ERG). These appeared to be the most definitive and concrete methods available. But looking back at the information on Usher Syndrome:
 
 **Usher syndrome is incurable at present.**
 
-幾個月以後，我回憶當初是以什麼心態面對時，或許自己潛意識就是把這個罹患無法治癒疾病的事實，這個有可能會被漸漸奪去光明的未來，壓抑在某個角落視為無物。也或許，我只是想逃避，逃避病人的角色，從醫生的角度冷眼觀察症狀、病理、病程，自以為是的在日常生活確認症狀並努力地自得其樂，假裝自己很理性樂觀地看待這件事，實際上任何可以有進展的事情都不想去做。
+A few months later, when recalling the mindset I used to face this at the time, perhaps my subconscious simply suppressed the fact of suffering from an incurable disease—a future where my light might gradually be stolen—tucking it away in a corner and treating it as nothing. Or perhaps, I just wanted to escape, escaping the role of a patient, coldly observing the symptoms, pathology, and disease progression from a doctor's perspective, smugly confirming the symptoms in my daily life while desperately trying to find joy in it. I pretended to look at it rationally and optimistically, when in reality, I didn't want to do anything that could yield progress.
 
-或許值得慶幸的是，後來的作為證實我仍然保有理性，至少，還懂得將自己的懷疑告訴親人，還懂得與別人討論該不該求診並付諸實行，儘管一拖再拖，在醫學生互相練習理學檢查中發現的視野明顯狹窄，和眼底鏡練習被老師確認的視網膜斑塊沈澱，都未能將沉甸甸的心情拖上岸。
+Perhaps it's fortunate that my subsequent actions proved I still retained my rationality. At least, I still knew how to voice my suspicions to my family, and I still knew how to discuss whether to seek medical attention with others and put it into action. Even though I dragged my feet time and again, the obviously narrowed visual field discovered during physical examination practices with fellow medical students, and the retinal pigment deposits confirmed by a professor during ophthalmoscopy practice, failed to drag my heavy heart ashore.
 
-曾經妄言，自己的黑暗，要自己親手埋葬，意思是不管過去有多少摧折，自己一定都會克服。但是這一次，我卻險些被排山倒海的黑暗吞噬。
+I once made wild claims that my own darkness must be buried by my own hands, meaning that no matter how many setbacks there were in the past, I would definitely overcome them all myself. But this time, I was nearly swallowed by overwhelming darkness.
 
-為什麼我好不容易克服了聽力損失的困難，可以像正常人ㄧ樣順利的生活甚至小有成就，現在卻又迎來了另外一個先天的限制？視野狹窄化、夜晚看不清楚，我都害怕會對未來的醫師生涯造成影響。值班生活大夜班回家的路上、手術房裡遞刀縫線與團隊的協調，車禍與意外的風險大增，我都害怕會給別人造成影響。曾經看過論述身障人士心理的文章，長久被照顧的人，其實渴望自我獨立、不依賴他人，甚至有可能畏懼給他人帶來困擾。而我曾埋頭於深深地自我厭惡，詛咒自己又再一次沒有能力，再次看清自己是個弱者。
+Why was it that I had managed to overcome the difficulties of hearing loss with such effort, able to live smoothly like a normal person and even achieve a little success, only to be met now with another congenital limitation? The narrowing of my visual field, the inability to see clearly at night—I feared how it would impact my future career as a doctor. Walking home after a night shift, coordinating with the team while passing scalpels and sutures in the operating room, the vastly increased risk of car accidents and mishaps—I was afraid of causing trouble for others. I once read an article discussing the psychology of people with disabilities; those who have been cared for over a long time actually long for independence, do not want to rely on others, and may even dread causing inconvenience to others. And I once buried my head in deep self-loathing, cursing myself for being powerless once again, clearly seeing myself as a weakling once more.
 
-### **求診過程**
+### **The Process of Seeking Medical Care**
 
-自己有可能罹患 Usher's Syndrome 的訊息，主要是由我主動會知父母，並透露聽力損失有可能是先天遺傳因素，而非一直以來猜測的藥物傷害，以及該疾病未來對我的影響包括視野減退以及有機率失明。一開始，我相信他們是很難接受的，甚至態度中有那麼一絲絲不相信的感覺 (或許是因為這樣一來會有孩子的缺陷是父母責任的愧疚感? )，另外爸爸也提到說，視野窄縮也有可能是先天性青光眼 (glaucoma) 造成的，父系家族那邊也的確有親戚老年因為青光眼眼壓過高而失明。最後商議在三月於成大醫院求診。
+The information that I might be suffering from Usher's Syndrome was primarily disclosed by me taking the initiative to inform my parents. I revealed that my hearing loss was likely due to congenital genetic factors rather than the long-suspected drug damage, and that the future impact of the disease on me included visual field deterioration and a chance of going blind. At first, I believe they found it very hard to accept, and there was even a hint of disbelief in their attitude (perhaps because this would bring a sense of guilt that the child's defect was the parents' responsibility?). Additionally, my father mentioned that the narrowing of the visual field could also be caused by congenital glaucoma, and indeed, there were relatives on my paternal family side who went blind in their old age due to high intraocular pressure from glaucoma. Finally, we agreed to seek consultation at National Cheng Kung University (NCKU) Hospital in March.
 
-如前面所說，在成大醫院眼科求診以後，量了眼壓以及視力，進診間醫生先排了視野儀檢查，以及使用眼底鏡，證實了視野不如一般人，大概僅有三十度左右，以及眼底鏡下有發現色素斑塊，已然確定有視網膜色素病變，另外家族性青光眼的部分，我的眼壓並未超過上限，僅僅接近，因此當下醫生告知我以及陪同看診的姐姐，視網膜色素病變的部分目前沒有治療手段，只能盡可能保養追蹤，不要讓它惡化，而針對眼壓可能過高的部分，他會開 Prosglandin 類的藥物來降眼壓並以長期處方來保養視神經。說實話，我認為這個藥水跟視網膜色素病變完全任何關係，甚至僅僅只有安慰劑的作用。但是父母不知道為什麼把這個藥水看得非常重要，堅持一定要照醫囑每天晚上都要點，甚至看我點藥水的過程認為極度笨手笨腳還直接自己來點來保證眼藥水一定可以被點好到完全浸潤眼睛。但是視網膜色素病變的這一部份反而沒有什麼被接受的感覺，我在父母的態度中，隱隱約約感覺到一股躲閃、拒絕、以及慌張的態度。
+As mentioned earlier, after seeking consultation at the ophthalmology department of NCKU Hospital, my intraocular pressure and vision were measured. Once in the consultation room, the doctor first scheduled a visual field test and used an ophthalmoscope. This confirmed that my visual field was narrower than a typical person's, at only about thirty degrees, and that there were pigment deposits visible under the ophthalmoscope, firmly establishing the presence of retinitis pigmentosa. Regarding the familial glaucoma, my intraocular pressure did not exceed the upper limit, only approached it. Therefore, the doctor informed me and my older sister, who accompanied me to the consultation, that there was currently no treatment for the retinitis pigmentosa part, and that we could only maintain and monitor it as much as possible to prevent it from worsening. As for the potentially high intraocular pressure, he would prescribe Prostaglandin-class medication to lower the intraocular pressure and act as a long-term prescription to protect the optic nerve. To be honest, I felt this eye drop had absolutely no relationship with retinitis pigmentosa, serving perhaps merely as a placebo. But for some reason, my parents viewed these eye drops as extremely important, insisting I had to follow the doctor's orders and administer them every night. Watching me put in the eye drops, they found me incredibly clumsy and even did it themselves to ensure the eye drops thoroughly soaked the eye. Conversely, the retinitis pigmentosa aspect didn't feel very accepted. In my parents' attitude, I vaguely sensed an air of evasion, denial, and panic.
 
-在 2015三月於成大醫院確診以後，父母希望在別的地方找到好的醫師，再做一次檢查，哥哥姊姊都分別提供了建議，一位是家鄉台南本地知名的青光眼醫師，一位則是台中榮總的林耿弘醫師，但是由於課業因素都被我排到了暑假。期間因為辦理保險因素，不得不提前回診自費請醫師開立診斷證明書，後來保險給付範圍也直接排除雙耳及眼睛。
+After the official diagnosis at NCKU Hospital in March 2015, my parents hoped to find a good doctor elsewhere to get a second checkup. My older brother and sister both offered suggestions: one was a renowned local glaucoma specialist in my hometown of Tainan, and the other was Dr. Lin Keng-Hung at Taichung Veterans General Hospital. However, due to academic commitments, I postponed both until summer vacation. During this time, because of insurance processing, I had to return for a follow-up early, paying out of pocket to have the doctor issue a medical certificate; later, the insurance coverage scope outright excluded both my ears and eyes.
 
-我以為此類疾病要做基因檢測才能確定，但是 Usher's Syndrome 這個term似乎主要描述因為多個類型基因缺陷而造成的視網膜色素病變以及聽力損失等症狀，只要是遺傳性、症狀符合就可確診了。當下該位眼科醫師沒有口頭給予確定，但是由於他七月離開成大，接手我這個病例的下一位醫師則直接說就是 Usher's Syndrome，也有問過成大醫院的基因檢測部門，得到的回答是可以自費做檢測，但是由醫師諮詢轉診會比較好。我想這類用途主要是供小兒科醫師在發現嬰兒有相對應症狀後，評估未來發展已安排後續照護。
+I thought this type of disease required genetic testing for confirmation, but the term Usher's Syndrome seems to primarily describe symptoms such as retinitis pigmentosa and hearing loss caused by multiple types of genetic defects; as long as it's hereditary and the symptoms match, it can be diagnosed. The ophthalmologist at the time didn't verbally confirm it, but because he left NCKU Hospital in July, the next doctor who took over my case stated outright that it was Usher's Syndrome. I also asked the genetic testing department at NCKU Hospital, and the answer I got was that testing could be done out-of-pocket, but it would be better done through a doctor's consultation and referral. I figure this kind of application is mainly for pediatricians to assess future development and arrange follow-up care after discovering an infant has corresponding symptoms.
 
-2015年暑假八月初，我從台南北上到台中榮總求診林耿弘醫師，在台中榮總排了視網膜電位檢查 ERG，另外陪同看診的哥哥也詢問如何應對，並請求醫師為我們聯繫視網膜色素病變協會，醫師私下建議了葉黃素以及抗氧化劑，並答應為我們與理事長搭線。說實話，千里迢迢來到台中在醫學上獲得的訊息，與在台南得到的沒有差多少，在自己查閱 Usher's Syndrome 資料的過程中，對於該疾病知道的資訊該瞭解的，都了解的差不多了，特地來一趟，除了滿足父母，求一個最終確認說服父母外，由於林耿弘醫師也是台灣視網膜色素病變協會的理事之一，且有相關研究論文，所以姊姊也希望可以從此管道看看有沒有國外的最新研究消息。視網膜電位檢查以及視野儀檢查報告出來，倒是醫師評估結果以後，提供我們一個意想不到的建議：申請重度身障手冊。
+In early August 2015 during summer vacation, I traveled north from Tainan to Taichung to consult Dr. Lin Keng-Hung at Taichung Veterans General Hospital. We scheduled an ERG (electroretinogram) there. My older brother, who accompanied me, also asked how we should cope and requested the doctor connect us with the Retinitis Pigmentosa Association. The doctor privately recommended lutein and antioxidants, and promised to set us up with the chairman. To be honest, traveling all the way to Taichung didn't yield much more medical information than I received in Tainan. During my own research on Usher's Syndrome, I had pretty much learned all there was to know about the disease. Making this special trip, aside from satisfying my parents and seeking a final confirmation to convince them, was also because Dr. Lin Keng-Hung was one of the directors of the Taiwan Retinitis Pigmentosa Association and had relevant research papers. My sister also hoped to see if there was any latest research news from abroad through this channel. The reports for the electroretinogram and visual field tests came out, but after assessing the results, the doctor offered us an unexpected suggestion: apply for a severe disability card.
 
-### 爭取權益四處奔走
+### Running Around Fighting for Rights
 
-原本我就因為雙耳聽力損失而領有輕度的身心障礙手冊了，但是林醫師從報告中判讀視野損失已經達到目前身心障礙鑑定制度中視力障礙的標準，可以跟政府申請核發手冊。
+I originally held a mild disability card due to hearing loss in both ears. But from reading the reports, Dr. Lin assessed that my visual field loss had already met the criteria for visual impairment in the current disability evaluation system, meaning I could apply to the government for the card.
 
-然而，也許是因為適逢政府身心障礙輔導制度轉換，行政流程混亂，一開始醫師說明得很清楚：先去找區公所領取申請表單相關文件，再回來請醫師開診斷證明。結果跑去區公所，區公所說要先有醫師診斷證明才能開始申請流程，叫我們回去找醫師。最後是由哥哥四處打電話詢問後，區公所才將申請表單給我們。
+However, perhaps because it coincided with the transition of the government's disability counseling system, the administrative process was chaotic. At first, the doctor explained things clearly: go to the district office to pick up the application forms and related documents, then come back to have the doctor issue the medical certificate. As it turned out, when we went to the district office, they said we needed the doctor's medical certificate first before starting the application process, and told us to go back to the doctor. In the end, it was only after my older brother made phone calls everywhere to inquire that the district office finally gave us the application forms.
 
-接下來就是一連串的跑醫院掛號要證明了......我將在台南以及成大醫院跑的流程統整一下：
+What followed was a continuous series of hospital visits to register and get certificates... I will summarize the process I went through in Tainan and at NCKU Hospital:
 
-1. 區公所身心障礙鑑定申請表單領取
-2. 醫院掛號，醫師會開單請你去另外的身心障礙鑑定門診
-3. 身心障礙鑑定門診會詢問相關問題(這是新制評估身心障礙人士社會需求的流程)
-4. 診斷證明書與文件，醫院會幫你送往政府相關單位處理
+1. Pick up the disability evaluation application form at the district office.
+2. Register at the hospital; the doctor will issue a slip asking you to go to a separate disability evaluation clinic.
+3. The disability evaluation clinic will ask related questions (this is the new system's process for assessing the social needs of people with disabilities).
+4. The hospital will forward the medical certificate and documents to the relevant government units for processing.
 
-不過以上是我的個人經驗，目前現行的身心障礙需求鑑定可以參考[政府的說明頁面](http://www8.www.gov.tw/policy/welfare/page_04-04.html)，包括需準備的文件、流程，會更為清楚
+However, the above is my personal experience. For the current disability needs evaluation, you can refer to the [government's explanation page](http://www8.www.gov.tw/policy/welfare/page_04-04.html), which details the required documents and processes much more clearly.
 
-> **注意：**
+> **Note:**
 >
-> 若障礙類別未登記在政府資料庫，初次申請，則負責診斷的醫師似乎必須開診斷證明書。在身心障礙鑑定門診鑑定完要送資料時才發現醫師沒有開，當下很囧的又掛了一次號請醫師開。
+> If the disability category is not registered in the government database and this is the first application, the diagnosing doctor apparently must issue a medical certificate. It was only when we were submitting documents after the disability evaluation clinic assessment that we realized the doctor hadn't issued one, making for a very awkward moment where we had to register again to ask the doctor to write it.
 >
-> 身心障礙手冊核發政府作業，最快需要大概一個月的時間，由於我於2015年八月中旬申請，差點趕不上開學得學雜費減免補助申請，這是後話
+> Government processing for issuing a disability card takes at least about a month. Because I applied in mid-August 2015, I almost missed the deadline to apply for the tuition and fee reduction subsidy before school started, but that's another story.
 
-由於有聽力損失以及視野缺損，我屬於身心障礙中的多重障礙類別，分類屬於重度範疇。於2015年九月拿到身心障礙手冊，上面也會有清楚註解。
+Because I have both hearing loss and a visual field defect, I fall into the multiple disabilities category of physical and mental disabilities, specifically classified within the severe range. In September 2015, I received my disability card, which clearly annotates this.
 
-以下列出這張手冊我在生活中碰到的相關補助以及優待：
+Below I list the related subsidies and benefits I've encountered in daily life due to this card:
 
-1. 學雜費減免
-2. 各學校的身心障礙獎助學金
-3. 特殊教育體系的交通補助費(針對上下學交通不便者，需會議審核)
-4. [身心障礙綜合所得稅扣除額](http://www8.www.gov.tw/policy/welfare/page_04.html#item7)
-5. 醫療院所健保基本部分負擔均按診所層級收費
+1. Tuition and fee reductions.
+2. Disability scholarships at various schools.
+3. Transportation subsidies within the special education system (for those with commuting difficulties, subject to committee review).
+4. [Comprehensive income tax deduction for physical and mental disabilities](http://www8.www.gov.tw/policy/welfare/page_04.html#item7).
+5. Basic copayments at medical institutions and health insurance are all charged at the clinic level rate.
 
-最後，是整理相關的Usher's Syndrome資源，會不定時更新，希望對病友或是對該疾病有興趣的醫師、研究者有所幫助。
+Finally, I've compiled resources related to Usher's Syndrome. This will be updated irregularly, in hopes of helping fellow patients or doctors and researchers interested in this disease.
 
 1. [Usher's Syndrome Organization](http://www.usher-syndrome.org)
-2. [台灣視網膜色素病變協會](http://www.rptw.org)
-3. [Usher's Syndrome Wiki頁面](https://en.wikipedia.org/wiki/Usher_syndrome)
+2. [Taiwan Retinitis Pigmentosa Association](http://www.rptw.org)
+3. [Usher's Syndrome Wiki Page](https://en.wikipedia.org/wiki/Usher_syndrome)
 4. [NIH Genetics Base](http://ghr.nlm.nih.gov/condition/usher-syndrome)

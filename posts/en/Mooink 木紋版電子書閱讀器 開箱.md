@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/Mooink 木紋版電子書閱讀器 開箱"
-title: Mooink 木紋版電子書閱讀器 開箱
+title: Mooink Wood Grain Edition E-ink Reader Unboxing
 slug: mooink-e-ink-reader-unboxing
 ghost_id: 67e3abcce551140001120f29
 type: post
@@ -11,8 +12,7 @@ featured: false
 created_at: '2025-03-26T07:25:00.000Z'
 updated_at: '2025-03-26T07:30:51.000Z'
 published_at: '2017-07-30T18:39:00.000Z'
-custom_excerpt: 之前，在機緣之下得知了Amazon 發行的Kindle 電子書閱讀器，便一直考慮要從國外入手該款閱讀器。一方面因為眼疾，E-ink
-  電子紙技術的確可以降低眼睛暴露在3C產品的負擔，另外一方面，電子書閱讀器輕巧攜帶方便的特性也很吸引我。
+custom_excerpt: Previously, by chance, I learned about the Kindle e-book reader released by Amazon and had been constantly considering getting one from abroad. On one hand, due to eye conditions, E-ink electronic paper technology can indeed reduce the strain on eyes exposed to 3C products; on the other hand, the lightweight and portable nature of e-book readers also attracted me.
 tags:
 - Hardware - 硬體
 - Unboxing - 開箱
@@ -21,46 +21,46 @@ authors:
 feature_image: ../assets/Mooink-Package-1180x650-1.jpg
 ---
 
-之前，在機緣之下得知了Amazon 發行的Kindle 電子書閱讀器，便一直考慮要從國外入手該款閱讀器。一方面因為眼疾，E-ink 電子紙技術的確可以降低眼睛暴露在3C產品的負擔，另外一方面，電子書閱讀器輕巧攜帶方便的特性也很吸引我。不過因為台灣訂購Kindle 需要從國外訂，比較麻煩，而且對中文支持度未知。便遲遲沒有下訂。
+Previously, by chance, I learned about the Kindle e-book reader released by Amazon and had been constantly considering getting one from abroad. On one hand, due to eye conditions, E-ink electronic paper technology can indeed reduce the strain on eyes exposed to 3C products; on the other hand, the lightweight and portable nature of e-book readers also attracted me. However, ordering a Kindle in Taiwan required ordering from abroad, which is more troublesome, and the level of support for Chinese was unknown. So I held off on placing an order.
 
-直到今年，看到Readmoo 電子書平台集資準備推出「Mooink 電子書閱讀器」，才算是提供了一個，支持中文排版字型的不錯選擇，再加上大略瀏覽一下Readmoo 線上書城的書庫，書籍來源、品質都可接受，於是就心動預購了。
+It wasn't until this year, seeing the Readmoo e-book platform crowdfunding to launch the "Mooink e-book reader," that a good option supporting Chinese layout and fonts was finally provided. Additionally, after briefly browsing the library of the Readmoo online bookstore, the sources and quality of the books were acceptable, so I was tempted and pre-ordered it.
 
-在2017.7.29 的颱風襲擊前夕，在宿舍欣喜地收到了包裹，於是有了這一篇開箱文。
+On the eve of the typhoon striking on July 29, 2017, I joyfully received the package in my dorm, leading to this unboxing article.
 
-[Mooink 電子閱讀器產品頁面](https://www.mooink.readmoo.com)
+[Mooink E-reader Product Page](https://www.mooink.readmoo.com)
 
-> E-ink 電子紙技術具有省電、反射式照明、不閃爍等優點。
+> E-ink electronic paper technology has the advantages of saving power, reflective illumination, and being flicker-free.
 >
-> [為何愛讀書的人偏好 E Ink 電子書閱讀器？](https://ccc.technews.tw/2016/12/17/why-e-ink/)
+> [Why do people who love reading prefer E Ink e-book readers?](https://ccc.technews.tw/2016/12/17/why-e-ink/)
 
-## 包裝
+## Packaging
 
-這是我收到實體物品時的包裝，具有藝術簡約感的設計。由於是集資的預購版，不知道正式上市時會不會改。
+This is the packaging I received with the physical item, featuring an artistic and minimalist design. Since it is a crowdfunded pre-order version, I don't know if it will change when officially launched.
 
 ![Mooink-Content](../assets/Mooink-Content-1024x585.jpg)
 
-內容物很簡單，在講求環保不浪費的時代，只有本體、連接線、快速說明書。由於許多功能尚在開發，未來不知道可不可以從電腦傳輸檔案到閱讀器內，目前確定的是可以從Readmoo 網站登錄帳號後上傳文件同步，以及讀取SD卡內的檔案（尚在開發）
+The contents are very simple. In an era advocating environmental protection and no waste, there is only the main unit, a connection cable, and a quick guide. Since many features are still under development, it's unknown whether files can be transferred from a computer to the reader in the future. What is currently confirmed is that documents can be uploaded and synced after logging into an account on the Readmoo website, as well as reading files from an SD card (still under development).
 
-## 產品本體
+## The Product Itself
 
-產品啟動後，會先要求連到Wifi 基地台，由於為了簡化系統，無法連到需要瀏覽器認證的Wifi如CHT-WIFI, iTaiwan以及校園Wifi等。
+After the product starts up, it will first request a connection to a Wi-Fi access point. To simplify the system, it cannot connect to Wi-Fi networks requiring browser authentication, such as CHT-WIFI, iTaiwan, and campus Wi-Fi.
 
-第一次啟動需要更新系統，從更新系統以及系統部分設定可以看得出來，閱讀器的作業系統是從Android改來的。
-由於虛榮心作祟（無誤），我有加價訂購木紋版。木紋外殼摸起來很舒服，由於大小僅六寸，重量很輕，就算單手握起也毫無負擔，甚至比許多書本還輕巧。
+The first startup requires a system update. From the system update and part of the system settings, it can be seen that the reader's operating system is modified from Android.
+Driven by vanity (no joke), I paid extra to order the wood grain version. The wood grain casing feels very comfortable to the touch. With a size of only six inches, it is extremely light; even holding it in one hand poses no burden, and it is even lighter and more compact than many physical books.
 
-## 使用
+## Usage
 
-使用上，可以連到Readmoo 電子書平台登錄帳號，同步後就會自動將帳號底下購置於書櫃的書籍自動列出，並可依需求點選下載。另外，也可以讀取在電腦端瀏覽器上傳的文件，支援EPUB, DOCX, TXT, PDF
-閱讀上，便如上圖所示，並不會有背光刺激，完全依照黑白相間的電子紙技術顯示，輕點左右可以換頁，輕點正中央則可以叫出選項更改行距、字型、字體大小、亮度、橫排直排等，以及大綱和書本資訊。字型支援信黑體、思源宋體、華康明體、華康仿宋體、華康楷體。不支援讀者自行匯入字體，但是不知道未來會不會開放更多字體。
+In terms of usage, one can connect to the Readmoo e-book platform to log into an account. After syncing, books purchased for the bookshelf under the account will automatically be listed and can be clicked to download as needed. Alternatively, it can also read documents uploaded via a browser on the computer side, supporting EPUB, DOCX, TXT, and PDF.
+As for reading, as shown in the picture above, there is no harsh backlight stimulation. It displays entirely based on the black-and-white electronic paper technology. Tapping left or right can turn the page, while tapping the dead center can bring up options to change line spacing, font, font size, brightness, horizontal/vertical layout, etc., as well as the outline and book information. Supported fonts include Xin Gothic, Source Han Serif, DFBingMin, DFBingFangSong, and DFBingKai. It does not support readers importing fonts themselves, but it's unknown whether more fonts will be opened up in the future.
 
-由於僅是功能簡單的電子書閱讀器，不要期待這台會有跟iPad一樣的效能跟滑順感，翻頁會看到電子紙更新瞬間的頁面反黑殘影，且目前還找不到瀏覽器的直接入口，讀取網頁小說可能稍有不便。不過在閱讀介面內，可以長按反白選取字彙，並可跳轉網路搜尋。所以應該是可以瀏覽網路的。
+Since it is just an e-book reader with simple functions, do not expect it to have the same performance and smoothness as an iPad. When turning pages, you will see a temporary black afterimage flash as the e-paper refreshes. Currently, a direct entry to a browser cannot be found, which might make reading web novels slightly inconvenient. However, within the reading interface, you can long-press to highlight and select vocabulary, and jump to web searches. So it should be capable of browsing the web.
 
-由於採用電子紙技術的閱讀器，僅有在更新畫面時會耗電，製造商在睡眠時設計了如上圖的有趣畫面。
+Because it uses e-paper technology, the reader only consumes power when the screen refreshes. The manufacturer designed the interesting screen shown above for when it goes to sleep.
 
-## 心得總結
+## Conclusion and Thoughts
 
-除了閱讀器硬體外，其實並不能忽略整個平台軟體架設經營的部分。Readmoo在我接觸到這台電子書閱讀器集資消息時，便已經整合了出版商、網站、金流等，呈現出有企圖心的內容供應商樣貌。企圖心不只體現在軟硬體的整合，還有嘗試完善細節的努力，當我探索在其他平台同步的方式時，意外的發現閱讀客戶端程式除了行動裝置外，也有為Mac OS X這種少眾族群開發。有了持續活躍的出版生態系以及便利的操作體驗，使用者自然更願意相信後續的支援及建立客戶黏著度，形成良性循環。
+Besides the reader hardware, one actually cannot ignore the overall setup and operation of the platform software. By the time I came across the crowdfunding news for this e-book reader, Readmoo had already integrated publishers, websites, cash flows, etc., presenting the appearance of an ambitious content provider. This ambition is reflected not only in the integration of hardware and software but also in the effort to perfect details. When I explored syncing methods on other platforms, I unexpectedly found that in addition to mobile devices, the reading client program had also been developed for the minority group using Mac OS X. With a continuously active publishing ecosystem and a convenient operational experience, users will naturally be more willing to trust future support and build customer stickiness, forming a virtuous cycle.
 
-在禮拜一要放不放的颱風假下午，一邊等待同學處理離站作業，一邊讀了半本書。誠心推薦這一台，給想在忙碌步調中，掙扎地想重拾閱讀樂趣的人。也希望Readmoo平台可以壯大，吸引更多好書入駐。
+On the afternoon of a typhoon day-off that was almost canceled on Monday, while waiting for classmates to process school-leaving procedures, I read half a book. I sincerely recommend this device to those who, amidst a busy pace, are struggling to regain the joy of reading. I also hope the Readmoo platform can grow stronger and attract more good books to move in.
 
-[Readmoo 電子書平台](http://readmoo.com)
+[Readmoo E-book Platform](http://readmoo.com)

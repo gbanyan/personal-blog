@@ -1,7 +1,8 @@
 ---
 locale: en
+translation_status: translated
 translation_id: "posts/成大通識領袖論壇-Inspiration and breakthrough 演講心得"
-title: 成大通識領袖論壇-Inspiration and breakthrough 演講心得
+title: NCKU General Education Leadership Forum - Reflections on Inspiration and breakthrough Lecture
 slug: ncku-leadership-forum-inspiration-break
 ghost_id: 67e3b77fe551140001120f59
 type: post
@@ -11,7 +12,7 @@ featured: false
 created_at: '2025-03-26T08:14:55.000Z'
 updated_at: '2025-03-26T08:17:28.000Z'
 published_at: '2015-05-04T13:56:00.000Z'
-custom_excerpt: 林天送教授之前編撰過一本書，為「靈機一動 發明家的啟示」，希望藉由發明的小故事，來推動科學教育。而本次演講即從跟該書相同的素材取材，介紹過去一百年來科技發展、各種發明對整個文化、文明的影響力。像瓦特的蒸氣機為人類帶來工業革命的契機，網路的發明帶來資訊科技的蓬勃發展。林天送教授希望藉由分享發明家的小故事，來勉勵年輕一輩。
+custom_excerpt: "Professor Lin Tian-Song previously compiled a book titled 'A Sudden Inspiration: Revelations from Inventors,' hoping to promote science education through short stories of inventions. This lecture drew from the same materials as that book, introducing the development of technology over the past century and the impact of various inventions on entire cultures and civilizations. For instance, Watt's steam engine brought the opportunity for the Industrial Revolution to humanity, and the invention of the Internet brought the booming development of information technology. Professor Lin Tian-Song hopes to encourage the younger generation by sharing the short stories of inventors."
 tags:
 - Medicine - 醫學
 - Writings - 創作
@@ -20,27 +21,27 @@ authors:
 feature_image: ../assets/photo-1571841653386-77b2f456dc09.jpg
 ---
 
-林天送教授之前編撰過一本書，為「靈機一動 發明家的啟示」，希望藉由發明的小故事，來推動科學教育。而本次演講即從跟該書相同的素材取材，介紹過去一百年來科技發展、各種發明對整個文化、文明的影響力。像瓦特的蒸氣機為人類帶來工業革命的契機，網路的發明帶來資訊科技的蓬勃發展。林天送教授希望藉由分享發明家的小故事，來勉勵年輕一輩。
+Professor Lin Tian-Song previously compiled a book titled "A Sudden Inspiration: Revelations from Inventors," hoping to promote science education through short stories of inventions. This lecture drew from the same materials as that book, introducing the development of technology over the past century and the impact of various inventions on entire cultures and civilizations. For instance, Watt's steam engine brought the opportunity for the Industrial Revolution to humanity, and the invention of the Internet brought the booming development of information technology. Professor Lin Tian-Song hopes to encourage the younger generation by sharing the short stories of inventors.
 
-美國時代雜誌曾經在十五個國家做過一萬多人參與的問卷調查，分別統計當代認為最重要、最有用的發明。最重要的發明統計結果為電力、車、網路，而最有用的發明統計結果為手機。回顧手機的發展史，摩托羅拉公司的發明家Martin Cooper 做出了第一支黑金剛，足足有一公斤重，隨後漸漸的發展，蘋果公司的Steve Jobs 推出了iPhone, 而奠定的今日手機的樣貌。
+TIME Magazine in the United States once conducted a questionnaire survey involving over ten thousand people in fifteen countries to statistically determine what the contemporary era considered the most important and most useful inventions. The statistical results for the most important inventions were electricity, cars, and the Internet, while the statistical result for the most useful invention was the mobile phone. Looking back on the history of mobile phone development, Motorola inventor Martin Cooper created the first brick phone, weighing a full kilogram. Following gradual developments, Apple's Steve Jobs introduced the iPhone, establishing the appearance of today's mobile phones.
 
-林天送教授選出了他認為對當代影響最深遠的幾項發明，分別為生物科技-DNA結構的發現、PCR技術的發明、食品基因改造技術，分子醫學-一氧化氮醫學、威而鋼、水溶性C60化合物。歸納發明的要素，林天送教授認為，發明的前因為機會跟好運，有天時、地利、人和，但是也要有相對應的準備。幸運之神眷顧有準備心的人，而有準備心的人等於有專業訓練加靈機一動。
+Professor Lin Tian-Song selected several inventions that he believed had the most profound impact on the contemporary era: biotechnology (the discovery of DNA structure, the invention of PCR technology, and food genetic modification technology), and molecular medicine (nitric oxide medicine, Viagra, and water-soluble C60 compounds). Summarizing the elements of invention, Professor Lin Tian-Song believes that the precursors to invention are opportunity and good luck—requiring the right timing, the right place, and the right people—but one must also have corresponding preparation. The goddess of luck favors those with prepared minds, and a prepared mind equals professional training plus a sudden inspiration.
 
-接下來是各個林天送教授認為影響深遠發明的詳述，首先為DNA結構的發現，西元一九五三年，華生與克立克，透過魏爾金以及弗蘭克林提供的X光晶體繞射圖，加上自己的實驗數據以及模型假說，成功的解開了DNA基礎結構。此一發現在生物學以及醫學上的重要性在於，人類由此真正理解基因遺傳的運作，從而巨觀上解釋地球千萬年來生物的演化、變異，微觀上推敲細胞分子醫學、發展對抗細菌、病毒的免疫醫學。其實當時最接近成功的人除了華生與克立克，還有前述提到的魏爾金與弗蘭克林，五十年後華生的專訪認為，若是當時諾貝爾獎頒獎，他認為應該頒化學獎給兩位前輩，而他們應得生物獎。
+Next came the detailed descriptions of the various inventions Professor Lin Tian-Song considers profoundly impactful. First was the discovery of the DNA structure. In 1953, Watson and Crick, through the X-ray crystallography diffraction images provided by Wilkins and Franklin, combined with their own experimental data and model hypotheses, successfully unlocked the basic structure of DNA. The importance of this discovery in biology and medicine lies in the fact that humanity thus truly understood the operation of genetic inheritance, thereby macroscopically explaining the evolution and mutation of organisms on Earth over tens of millions of years, and microscopically probing cellular molecular medicine and developing immunological medicine to combat bacteria and viruses. Actually, the people closest to success at the time, besides Watson and Crick, were the aforementioned Wilkins and Franklin. Fifty years later, in an exclusive interview, Watson stated that if the Nobel Prize had been awarded properly at the time, he felt the Chemistry Prize should have been awarded to the two seniors, while they deserved the Biology Prize.
 
-PCR技術的發展(由Kary Banks Mullis博士發明)，則允許了人類對DNA進一步的研究與操縱，除了電視肥皂劇上常演的親子鑑定、CSI犯罪現場裡的鑑識，PCR技術更允許分子生物研究人員，放大既有的DNA來做各式各樣的研究與鑑定，從而加速了現代生物醫學的發展。
+The development of PCR technology (invented by Dr. Kary Banks Mullis) allowed humanity to further study and manipulate DNA. Beyond the paternity tests often dramatized on TV soap operas and the forensics in CSI crime scenes, PCR technology allows molecular biology researchers to amplify existing DNA for various kinds of research and identification, thereby accelerating the development of modern biomedicine.
 
-NO在人體內效用的發現，則與威而鋼藥物的發明相關。NO的機制，為在血管內皮細胞產生後，可促進血管壁的平滑肌舒張，因此可以促進血管管徑擴張，增加血流量，進而降低血管血栓堵塞的風險，提高血液供應、氧氣運輸。威而鋼最初研發出來時，即是根據上述對心血管的效果，期冀可以治療中風等心血管重症，可惜後來沒有什麼效果，反倒對重振男人雄風有所幫助，因此搖身一變成了最受歡迎的壯陽藥物在全球大賣。
+The discovery of NO's efficacy in the human body is related to the invention of the drug Viagra. The mechanism of NO is that after being produced in vascular endothelial cells, it can promote the relaxation of smooth muscles in blood vessel walls. Therefore, it can promote the dilation of blood vessel diameters and increase blood flow, thereby lowering the risk of vascular thrombosis and improving blood supply and oxygen transport. When Viagra was initially developed, it was based on the aforementioned cardiovascular effects, with the hope that it could treat severe cardiovascular diseases like strokes. Unfortunately, it turned out to have little effect in that regard, but paradoxically helped revive male virility. Consequently, it transformed overnight into the most popular impotence drug and sold massively worldwide.
 
-水溶性C60化合物的發現，則開創了未來醫學的一絲可能曙光。其證實有強力抗氧化作用，有「自由基海綿」的稱呼，可以大量捕捉人體內的自由基，減少氧化壓力對人體的損傷，甚至可能可以用來保護神經細胞。
+The discovery of water-soluble C60 compounds pioneered a glimmer of possible dawn for future medicine. Proven to have strong antioxidant effects, it is dubbed a "free radical sponge," capable of capturing massive amounts of free radicals in the human body, reducing the damage of oxidative stress to the body, and potentially even being useful for protecting nerve cells.
 
-除了以上發明，其實林天送教授還簡述了農藥除草劑與基因改造食品對農業興盛的影響、魔鬼沾、還有飛秒化學，最後他下了自己的觀察的歸納註解：發明的原動力為需要所驅，如發明大王愛迪生的名言一分的天才加上九時九分的努力，還有數據所驅，如孟德爾的從豌豆歸納出的遺傳定律，還有理論所驅，如愛因斯坦的相對論。在最後，林天送教授引用了楊振寧教授的「科學與人文」「真情、妙物、佳文章」以及愛因斯坦的人生哲理，來勉勵同學。
+In addition to the above inventions, Professor Lin Tian-Song also briefly described the impact of pesticide herbicides and genetically modified foods on agricultural prosperity, Velcro, and femtochemistry. Finally, he gave his own observational summary and footnote: the driving forces of invention are driven by need—as in the famous quote by the king of invention, Edison, "one percent inspiration and ninety-nine percent perspiration"—driven by data, such as Mendel's laws of inheritance deduced from peas, and driven by theory, such as Einstein's theory of relativity. In the end, Professor Lin Tian-Song quoted Professor Yang Chen-Ning's "Science and Humanities," "true feelings, wondrous objects, excellent articles," and Einstein's life philosophy to encourage the students.
 
-雖然此次演講主要是在講歷往發明的故事，但是在聆聽後的心得，我想探討現代中所謂發明這一回事的真實情況。我的理解是，當現代科技發展到一定程度，其實發明的能力是被國家單位、跨國大型企業聾斷的，因為研發是高資本、知識密集的產業，除了要有大量教育程度有一定水準的人才以及相對應的環境，還要有足夠資本可以投入可觀的研發經費。如林天送教授曾經提到的孟山都公司，就是典型的跨國企業，有能力投入大量資金在研發上。然而，當研究發明的能力被掌握在跨國企業，跨國企業不只有能力申請專利保護其發明，更有能力推廣影響社會消費購買其發明之產品，而其對社會的衝擊不可忽視。以孟山都公司來說，已經發生過多起透過手段，操縱基因改造農產品是否受不同國家當地政府採用的案例，不論基因改造對當地農業發展影響或是科學上對基因改造是否有危害的定論。另外，跨國企業申請的專利，同時也引起另外的爭議：專利保護是否反而成為發明創新的阻力？我想，演講的主題主要是鼓勵年輕一輩能夠效法發明家先賢們具備的能力、知識以及不屈不撓的勇氣，而到當代，我認為還要加上一份對科學人文的省思。
+Although this lecture primarily told stories of past inventions, in my reflections after listening, I want to explore the true situation of the so-called business of invention in modern times. My understanding is that when modern technology develops to a certain level, the capacity for invention is actually monopolized by national entities and large multinational corporations. Because research and development is a highly capital- and knowledge-intensive industry, in addition to needing a large number of talents with a certain level of education and a corresponding environment, there must also be sufficient capital to invest in substantial R&D funding. For example, the Monsanto Company, which Professor Lin Tian-Song mentioned, is a typical multinational corporation capable of investing massive funds in R&D. However, when the capacity for research and invention is held by multinational corporations, these corporations not only have the ability to apply for patents to protect their inventions but also possess the power to promote and influence social consumption to purchase their invented products, and their impact on society cannot be ignored. Taking the Monsanto Company as an example, there have already been multiple cases of using tactics to manipulate whether genetically modified agricultural products are adopted by local governments in different countries, regardless of the impact of genetic modification on local agricultural development or the scientific consensus on whether genetic modification is harmful. Furthermore, the patents applied for by multinational corporations simultaneously provoke another controversy: does patent protection paradoxically become a hindrance to invention and innovation? I think the main theme of the lecture was to encourage the younger generation to emulate the abilities, knowledge, and indomitable courage possessed by pioneer inventors; however, coming to the contemporary era, I believe one must also add a dose of reflection on science and humanities.
 
-引用：
+Citations:
 
-1. 林天送（民 91，二版五刷）你的生命活力–從自由基談起，健康文化出版社，臺北。
+1. Lin, Tian-Song (2002, 2nd ed., 5th printing). Your Life Vitality - Starting from Free Radicals. Health Culture Publishing, Taipei.
 2. Gutteridge, J.M.C. (1993) Free radicals in disease process: a compilation of cause and consequence, Free Radical Research Communication, 19, 141.
-3. [環境資訊中心：孟山都：華麗謊言的背後](http://e-info.org.tw/node/89829)
-4. [科學人雜誌：發現DNA雙螺旋結構50週年︰華生專訪](http://sa.ylib.com/MagCont.aspx?PageIdx=2&Unit=featurearticles&Cate=&id=198&year=)
+3. [Environmental Information Center: Monsanto: Behind the Gorgeous Lies](http://e-info.org.tw/node/89829)
+4. [Scientific American (Taiwan): The 50th Anniversary of the Discovery of the DNA Double Helix Structure: An Exclusive Interview with Watson](http://sa.ylib.com/MagCont.aspx?PageIdx=2&Unit=featurearticles&Cate=&id=198&year=)
