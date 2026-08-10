@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1620065692611-92d81d646631.jpg
+translation_id: "posts/Clerk 的見習生涯 - 美沙冬門診心得"
 ---
 
 剛來到精神科，有機會觀摩美沙冬(Methadone)替代門診，聆聽了門診老師的教學，整理了一些心得。

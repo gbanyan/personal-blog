@@ -17,6 +17,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/WindowsinMac.jpg
+translation_id: "posts/Mac OS X 虛擬機器 Virtual Machine 使用介紹"
 ---
 
 # 前言

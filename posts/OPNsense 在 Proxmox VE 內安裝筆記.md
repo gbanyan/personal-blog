@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1520869562399-e772f042f422.jpg
+translation_id: "posts/OPNsense 在 Proxmox VE 內安裝筆記"
 ---
 
 ## 前言

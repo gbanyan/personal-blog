@@ -15,6 +15,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/phonecover.jpg
+translation_id: "posts/露天購買HTC A9 紀實"
 ---
 
 這一篇文章，是關於在露天交易平台購買HTC A9 的經驗，有點曲折，所以想將詳細經過分享給大家。

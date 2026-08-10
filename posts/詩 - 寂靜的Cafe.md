@@ -14,6 +14,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/Cafe-creation-cover.jpg
+translation_id: "posts/詩 - 寂靜的Cafe"
 ---
 
 *整理大學時代封存的舊筆記時發現的東西，現在看來莫名地有韻味，放上部落格以紀念*

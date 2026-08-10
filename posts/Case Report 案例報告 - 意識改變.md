@@ -15,6 +15,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/case_report_cover.jpg
+translation_id: "posts/Case Report 案例報告 - 意識改變"
 ---
 
 這是2019 年 九月 在 GI 病房碰到的一個意識改變的 Case，以下詳述。

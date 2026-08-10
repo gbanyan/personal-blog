@@ -17,6 +17,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/Mooink-Package-1180x650-1.jpg
+translation_id: "posts/Mooink 木紋版電子書閱讀器 開箱"
 ---
 
 之前，在機緣之下得知了Amazon 發行的Kindle 電子書閱讀器，便一直考慮要從國外入手該款閱讀器。一方面因為眼疾，E-ink 電子紙技術的確可以降低眼睛暴露在3C產品的負擔，另外一方面，電子書閱讀器輕巧攜帶方便的特性也很吸引我。不過因為台灣訂購Kindle 需要從國外訂，比較麻煩，而且對中文支持度未知。便遲遲沒有下訂。

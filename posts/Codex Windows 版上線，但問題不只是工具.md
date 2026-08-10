@@ -10,6 +10,7 @@ description: OpenAI 釋出 Windows 版 Codex，但 AI 工具要真正落地到�
 authors:
 - Gbanyan
 feature_image: ../assets/codex-windows-beyond-tools.jpg
+translation_id: "posts/Codex Windows 版上線，但問題不只是工具"
 ---
 
 OpenAI (ChatGPT 的母公司) 剛釋出 Windows 版的 Codex 桌面應用程式，在 Microsoft Store 上面可以找到。

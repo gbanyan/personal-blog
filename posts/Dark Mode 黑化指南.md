@@ -15,6 +15,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1607027340690-37e80b0f1b31.jpg
+translation_id: "posts/Dark Mode 黑化指南"
 ---
 
 ## 前言

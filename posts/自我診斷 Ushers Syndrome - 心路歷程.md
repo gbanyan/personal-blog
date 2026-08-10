@@ -15,6 +15,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1555083031-2cf4be8fce8f.jpg
+translation_id: "posts/自我診斷 Ushers Syndrome - 心路歷程"
 ---
 
 大概在國中的時候，我就已經感覺到，在夜晚時我的視力會銳減，不是近視、散光的那種朦朧模糊感，而是暗到某個程度以後景物完全消殆，只留些微的於光。

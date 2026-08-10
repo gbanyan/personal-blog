@@ -16,6 +16,7 @@ nav_category: device
 nav_label: HomeLab
 icon: server
 hero: homelab
+translation_id: "pages/HomeLab"
 ---
 
 ## 摘要

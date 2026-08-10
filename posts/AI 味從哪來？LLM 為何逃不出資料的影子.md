@@ -9,6 +9,7 @@ description: LLM 的輸出為什麼總有一股 AI 味？從輸入法預測到�
 authors:
 - Gbanyan
 feature_image: ../assets/ai-taste-llm-data-shadow.jpg
+translation_id: "posts/AI 味從哪來？LLM 為何逃不出資料的影子"
 ---
 
 趁熱打鐵，再來寫一篇對於 LLM 的能力局限討論長文（其實是筆者要出的論文構想被做去了不爽中X）

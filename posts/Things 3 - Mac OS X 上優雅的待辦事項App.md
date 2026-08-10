@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/Things3-Cover-1180x650.png
+translation_id: "posts/Things 3 - Mac OS X 上優雅的待辦事項App"
 ---
 
 Things 開發團隊在經過多年後，終於更新了Mac OS X上的Things App, 帶來了優雅簡潔的操作體驗。就算不懂GTD概念的人，也可以輕鬆上手，讓自己的生活更加積極有目標！

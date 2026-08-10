@@ -15,6 +15,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1629654297299-c8506221ca97.jpg
+translation_id: "posts/再探 Linux桌面 - Manjaro Linux 的漫遊"
 ---
 
 ## Preface 前言

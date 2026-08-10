@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/firefox-independen-1180x627.jpg
+translation_id: "posts/Firefox 釋出 Version 43 x64 有感"
 ---
 
 前幾天，Firefox推出版本號43, 一併推出Windows x64版本。Facebook貼文, Twitter以及其他科技媒體紛紛發布消息。雖然現在只有在網頁測試時才會開啟Firefox, 平常都使用Mac OS X平台專屬的Safari, 但是這個消息仍然勾起了一些對Firefox的回憶。

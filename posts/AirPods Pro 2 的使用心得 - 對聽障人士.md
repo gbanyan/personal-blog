@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1603351154351-5e2d0600bb77.jpg
+translation_id: "posts/AirPods Pro 2 的使用心得 - 對聽障人士"
 ---
 
 購買 AirPods Pro 2 使用後約莫一個月多的心得，特別是關於使用聽力圖耳機調節功能的日常生活觀察。目前定位是便宜的第二副暫時性助聽器，且可在運動時使用。

@@ -17,6 +17,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1544197150-b99a580bb7a8.jpg
+translation_id: "posts/Proxmox VE + PfSense 安裝"
 ---
 
 ## 前言

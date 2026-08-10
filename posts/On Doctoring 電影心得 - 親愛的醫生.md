@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/Dear-Doctor-cover-1.jpg
+translation_id: "posts/On Doctoring 電影心得 - 親愛的醫生"
 ---
 
 我覺得，在這部片中，導演很擅長用不明說的細節刻劃方式，來闡釋她想要述說的主題，或提出矛盾與問題使觀眾思考。

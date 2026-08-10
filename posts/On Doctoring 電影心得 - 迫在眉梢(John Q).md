@@ -15,6 +15,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/John-Q-cover-1.jpg
+translation_id: "posts/On Doctoring 電影心得 - 迫在眉梢(John Q)"
 ---
 
 當初拍這部電影的目的，應該是要透過一個平凡中低下層家庭在求助醫療時的遭遇，控訴美國社會保險制度的不完備以及醜陋之處。

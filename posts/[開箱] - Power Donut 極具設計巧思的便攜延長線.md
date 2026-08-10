@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/IMG_0137-1180x650.jpg
+translation_id: "posts/[開箱] - Power Donut 極具設計巧思的便攜延長線"
 ---
 
 不知道大家有沒有聽過國外的Kickstarter 募資平台？，在台灣，我有時會瀏覽相類似的平台，flyiingV，看看有沒有讓我眼睛一亮的idea企劃。而在今年初，這個Power Donut 的產品企劃吸引了我的目光，於是我便參與募資，而於今年六月，我收到了順利出貨的成品，以下是開箱文。

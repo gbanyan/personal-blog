@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/107215-1180x650.jpg
+translation_id: "posts/實習醫師 Intern 的日子 - 神經內科心得"
 ---
 
 在神經內科的一個月，不論是學識上的鍛鍊，還是心境上的轉變，都在忙碌的生活中，收穫滿滿。

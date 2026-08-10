@@ -15,6 +15,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/oph.jpg
+translation_id: "posts/Clerkship - 眼科門診驚魂記"
 ---
 
 標題說驚魂記，其實也沒有這麼驚悚，不過印象很深刻，所以就順手記錄了一下。

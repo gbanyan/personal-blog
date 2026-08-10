@@ -16,6 +16,7 @@ tags:
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1440711085503-89d8ec455791.jpg
+translation_id: "posts/我為什麼這麽喜歡 Fate GO 裡面的摩根？"
 ---
 
 台版 Fate Grand Order 是從大學以來，唯一一個一直有在玩的手機遊戲，雖然中間曾經有怠惰期，最嚴重連續幾個禮拜沒有登入，或者連續跳過兩三個活動沒有打，但放在手機桌面，心情回復後還是多少會登入點一下。
