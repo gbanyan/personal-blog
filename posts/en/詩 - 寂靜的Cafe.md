@@ -13,7 +13,7 @@ created_at: '2025-03-26T07:05:12.000Z'
 updated_at: '2025-03-26T07:06:44.000Z'
 published_at: '2018-03-28T02:34:00.000Z'
 tags:
-- Writings - 創作
+- Writings
 authors:
 - Gbanyan
 feature_image: ../assets/Cafe-creation-cover.jpg

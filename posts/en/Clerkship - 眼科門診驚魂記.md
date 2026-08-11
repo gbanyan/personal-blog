@@ -14,7 +14,7 @@ updated_at: '2025-03-26T14:07:41.000Z'
 published_at: '2017-03-17T23:26:00.000Z'
 custom_excerpt: The title says a frightening experience; actually it wasn't that terrifying, but it left a deep impression, so I conveniently jotted it down.
 tags:
-- Medicine - 醫學
+- Medicine
 authors:
 - Gbanyan
 feature_image: ../assets/oph.jpg

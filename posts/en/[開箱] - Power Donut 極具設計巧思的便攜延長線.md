@@ -14,7 +14,7 @@ updated_at: '2025-03-26T14:14:47.000Z'
 published_at: '2016-06-04T21:23:00.000Z'
 custom_excerpt: Have you ever heard of the crowdfunding platform Kickstarter abroad? In Taiwan, I sometimes browse similar platforms, like flyingV, looking for project ideas that catch my eye. Early this year, this Power Donut project grabbed my attention, so I participated in the crowdfunding. In June this year, I received the successfully shipped final product. Here is the unboxing review.
 tags:
-- Unboxing - 開箱
+- Unboxing
 authors:
 - Gbanyan
 feature_image: ../assets/IMG_0137-1180x650.jpg

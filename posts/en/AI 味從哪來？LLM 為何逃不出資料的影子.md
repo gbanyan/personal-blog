@@ -6,8 +6,8 @@ title: Where Does the AI Flavor Come From? Why LLMs Cannot Escape the Shadow of 
 slug: ai-taste-llm-data-shadow
 published_at: '2026-03-18'
 tags:
-- Writings - 創作
-- Research - 研究
+- Writings
+- Research
 description: Why do LLM outputs always have an "AI taste"? From input method predictions to recommendation algorithms, and now Large Language Models, they are fundamentally probabilistic association prediction computations. When models can only seek the most probable patterns from existing data, are novel things that have never appeared doomed to be ignored? I call this the "Curse of Correlation."
 authors:
 - Gbanyan

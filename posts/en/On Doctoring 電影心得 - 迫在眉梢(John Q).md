@@ -13,8 +13,8 @@ created_at: '2025-03-26T13:49:29.000Z'
 updated_at: '2025-03-26T13:52:16.000Z'
 published_at: '2013-05-14T13:32:00.000Z'
 tags:
-- Medicine - 醫學
-- Writings - 創作
+- Medicine
+- Writings
 authors:
 - Gbanyan
 feature_image: ../assets/John-Q-cover-1.jpg

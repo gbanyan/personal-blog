@@ -14,8 +14,8 @@ updated_at: '2025-03-26T15:05:34.000Z'
 published_at: '2017-07-06T00:01:00.000Z'
 custom_excerpt: During my one month in the Neurology department, whether it was the honing of academic knowledge or the transformation of my state of mind, I reaped abundant rewards amidst a busy life.
 tags:
-- Medicine - 醫學
-- Writings - 創作
+- Medicine
+- Writings
 authors:
 - Gbanyan
 feature_image: ../assets/107215-1180x650.jpg

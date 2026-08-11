@@ -14,7 +14,7 @@ updated_at: '2025-03-27T02:42:53.000Z'
 published_at: '2015-12-18T16:55:00.000Z'
 custom_excerpt: A few days ago, Firefox launched version 43, releasing the Windows x64 version alongside it. Facebook posts, Twitter, and other tech media have been broadcasting the news. Although nowadays I only open Firefox for web testing, usually sticking to Safari exclusive to the Mac OS X platform, this news still brought back some memories of Firefox.
 tags:
-- Apps - 軟體
+- Apps
 authors:
 - Gbanyan
 feature_image: ../assets/firefox-independen-1180x627.jpg

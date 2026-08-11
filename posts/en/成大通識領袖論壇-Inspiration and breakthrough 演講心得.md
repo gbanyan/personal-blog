@@ -14,8 +14,8 @@ updated_at: '2025-03-26T08:17:28.000Z'
 published_at: '2015-05-04T13:56:00.000Z'
 custom_excerpt: "Professor Lin Tian-Song previously compiled a book titled 'A Sudden Inspiration: Revelations from Inventors,' hoping to promote science education through short stories of inventions. This lecture drew from the same materials as that book, introducing the development of technology over the past century and the impact of various inventions on entire cultures and civilizations. For instance, Watt's steam engine brought the opportunity for the Industrial Revolution to humanity, and the invention of the Internet brought the booming development of information technology. Professor Lin Tian-Song hopes to encourage the younger generation by sharing the short stories of inventors."
 tags:
-- Medicine - 醫學
-- Writings - 創作
+- Medicine
+- Writings
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1571841653386-77b2f456dc09.jpg

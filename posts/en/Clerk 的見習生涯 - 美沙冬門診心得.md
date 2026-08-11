@@ -14,8 +14,8 @@ updated_at: '2025-03-27T02:22:22.000Z'
 published_at: '2015-10-26T14:16:00.000Z'
 custom_excerpt: The methadone clinic provides an substitution therapy for opioid addiction, aiming to reduce the harm of such drugs through methadone's lower toxicity, lower euphoric addiction potential, and related government control measures.
 tags:
-- Medicine - 醫學
-- Writings - 創作
+- Medicine
+- Writings
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1620065692611-92d81d646631.jpg

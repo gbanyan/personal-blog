@@ -6,9 +6,9 @@ title: Codex for Windows Launched, but the Problem Isn't Just the Tool
 slug: codex-windows-beyond-tools
 published_at: '2026-03-17'
 tags:
-- Writings - 創作
-- Software - 軟體
-- Research - 研究
+- Writings
+- Software
+- Research
 description: OpenAI has released Codex for Windows, but for AI tools to truly land in the hands of ordinary people, structural issues like authorization mechanisms, system environment differences, and privacy trust might deserve more attention than the tools themselves.
 authors:
 - Gbanyan

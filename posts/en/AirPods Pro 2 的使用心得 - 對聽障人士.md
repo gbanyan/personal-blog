@@ -14,8 +14,8 @@ updated_at: '2025-03-27T04:54:06.000Z'
 published_at: '2023-05-01T06:31:00.000Z'
 custom_excerpt: Review after purchasing and using AirPods Pro 2 for about a month and a half, especially daily life observations on using the audiogram Headphone Accommodations feature. My current positioning for them is as a cheap, temporary secondary pair of hearing aids that can also be used during exercise.
 tags:
-- Hardware - 硬體
-- Unboxing - 開箱
+- Hardware
+- Unboxing
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1603351154351-5e2d0600bb77.jpg

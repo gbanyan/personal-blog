@@ -14,7 +14,7 @@ updated_at: '2025-03-26T14:49:34.000Z'
 published_at: '2017-02-24T22:48:00.000Z'
 custom_excerpt: This article is about the experience of buying an HTC A9 on the Ruten trading platform. It was a bit complicated, so I want to share the detailed process with everyone.
 tags:
-- Hardware - 硬體
+- Hardware
 authors:
 - Gbanyan
 feature_image: ../assets/phonecover.jpg

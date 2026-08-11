@@ -14,7 +14,7 @@ updated_at: '2025-03-27T03:17:34.000Z'
 published_at: '2019-09-09T07:47:00.000Z'
 custom_excerpt: This is a case of altered mental status encountered in the GI ward in September 2019.
 tags:
-- Medicine - 醫學
+- Medicine
 authors:
 - Gbanyan
 feature_image: ../assets/case_report_cover.jpg

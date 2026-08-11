@@ -14,8 +14,8 @@ updated_at: '2025-03-26T13:47:41.000Z'
 published_at: '2013-09-14T13:00:00.000Z'
 custom_excerpt: I feel that in this film, the director excels at using unspoken details to illustrate the themes she wants to convey, or to present contradictions and questions for the audience to ponder.
 tags:
-- Medicine - 醫學
-- Writings - 創作
+- Medicine
+- Writings
 authors:
 - Gbanyan
 feature_image: ../assets/Dear-Doctor-cover-1.jpg

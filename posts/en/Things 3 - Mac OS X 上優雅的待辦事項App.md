@@ -15,7 +15,7 @@ published_at: '2017-07-15T15:40:00.000Z'
 custom_excerpt: After many years, the Things development team has finally updated the Things App on Mac OS X, delivering an elegant and streamlined user experience. Even those who don't understand the GTD concept can easily get the hang of it, making their lives more proactive and goal-oriented!
 tags:
 - macOS
-- Apps - 軟體
+- Apps
 authors:
 - Gbanyan
 feature_image: ../assets/Things3-Cover-1180x650.png

@@ -14,8 +14,8 @@ updated_at: '2025-03-26T07:30:51.000Z'
 published_at: '2017-07-30T18:39:00.000Z'
 custom_excerpt: Previously, by chance, I learned about the Kindle e-book reader released by Amazon and had been constantly considering getting one from abroad. On one hand, due to eye conditions, E-ink electronic paper technology can indeed reduce the strain on eyes exposed to 3C products; on the other hand, the lightweight and portable nature of e-book readers also attracted me.
 tags:
-- Hardware - 硬體
-- Unboxing - 開箱
+- Hardware
+- Unboxing
 authors:
 - Gbanyan
 feature_image: ../assets/Mooink-Package-1180x650-1.jpg

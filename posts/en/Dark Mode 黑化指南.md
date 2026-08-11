@@ -13,8 +13,8 @@ created_at: '2025-03-27T03:24:44.000Z'
 updated_at: '2025-03-27T03:30:45.000Z'
 published_at: '2022-09-29T16:57:00.000Z'
 tags:
-- Apps - 軟體
-- Medicine - 醫學
+- Apps
+- Medicine
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1607027340690-37e80b0f1b31.jpg

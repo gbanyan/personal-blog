@@ -15,7 +15,7 @@ published_at: '2015-07-30T19:14:00.000Z'
 custom_excerpt: When classmates around me buy a Mac, the first complaint is often about compatibility issues with the Windows environment, such as the school website strictly requiring IE, or some Office formats skewing on Mac. This article introduces a solution perfectly compatible with Windows within Mac OS X - using a virtual machine.
 tags:
 - macOS
-- Apps - 軟體
+- Apps
 authors:
 - Gbanyan
 feature_image: ../assets/WindowsinMac.jpg

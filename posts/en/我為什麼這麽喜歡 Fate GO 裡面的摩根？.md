@@ -14,8 +14,8 @@ updated_at: '2025-03-27T05:08:34.000Z'
 published_at: '2023-05-02T05:28:00.000Z'
 custom_excerpt: The Taiwanese version of Fate/Grand Order is the only mobile game I have consistently played since college. Although I've had periods of lethargy—the most severe being consecutive weeks without logging in, or skipping two or three events in a row—I keep it on my phone's home screen, and whenever my mood recovers, I invariably log in to tap around a bit.
 tags:
-- Writings - 創作
-- Game - 遊戲
+- Writings
+- Game
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1440711085503-89d8ec455791.jpg

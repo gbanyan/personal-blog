@@ -14,7 +14,7 @@ updated_at: '2025-03-26T14:58:45.000Z'
 published_at: '2015-09-21T13:18:00.000Z'
 custom_excerpt: Around middle school, I had already felt that my vision sharply decreased at night. It wasn't the blurry, hazy feeling of nearsightedness or astigmatism, but rather that after it got dark to a certain degree, objects entirely vanished, leaving only a slight peripheral gleam.
 tags:
-- Medicine - 醫學
+- Medicine
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1555083031-2cf4be8fce8f.jpg

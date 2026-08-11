@@ -15,7 +15,7 @@ published_at: '2023-01-29T10:46:00.000Z'
 custom_excerpt: Replaced the soft router hardware and updated my notes accordingly.
 tags:
 - Linux
-- Apps - 軟體
+- Apps
 authors:
 - Gbanyan
 feature_image: ../assets/photo-1520869562399-e772f042f422.jpg

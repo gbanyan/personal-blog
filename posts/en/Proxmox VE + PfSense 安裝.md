@@ -14,7 +14,7 @@ updated_at: '2025-03-27T03:23:58.000Z'
 published_at: '2022-08-20T05:11:00.000Z'
 custom_excerpt: My home soft router initially only had OpenWRT installed, and it did its job competently for a while. I casually noticed that even under heavy network load, RAM usage was only at 1% of the total 8GB. Hardware resources were not being properly utilized, so my engineering soul burned with the desire to squeeze every drop out of it.
 tags:
-- Apps - 軟體
+- Apps
 - Linux
 authors:
 - Gbanyan
