@@ -56,6 +56,6 @@ The features of this product that amaze me the most are:
 * Thanks to the Donut's circular design, the cord can be wrapped around it for storage, adding convenience.
 * The separately designed optional travel adapter perfectly nests within the middle space of the Donut.
 
-As soon as I got it, I showed it to friends and family, and it received quite favorable reviews. Since the product just launched from crowdfunding, the retail price is still a bit steep, but if it drops to around five or six hundred NTD, given its practical and convenient design, I am optimistic about its future market sales.
+As soon as I got it, I showed it to friends and family, and it received quite favorable reviews. Since the product just launched from crowdfunding, the retail price is still a bit steep, but at around five or six hundred NTD, given its practical and convenient design, I am optimistic about its future market sales.
 
 [FlyingV Project Link](https://www.flyingv.cc/projects/10948)

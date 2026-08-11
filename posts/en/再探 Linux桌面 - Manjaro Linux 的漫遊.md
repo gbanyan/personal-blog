@@ -63,7 +63,7 @@ The default Gnome desktop was too plain. Although I tried to convince myself to 
 
 Overall, I was not quite satisfied, so I decided to switch to Manjaro.
 
-## Manjaro KDE - Assertive Chaos
+## Manjaro KDE - Self-Willed Chaos
 
 From this point on, the author violated the initial intention: to lower maintenance costs and focus on production use.
 Instead, I started spending a lot of time playing around with experimental features, but it didn't result in a much better unified experience.

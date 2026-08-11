@@ -32,11 +32,11 @@ The story took place on an ordinary afternoon that should have passed just like 
 
 A roughly 60-year-old man, unaccompanied by family, walked into the clinic and almost fell. With the support of the clinic nurse, he sat down. Initially, he could somewhat answer the attending physician's questions, but after the physician finished examining his eyes using the slit lamp and explained his condition, he became increasingly unable to respond, eventually reduced to mere mumbles. Seeing that the situation was wrong, and knowing his underlying condition included diabetes, the clinic staff suspected hypoglycemia and first gave him a piece of candy. Then they let him lie down on the bed in the examination room.
 
-As a result, because this elderly man was weak all over and couldn't stand up on his own, the Clerk who originally only sat on the sidelines being useless hurried to roll up his sleeves, exerting effort together with the senior resident (學長) to move him onto the bed. By this time, the patient was almost unresponsive to external voices.
+As a result, because this elderly man was weak all over and couldn't stand up on his own, the Clerk who originally only sat on the sidelines being useless hurried to roll up his sleeves, exerting effort together with the senior resident  to move him onto the bed. By this time, the patient was almost unresponsive to external voices.
 
 The clinic nurse was also instructed at this time to contact the emergency contact number recorded in the medical chart, hoping a family member could come over.
 
-Calling: "Do... do... do..."
+Calling: "Ring... ring... ring..."
 
 "Hello?"
 
@@ -62,17 +62,17 @@ After discussing with the attending physician, the senior resident decided to re
 
 Huh? Strange, why am I starting to break out in a cold sweat all over?
 
-"Junior (學弟), since the patient is unaccompanied by family, please help escort the patient to the emergency room in a moment."
+"Junior , since the patient is unaccompanied by family, please help escort the patient to the emergency room in a moment."
 
 ![face-640438_1280](../assets/face-640438_1280.png)
 
 What!!!
 
-Just as I nodded, before my shock had recovered, the senior turned back and continued his handover to the ER:
+Just as I nodded, before I had recovered from my shock, the senior turned back and continued his handover to the ER:
 
 "A diabetic patient, on dialysis, just had Conscious Disturbance in the ophthalmology clinic. We'll send a student to escort him over; he has basic knowledge and can monitor him on the way."
 
-Wait wait wait, what is basic knowledge ahhh, could it be ACLS and stuff? I haven't even passed the certification yet ahhh. How could you safely hand the patient over to me like this ahhhh? Are you sure looking at an infinitely panicked Clerk with a calm "I believe in you" expression is right right right?!!!
+Wait wait wait, what is basic knowledge ahhh, could it be ACLS and stuff? I haven't even passed the certification yet ahhh. How could you trustingly hand the patient over to me like this ahhhh? Are you sure looking at an infinitely panicked Clerk with a calm "I believe in you" expression is right right right?!!!
 
 "Okay, senior, is there anything I need to hand over when I go to the ER later?" ----> Pretending to be calm in serious contradiction to the internal monologue above.
 

@@ -41,7 +41,7 @@ Frontline AI companies, in order to lower this cognitive threshold and the risk 
 
 Imagine if that newly hired employee wanted to pick up a manual on the desk or grab a jar of salt from the condiment area to add some, and they had to get your confirmation for every single step—accumulated over time, this would absolutely lead to decision fatigue. You would feel this employee is too tedious, timid, and afraid of taking responsibility.
 
-Therefore, many people choose to bypass the authorization mechanism entirely, fully delegating all operational rights to these Agents released by the companies. By doing so, the efficiency and output of some people soar to incredible heights; but for others, accidents happen—files are completely deleted, important information runs naked, and so on.
+Therefore, many people choose to bypass the authorization mechanism entirely, fully delegating all operational rights to these Agents released by the companies. By doing so, the efficiency and output of some people soar to incredible heights; but for others, accidents happen—files are completely deleted, sensitive information left completely exposed, and so on.
 
 This further involves some architectures, habits, and even values of digital system structures.
 
@@ -65,7 +65,7 @@ This relates to the fact that many Unix-like tools and commands have actually be
 
 The Windows system itself has a lot of baggage in its GUI, while its text command system has undergone generational changes, with the completeness and operability of the previous generation not matching that of Unix-like systems.
 
-There is a very clear trend with tools released by OpenAI and Claude: they are often released first on macOS, or even operate best solely on macOS. Besides macOS natively embedding these complete Unix tools, macOS actually has comprehensive AppleScript that allows the manipulation of GUI interfaces via text commands. That means ordinary operations in Reminders and Calendar can actually be modified via text commands.
+There is a very clear trend with tools released by OpenAI and Claude: they are often released first on macOS, or even operate best solely on macOS. Besides macOS natively embedding these complete Unix tools, macOS actually has comprehensive AppleScript that allows the manipulation of GUI interfaces via text commands. That means ordinary operations in Reminders and Calendar can actually be added, deleted, or modified via text commands.
 
 Returning to the cognition of the employee, this means that in this environment, they have a very clear understanding of what will happen at each step, or what items can be manipulated. But in Windows and other environments, they face something akin to a blob of chaos. Many things have to be explored on their own, and even after taking action, what happens is very opaque (software on Windows is developed independently by various companies, and many processes are essentially black boxes, meaning information is not disclosed). The cost of cognitive reasoning is extremely high, and many employees might just give up halfway through exploration.
 
@@ -127,7 +127,7 @@ Furthermore, the friction of digital authorization itself is an obstacle. Under 
 
 Basically, when you start using AI tools to process these documents, you have to accept that the information contained within will absolutely be uploaded to cloud servers and might be processed and utilized by the companies. For instance, my ID photos or my bank account plain text, as long as I tell it to organize them, will definitely be uploaded.
 
-When you have even the slightest bit of unease, yet cannot desensitize your own data, you won't be willing to use AI tools. This is also why there is a faction hoping to develop local AI.
+When you have even the slightest bit of unease, yet cannot anonymize (de-identify) your own data, you won't be willing to use AI tools. This is also why there is a faction hoping to develop local AI.
 
 ## Returning to Codex for Windows
 

@@ -88,9 +88,9 @@ The downside is the lack of a Chinese interface, and advanced settings are less 
 * Functionality: *****
 * Supports Boot Camp: Yes
 
-Parallels Desktop is the virtual machine software with the highest market share among Mac users, but it is also the most expensive. Based on the company's current strategy, matching Mac OS X updates, they release a new version every summer and will continuously maintain the previous version to support up to two generations of the latest Mac OS X versions. If you constantly chase the latest version, even with upgrade discount prices, it remains a considerable expense.
+Parallels Desktop is the virtual machine software with the highest market share among Mac users, but it is also the most expensive. Based on the company's current strategy, matching Mac OS X updates, they release a new version every summer and will continuously maintain the previous version to support the previous version for two years or up to two generations of the latest macOS releases. If you constantly chase the latest version, even with upgrade discount prices, it remains a considerable expense.
 
-Its interface is the friendliest among the three, it has Chinese support, and for Windows support under Mac—including functionality and performance—it is the best of the three. But for other platforms, it falls short of VMware Fusion; for Linux, for example, I feel it is half-crippled.
+Its interface is the friendliest among the three, it has Chinese support, and for Windows support under Mac—including functionality and performance—it is the best of the three. But for other platforms, it falls short of VMware Fusion; for Linux, for example, I'd call it half-baked.
 
 August 20, 2015 Update: Parallels Desktop 11 is released, and starts dividing into a standard one-time purchase edition and a subscription-based pro edition. For a detailed comparison, you can look [here](http://www.parallels.com/upgradepd11/?x-source=email_pd10&x-campaign=pd11launch&utm_source=pd10&utm_medium=email&utm_campaign=pd11launch).
 

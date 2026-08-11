@@ -26,11 +26,11 @@ An 80 y/r female was found to have liver cirrhosis complicated by ascites earlie
 
 At the bedside, the patient was assessed to have a GCS of E2V2M4. The patient appeared extremely emaciated overall, with almost no muscle, while presenting with abdominal distension that yielded a dull sound upon percussion. From her family's account and follow-up medical records, it was noted that her weight had dropped 15 Kg from March to the present.
 
-In gastroenterology, the most common cause of altered mental status is Hepatic encephalopathy, but of course, other causes must be ruled out. Using the mnemonic A-E-I-O-U-T-I-P-S, considering the history, besides basic biochemistry, CBC/DC, we checked blood glucose, electrolytes, Ammonia, and Vein Gas. Although there was no fever, two sets of Blood culture were drawn to rule out infection under the VS attending physician's recommendation. It was also pointed out that regarding electrolytes, the main ones affecting consciousness are Na and Ca.
+In gastroenterology, the most common cause of altered mental status is Hepatic encephalopathy, but of course, other causes must be ruled out. Using the mnemonic A-E-I-O-U-T-I-P-S, considering the history, besides basic biochemistry, CBC/DC, we checked blood glucose, electrolytes, Ammonia, and Vein Gas. Although there was no fever, two sets of blood cultures were drawn to rule out infection under the VS attending physician's recommendation. It was also pointed out that regarding electrolytes, the main ones affecting consciousness are Na and Ca.
 
 (A more senior VS mentioned he felt that checking routine Ammonia is meaningless because its blood concentration doesn't completely correlate with hepatic encephalopathy; even if you draw a value within the normal range, you cannot rule out hepatic encephalopathy.)
 
-Because this patient arrived around 4 PM, when the hospital's lab value alert text message came, I was still in the hospital. Fearing the on-call physician's loading would be too heavy, I handled it myself, and ended up dealing with it until past 8 PM, so the impression is still very deep now.
+Because this patient arrived around 4 PM, when the hospital's lab value alert text message came, I was still in the hospital. Fearing the on-call physician's workload would be too heavy, I handled it myself, and ended up dealing with it until past 8 PM, so the impression is still very deep now.
 
 **Blood calcium was as high as 14.5 mg**
 
@@ -44,7 +44,7 @@ Well then, after a search, emergency symptom management mainly involves aggressi
 
 [台灣內科醫學會 -高血鈣的診斷與治療](http://www.tsim.org.tw/journal/jour28-3/07.PDF)
 
-Later during admission, after emergency Hydration and Calcitonin injection, the patient's blood calcium dropped, and her consciousness gradually cleared. The original symptoms of nausea, vomiting, and constipation also subsequently improved. But the underlying cause wasn't resolved; the hypercalcemia kept relapsing. In the lengthy hypercalcemia Survey process, every week when the blood calcium spiked, Hydration had to be continued. In between, there were even episodes of pulmonary edema and hypokalemia. The patient's family and primary nurse expressed mental exhaustion, and I felt very guilty whenever explaining the disease to the family and primary nurse...
+Later during admission, after emergency Hydration and Calcitonin injection, the patient's blood calcium dropped, and her consciousness gradually cleared. The original symptoms of nausea, vomiting, and constipation also subsequently improved. But the underlying cause wasn't resolved; the hypercalcemia kept relapsing. In the lengthy hypercalcemia workup process, every week when the blood calcium spiked, Hydration had to be continued. In between, there were even episodes of pulmonary edema and hypokalemia. The patient's family and primary nurse expressed mental exhaustion, and I felt very guilty whenever explaining the disease to the family and primary nurse...
 
 The Survey process was very tortuous. Synthesizing various guidelines, we first had these results: 1. PTHi was low. 2. Vitamin D 25(OH)D was in the normal range. Our hospital didn't have 1,25(OH)2D or PTHrP. After checking thyroid function, it was found to be Subclinical Hypothyroidism.
 
@@ -81,7 +81,7 @@ The patient's Chest X-ray did not show characteristics of pulmonary tuberculosis
 
 ![](../assets/Ascites-echo-1.jpg)
 
-Under ultrasound, characteristics of loculated ascites could be seen. After consulting a senior resident, we had to suspect peritonitis or Peritoneal carcinomatosis infection. It could also present this way if Abdominal tapping had been done multiple times to drain ascites, but this was the patient's first time having ascites drained.
+Under ultrasound, characteristics of loculated ascites could be seen. After consulting a senior resident, we had to suspect peritonitis or peritoneal carcinomatosis infection. It could also present this way if Abdominal tapping had been done multiple times to drain ascites, but this was the patient's first time having ascites drained.
 
 Hmm, so the ascites was sent to test a bunch of things.
 

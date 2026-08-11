@@ -69,15 +69,15 @@ I didn't expect that trying them would feel like discovering many new worlds.
 - The noise cancellation effect is excellent, perfectly shielding the background chatting noise in a cafe at its loudest, achieving absolute silence.
 - Transparency mode allows normal conversations; general daily conversations are no problem, making it suitable for dealing with occasional communication events.
 - They are also very suitable for temporary online meetings. Because AirPods Pro 2 integrate seamlessly with Apple ecosystem products, the sound is very clear when using Google Meet and Webex paired with the audiogram enhancement.
-  - Also, because Apple uses iCloud to unify Bluetooth pairing information across devices, I can switch between computer and phone at any time. I can join a meeting on my phone, and quickly switch to my phone to go to the restroom.
+  - Also, because Apple uses iCloud to unify Bluetooth pairing information across devices, I can switch between computer and phone at any time. I can keep a meeting going on my phone and quickly step away to the restroom without dropping the call.
 ```
 
 ## Scenario Two: Exercise
 
 * This was a scenario I didn't think of before buying, but it is surprisingly practical.
 * Existing hearing aids are not waterproof or sweatproof. Once the weather is humid and stuffy or there is too much sweat, they easily get damp and emit abnormal sounds, which also affects the lifespan of the parts.
-* There are special waterproof hearing aids, but they are expensively priced.
-* But I still want to maintain normal social exercise habits.
+* There are special waterproof hearing aids, but they are expensive.
+* But I still want to keep up my usual social and exercise routines.
 * Because AirPods Pro 2 have a certain degree of water and sweat resistance, combined with the audiogram enhancement, I can maintain minimum daily communication during exercise.
 * I now use them temporarily at regular badminton gatherings, making them effectively a second, cheap, temporary pair of hearing aids.
   + The danger is that if they drop during high-intensity movements and get stepped on, they're done for.
@@ -85,7 +85,7 @@ I didn't expect that trying them would feel like discovering many new worlds.
 ## Scenario Three: Audio/Video Entertainment
 
 * AirPods Pro 2 support Spatial Audio. Paired with online streaming like Netflix and Apple TV, the 3D immersion is very strong.
-* The sound information provided by existing hearing aids fails to clearly convey the directional sense of speakers, but wearing AirPods Pro makes it very clear.
+* The sound information provided by existing hearing aids fails to clearly convey the directionality of sounds coming from speakers, but wearing AirPods Pro makes it very clear.
 
 ## Scenario Four: Sleep Use
 

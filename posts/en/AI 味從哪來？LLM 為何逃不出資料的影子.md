@@ -2,7 +2,7 @@
 locale: en
 translation_status: translated
 translation_id: "posts/AI 味從哪來？LLM 為何逃不出資料的影子"
-title: Where Does the AI Taste Come From? Why LLMs Cannot Escape the Shadow of Data
+title: Where Does the AI Flavor Come From? Why LLMs Cannot Escape the Shadow of Data
 slug: ai-taste-llm-data-shadow
 published_at: '2026-03-18'
 tags:
@@ -24,13 +24,13 @@ Let's start from some contexts of earlier digital tools. In fact, many convenien
 
 Additionally, Spotify playlists, recommended video channels on YouTube, and social media posts collect numerous quantified features, feed them into models for probabilistic predictions of associations, and continuously reinforce training through the user's own feedback, thus increasingly converging on the user's preferences.
 
-But this context introduces some potential problems. Have you ever thought about why echo chambers emerge so easily? Because this pattern of predicting associations tends to reinforce the more superficial, visible patterns. The less probable and numerically unlikely ones will be pushed further away by this system. Projecting this onto reality a bit more, it makes it harder to come into contact with groups that have different traits and surface preferences than you do—unless you more proactively explore.
+But this context introduces some potential problems. Have you ever thought about why echo chambers emerge so easily? Because this pattern of predicting associations tends to reinforce the more superficial, visible patterns. The less probable and numerically unlikely ones will be pushed further away by this system. Projecting this onto reality a bit more, it makes it harder to come into contact with groups that have different traits and surface preferences than you do—unless you explore more proactively.
 
 ## The Essence of LLMs: Predicting the Next Data Fragment
 
 My abilities are relatively weak, so I cannot fully explain the principles from the underlying attention mechanism of LLMs, but the mechanism of LLMs can essentially be thought of as: training a model from all recorded data since human civilization began to predict the most likely next data fragment.
 
-As for the strength of its predictive capabilities, how it aligns with human preferences, how to effectively utilize hardware resources, how to control the input data length during prediction so it attenuates as little as possible, and how the importance fluctuates—these depend on the tuning capabilities of different models. It even includes dividing the data processing pipeline into multiple steps, rather than having a single model output it all at once. Quantitative changes bring about qualitative changes, which is why current LLMs can provide answers so close to humans.
+As for the strength of its predictive capabilities, how it aligns with human preferences, how to effectively utilize hardware resources, how to control the input data length during prediction so that it degrades as little as possible, and how the importance fluctuates—these depend on the tuning capabilities of different models. It even includes dividing the data processing pipeline into multiple steps, rather than having a single model output it all at once. Quantitative changes bring about qualitative changes, which is why current LLMs can provide answers so close to humans.
 
 ## The Curse of Correlation
 
@@ -40,7 +40,7 @@ I call this phenomenon the "Curse of Correlation."
 
 When New Phonetic (Bopomofo) or other predictive input methods emerged, the language used by humans actually underwent a filtering process, becoming more aligned with input method predictions for efficiency, with fewer complex textual variants, rare vocabulary, or newly coined words intended for creative atmospheres.
 
-So, without carefully designed Prompts and prompt words integrating human thoughts, are LLM creations and outputs somewhat more prone to having an "AI taste," following the same logic as the common vocabulary and texts of input methods? Because, essentially, they are both just predicting the most probable, maximum likelihood, and most likely scenario given the current context across all existing data.
+So, without carefully designed Prompts and prompt words integrating human thoughts, are LLM creations and outputs somewhat more prone to having an "AI taste," following the same logic as the common vocabulary and texts of input methods? Because, essentially, they are both just predicting the single most probable scenario given the current context across all existing data.
 
 ## The Shadow of Humanity
 

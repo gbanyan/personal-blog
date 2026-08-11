@@ -23,7 +23,7 @@ hero: homelab
 
 ## Summary
 This is a home HomeLab architecture composed of Proxmox VE + VyOS + TrueNAS SCALE + Oracle Cloud, with the core goals being security, backup, and self-hosted services.  
-I handle network tiering, storage redundancy, and service operations separately, allowing daily use, off-site backup, and external network access to all be taken into account.  
+I handle network tiering, storage redundancy, and service operations separately, allowing daily use, off-site backup, and external network access are all covered.  
 In practice, maintainability and risk management are prioritized, using CLI / automation scripts to replace manual GUI operations as much as possible.
 
 ## Global Architecture Diagram
@@ -70,12 +70,12 @@ flowchart LR
 ```
 
 ## Use Cases
-* Self-hosted services, such as ad DNS block, smart home, multimedia music, photo albums, code repos, password vaults, and others
+* Self-hosted services, such as ad-blocking DNS, smart home, multimedia music, photo albums, code repos, password vaults, and others
 * Backup relay station
 * Temporary external network file sharing area, avoiding the risk of logging into sensitive accounts like Google Drive or Microsoft OneDrive on outside computers
 * Intranet Samba sharing service
 * Other processes that need to run long-term and are unsuitable for keeping a desktop PC on for long periods, increasing power consumption, such as web scraping, downloading, etc.
-* Some people doing self-hosting will also play around with tracking dramas, anime, automatic video organization, etc., but I really don't have the time to watch that much multimedia; I feel like Netflix alone is enough for me ~~even though I think its translation quality is quite something~~
+* Some people doing self-hosting will also play around with binge-watching dramas and keeping up with anime, automatic video organization, etc., but I really don't have the time to watch that much multimedia; I feel like Netflix alone is enough for me ~~even though I think its translation quality is quite something~~
 ## Architecture
 * Proxmox VE
 	* Hardware: 

@@ -25,7 +25,7 @@ After many years, the Things development team has finally updated the Things App
 
 ## First Impressions of Things 3: Clean, Elegant, Simple
 
-The word "appearance" is quite popular lately, and without a doubt, at first glance, the interface of Things 3—with its understated light gray background and simple two-column sidebar design—won me over completely. The official documentation is directly crafted as a to-do list; when you want to explore and learn, you can simply click and read.
+A trendy term these days is "good looks", and without a doubt, at first glance, the interface of Things 3—with its understated light gray background and simple two-column sidebar design—won me over completely. The official documentation is directly crafted as a to-do list; when you want to explore and learn, you can simply click and read.
 
 My requirements for productivity tools mainly cover a few aspects: organized readability, comprehensive keyboard shortcut support, a clean and fluid operational workflow, and ideally, support for extensions/integrations to work alongside other tools. In terms of readability, Things 3 utilizes simple animations and color layering effects to create a comfortable user experience.
 
