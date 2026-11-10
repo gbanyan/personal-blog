@@ -19,6 +19,7 @@ nav_category: device
 nav_label: HomeLab
 icon: server
 hero: homelab
+layout: device
 ---
 
 ## Summary
